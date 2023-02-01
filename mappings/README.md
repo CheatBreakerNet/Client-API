@@ -26,7 +26,7 @@ In addition to the data that you will need to provide in your `metadata.json`, y
 
 ## Backgrounds
 
-Servers are also required to provide background images, you will need to upload a `.png` version of the primary background (774x363 `primarybackground.png`) and a secondary background (447x172 `secondarybackground.png`) into the same folder as your `metadata.json`. Images should represent either the artistic style or the content of the server. Backgrounds should be free of marketing, text, and/or any logos (on the primary background) (that isn't part of a build).
+**Partnered servers** are also required to provide background images, you will need to upload a `.png` version of the primary background (774x363 `primarybackground.png`) and a secondary background (447x172 `secondarybackground.png`) into the same folder as your `metadata.json`. Images should represent either the artistic style or the content of the server. Backgrounds should be free of marketing, text, and/or any logos (on the primary background) (that isn't part of a build).
 
 ## Regions
 
