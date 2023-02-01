@@ -6,9 +6,6 @@ on:
     - master
     paths-ignore:
     - 'mappings/index.json'
-  pull_request:
-    branches:
-    - master
   workflow_dispatch:
 
 jobs:
@@ -60,7 +57,7 @@ jobs:
 
     needs: servers
 
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
 
     steps:
     # Prepare the working dir

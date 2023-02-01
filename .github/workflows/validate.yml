@@ -1,0 +1,38 @@
+name: Validate
+
+on:
+  pull_request:
+    types: [submitted]
+
+jobs:
+  servers:
+    if: github.event.review.state == 'approved'
+  
+    runs-on: ubuntu-latest
+
+    steps:
+      # Prepare the working dir
+      - name: Clear any existing files
+        run: rm -rf *
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT }}
+
+      # Install Python
+      - name: Setup Python 3.9
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Python dependencies
+        run: pip install -r mappings/scripts/requirements.txt
+
+      # Validate servers
+      - name: Validate Servers
+        run: |
+          cd mappings
+          python scripts/validate.py --servers_dir servers --metadata_schema metadata.schema.json --inactive_file inactive.json --inactive_schema inactive.schema.json
+        env:
+          PR_ID: ${{ github.event.pull_request.number }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USE_ARGS: "true"
