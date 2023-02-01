@@ -1,0 +1,35 @@
+{
+    "id": "veltpvpnetwork",
+    "name": "VeltPvP",
+    "description": "The ultimate PvP experience",
+    "addresses": [
+        "veltpvp.com"
+    ],
+    "primaryAddress": "veltpvp.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "primaryColor": "#343f9f",
+    "secondaryColor": "#8c2121",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "website": "https://veltpvp.com/",
+    "store": "https://store.veltpvp.com/",
+    "socials": {
+        "twitter": "VeltPvP",
+        "discord": "https://discord.gg/Velt",
+        "telegram": "VeltUpdates"
+    }
+}

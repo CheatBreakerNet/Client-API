@@ -1,0 +1,36 @@
+name: Ping Servers
+
+on:
+  push:
+    branches:
+    - master
+    paths-ignore:
+    - 'mappings/index.json'
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  ping-servers:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Prepare the working dir
+      - name: Clear any existing files
+        run: rm -rf *
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT }}
+
+      - name: Setup Python 3.9
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Python dependencies
+        run: pip install -r mappings/scripts/requirements.txt
+
+      - name: Validate Server Status
+        run: |
+          cd mappings
+          python3 scripts/validate_status.py --servers_dir servers --inactive_file inactive.json

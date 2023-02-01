@@ -1,0 +1,11 @@
+{
+    "server1": {
+        "id": "coldnetwork"
+    },
+    "server2": {
+        "id": "hypixelnetwork"
+    },
+    "server3": {
+        "id": "veltpvpnetwork"
+    }
+}

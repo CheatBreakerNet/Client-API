@@ -1,0 +1,174 @@
+[
+    {
+        "id": "coldnetwork",
+        "name": "Cold Network",
+        "description": "The home of European PvP",
+        "addresses": [
+            "coldnetwork.net",
+            "coldpvp.com"
+        ],
+        "primaryAddress": "play.coldnetwork.net",
+        "minecraftVersions": [
+            "1.7.10",
+            "1.7",
+            "1.8.9",
+            "1.8"
+        ],
+        "primaryMinecraftVersion": "1.7.10",
+        "primaryColor": "#0da1de",
+        "secondaryColor": "#081723",
+        "primaryLanguage": "en",
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "primaryRegion": "EU",
+        "regions": [
+            "EU",
+            "SA"
+        ],
+        "gameTypes": [
+            "PvP",
+            "Minigames"
+        ],
+        "website": "https://coldnetwork.net/",
+        "store": "https://store.coldnetwork.net/",
+        "socials": {
+            "twitter": "coldnetworknet",
+            "discord": "https://discord.com/invite/NX9U5ZR",
+            "youtube": "coldnetworknet"
+        },
+        "inactive": false
+    },
+    {
+        "id": "goldenpvpnetwork",
+        "name": "GoldenPvP Network",
+        "description": "We're the home of classic PvP gamemodes",
+        "addresses": [
+            "goldenpvp.net",
+            "smp.goldenpvp.net"
+        ],
+        "primaryAddress": "goldenpvp.net",
+        "minecraftVersions": [
+            "1.7.10",
+            "1.7",
+            "1.8.9",
+            "1.8"
+        ],
+        "primaryMinecraftVersion": "1.7.10",
+        "primaryColor": "#F8A007",
+        "secondaryColor": "#AE8742",
+        "primaryLanguage": "en",
+        "languages": [
+            "en"
+        ],
+        "primaryRegion": "EU",
+        "regions": [
+            "EU"
+        ],
+        "gameTypes": [
+            "PvP"
+        ],
+        "website": "https://goldenpvp.net",
+        "socials": {
+            "twitter": "GoldenPvPNet"
+        },
+        "inactive": false
+    },
+    {
+        "id": "hypixelnetwork",
+        "name": "Hypixel",
+        "description": "The home of minigames",
+        "addresses": [
+            "hypixel.net"
+        ],
+        "primaryAddress": "mc.hypixel.net",
+        "minecraftVersions": [
+            "1.8.9",
+            "1.8"
+        ],
+        "primaryMinecraftVersion": "1.8.9",
+        "primaryColor": "#ecb94f",
+        "secondaryColor": "#372826",
+        "primaryLanguage": "en",
+        "languages": [
+            "en",
+            "es-EN",
+            "it",
+            "tr",
+            "ar",
+            "zh-CN",
+            "nl",
+            "fr",
+            "de",
+            "el",
+            "ja",
+            "ko",
+            "lt",
+            "no",
+            "pl",
+            "pt-PT",
+            "pt-BR",
+            "sv-SE"
+        ],
+        "primaryRegion": "NA",
+        "regions": [
+            "NA"
+        ],
+        "gameTypes": [
+            "Minigames",
+            "PvP",
+            "SkyBlock"
+        ],
+        "website": "https://hypixel.net/",
+        "store": "https://store.hypixel.net/",
+        "socials": {
+            "twitter": "HypixelNetwork",
+            "discord": "https://discord.com/invite/Hypixel",
+            "youtube": "Hypixel",
+            "instagram": "hypixelofficial",
+            "reddit": "hypixel",
+            "tiktok": "hypixel",
+            "facebook": "Hypixel"
+        },
+        "inactive": false
+    },
+    {
+        "id": "veltpvpnetwork",
+        "name": "VeltPvP",
+        "description": "The ultimate PvP experience",
+        "addresses": [
+            "veltpvp.com"
+        ],
+        "primaryAddress": "veltpvp.com",
+        "minecraftVersions": [
+            "1.7.10",
+            "1.7",
+            "1.8.9",
+            "1.8"
+        ],
+        "primaryMinecraftVersion": "1.7.10",
+        "primaryColor": "#343f9f",
+        "secondaryColor": "#8c2121",
+        "primaryLanguage": "en",
+        "languages": [
+            "en"
+        ],
+        "primaryRegion": "NA",
+        "regions": [
+            "NA"
+        ],
+        "gameTypes": [
+            "HCF",
+            "PvP"
+        ],
+        "website": "https://veltpvp.com/",
+        "store": "https://store.veltpvp.com/",
+        "socials": {
+            "twitter": "VeltPvP",
+            "discord": "https://discord.gg/Velt",
+            "telegram": "VeltUpdates"
+        },
+        "inactive": false
+    }
+]

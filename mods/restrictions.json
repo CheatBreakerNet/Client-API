@@ -1,0 +1,46 @@
+[
+
+    {
+        "id": "ToggleSprint",
+        "restrictedOptions": [
+            "Sneak In Container"
+        ],
+        "restrictedMessage": "Sneak in containers is disabled.",
+        "restrictedServerMappingIDs": [
+            "hypixel"
+        ],
+        "restrictedAddresses": [
+            "ilovecatgirls.xyz",
+            "hypixel.net",
+            "bypassed.noxiuam.cc"
+        ]
+    },
+    {
+        "id": "Perspective",
+        "restrictedOptions": [
+            "Damage affects camera"
+        ],
+        "restrictedMessage": "Drag to Look is disabled.\nDamage affects camera is enabled.",
+        "restrictedServerMappingIDs": [
+            "hypixel"
+        ],
+        "restrictedAddresses": [
+            "ilovecatgirls.xyz",
+            "hypixel.net",
+            "bypassed.noxiuam.cc"
+        ]
+    },
+    {
+        "id": "Auto Text",
+        "restrictedMessage": "AUTOMATIC",
+        "restrictedServerMappingIDs": [
+            "hypixel"
+        ],
+        "restrictedAddresses": [
+            "ilovecatgirls.xyz",
+            "hypixel.net",
+            "bypassed.noxiuam.cc"
+        ]
+    }
+
+]
