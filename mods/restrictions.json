@@ -7,7 +7,7 @@
         ],
         "restrictedMessage": "Sneak in containers is disabled.",
         "restrictedServerMappingIDs": [
-            "hypixel"
+            "hypixelnetwork"
         ],
         "restrictedAddresses": [
             "ilovecatgirls.xyz",
@@ -21,7 +21,7 @@
         ],
         "restrictedMessage": "Drag to Look is disabled.\nDamage affects camera is enabled.",
         "restrictedServerMappingIDs": [
-            "hypixel"
+            "hypixelnetwork"
         ],
         "restrictedAddresses": [
             "ilovecatgirls.xyz",
@@ -32,7 +32,7 @@
         "id": "Auto Text",
         "restrictedMessage": "AUTOMATIC",
         "restrictedServerMappingIDs": [
-            "hypixel"
+            "hypixelnetwork"
         ],
         "restrictedAddresses": [
             "ilovecatgirls.xyz",
