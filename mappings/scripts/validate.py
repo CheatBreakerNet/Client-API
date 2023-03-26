@@ -4,7 +4,7 @@ import jsonschema
 import os
 import requests
 
-from utils import get_all_servers, validate_logo, validate_primary_background, validate_icon, validate_secondary_background
+from utils import get_all_servers, validate_logo, validate_discord_logo, validate_primary_background, validate_icon, validate_secondary_background
 
 
 def post_comment(messages: dict):
@@ -145,24 +145,27 @@ def check_media(args: argparse.Namespace, current_errors: dict) -> dict:
         # Paths
         icon_path = f'{args.servers_dir}/{server_id}/icon.png'
         logo_path = f'{args.servers_dir}/{server_id}/logo.png'
+        discord_logo_path = f'{args.servers_dir}/{server_id}/discord.png'
         primary_background_path = f'{args.servers_dir}/{server_id}/primarybackground.png'
         secondary_background_path = f'{args.servers_dir}/{server_id}/secondarybackground.png'
 
         icon_errors = validate_icon(icon_path, server_name)
         logo_errors = validate_logo(logo_path, server_name)
+        discord_logo_errors = validate_discord_logo(discord_logo_path, server_name)
         primary_background_errors = validate_primary_background(primary_background_path, server_name)
         secondary_background_errors = validate_secondary_background(secondary_background_path, server_name)
 
         print(f'Validated {server_name}\'s media.')
 
         # if there are no errors for all of the above skip
-        if all(len(errors) == 0 for errors in [icon_errors, logo_errors, primary_background_errors, secondary_background_errors]):
+        if all(len(errors) == 0 for errors in [icon_errors, logo_errors, discord_logo_errors, primary_background_errors, secondary_background_errors]):
             continue
 
         if server_id not in current_errors:
             current_errors[server_id] = []
         current_errors[server_id] += primary_background_errors
         current_errors[server_id] += secondary_background_errors
+        current_errors[server_id] += discord_logo_errors
         current_errors[server_id] += logo_errors
         current_errors[server_id] += icon_errors
 

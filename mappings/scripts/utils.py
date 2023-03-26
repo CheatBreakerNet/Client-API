@@ -117,6 +117,39 @@ def validate_logo(path, server_name) -> list:
 
     return errors
 
+'''
+Validate that server Discord logo meets the following requirements:
+  * exists in logos folder
+  * is a PNG
+  * is 512x512 or more (up to 1024x1024)
+'''
+def validate_discord_logo(path, server_name) -> list:
+    # Check image exists
+
+    if not os.path.isfile(path):
+        return [
+            f'{server_name}\'s server Discord logo does not exist... Please ensure the file name matches the server ID and is a PNG.']
+
+    errors = []
+    logo_image = image.open(path)
+
+    # Check image format is a PNG
+    if logo_image.format not in ['PNG']:
+        errors.append(
+            f'{server_name}\'s server Discord logo is not a PNG (currently {logo_image.format})... Please ensure the image meets the requirements before proceeding.')
+
+    # Check image dimensions are a 1:1 ratio
+    if logo_image.width != logo_image.height:
+        errors.append(
+            f'{server_name}\'s server Discord logo does not have a 1:1 aspect ratio... Please ensure the image meets the requirements before proceeding.')
+
+    # Check image dimensions are 512x512 or more (up to 1024x1024)
+    if (logo_image.width < 512) or (logo_image.height < 512) or (logo_image.width > 1024) or (logo_image.height > 1024):
+        errors.append(
+            f'{server_name}\'s server Discord logo resolution is not 512x512 or more (up to 1024x1024)... Please ensure the image meets the requirements before proceeding.')
+
+    return errors
+
 
 '''
 Validate that server primary background meets the following requirements:
