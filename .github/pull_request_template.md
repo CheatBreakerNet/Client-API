@@ -51,6 +51,13 @@
 * [ ] My logo is `108` pixels in width and height.
 * [ ] My logo is my own property and complies with relevant copyright/privacy laws.
 
+#### Discord Logo
+* [ ] My logo is a `png` file.
+* [ ] I have uploaded my logo to my server folder *(ex. `goldenpvpnetwork`)* and named it `discord.png`.
+* [ ] My logo has a transparent background and is square (1:1 aspect ratio).
+* [ ] My logo is between `512` and `1024` pixels in width and height.
+* [ ] My logo is my own property and complies with relevant copyright/privacy laws.
+
 #### Primary Background (Only required for partnered servers)
 * [ ] My primary background is a `png` file.
 * [ ] I have uploaded my primary background to my server folder *(ex. `goldenpvpnetwork`)* and named it `primarybackground.png`.
