@@ -22,7 +22,7 @@ If your server supports all of the subversions within a major version, you can l
 
 ## Logos
 
-In addition to the data that you will need to provide in your `metadata.json`, you will need to upload a `.png` version of your logo (108x108 `logo.png`), a server icon (64x64 `icon.png`) and a Discord logo (between 512x512 & 1024x1024 `discord.png`) into the same folder. All images are to be _transparent_.
+In addition to the data that you will need to provide in your `metadata.json`, you will need to upload a `.png` version of your logo (108x108 `logo.png`), a server icon (64x64 `icon.png`) and a Discord logo (between 512x512 & 1024x1024 `discord.png`) into the same folder. All images are to be _transparent_, with the exception of the Discord logo, which can have a background.
 
 ## Backgrounds
 
