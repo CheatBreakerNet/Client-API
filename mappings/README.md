@@ -8,6 +8,8 @@ This is a public mapping of server IPs <-> a pretty display name. This data is u
 
 Each server in this repository is represented by a folder with an accompanying `metadata.json`, `logo.png`, `icon.png`, `primarybackground.png` and `secondarybackground.png`. Open a [pull request](https://github.com/Offline-CheatBreaker/Client-API/pulls) in this repository whilst following the steps below, and we'll review it as soon as possible. Once merged, Offline CheatBreaker's services will update over the next 5 minutes (depending on when the cache resets). Check out `metadata.example.json` as an example of how to structure your metadata file.
 
+**Note: Do not modify any other repository files! All your edits must be inside your server's folder.**
+
 ## IP Addresses
 
 The `addresses` array in each server object is actually an array of IP _suffixes_. For example, `"addresses": ["goldenpvp.net", "other.domain"]` will match `goldenpvp.net`, `na.goldenpvp.net`, `play.other.domain`, and so on. The `primaryAddress` field is where you can include the desired subdomain (`na.goldenpvp.net`, `play.goldenpvp.net`) for users to connect to your server on and is required to be resolvable. This primary address will be used to ensure that the server remains online and active.
