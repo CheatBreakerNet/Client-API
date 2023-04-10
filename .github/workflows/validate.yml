@@ -6,6 +6,8 @@ on:
 
 jobs:
   validate-servers:
+    name: Validate Servers
+    
     if: github.event.review.state == 'approved'
   
     runs-on: ubuntu-latest
