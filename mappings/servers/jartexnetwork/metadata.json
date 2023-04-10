@@ -1,0 +1,39 @@
+{
+    "id": "jartexnetwork",
+    "name": "JartexNetwork",
+    "description": "JartexNetwork is one of the largest Minecraft free servers!",
+    "addresses": [
+        "jartexnetwork.com",
+        "play.jartexnetwork.com",
+        "jartex.fun"
+    ],
+    "primaryAddress": "play.jartexnetwork.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#feca0c",
+    "secondaryColor": "#1d1d28",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Factions",
+        "Minigames",
+        "Skyblock",
+        "Survival",
+        "Prison"
+    ],
+    "website": "https://jartexnetwork.com/",
+    "store": "https://store.jartexnetwork.com/",
+    "socials": {
+        "twitter": "JartexNetwork",
+        "discord": "https://jartexnetwork.com/discord"
+    }
+}
