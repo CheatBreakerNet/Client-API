@@ -1,0 +1,36 @@
+{
+    "id": "cobranetwork",
+    "name": "Cobra Network",
+    "description": "Home to Cobra Custom Teams",
+    "addresses": [
+        "cobra.gg"
+    ],
+    "primaryAddress": "cobra.gg",
+    "minecraftVersions": [
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#0b2749",
+    "secondaryColor": "#fcfcfe",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://cobra.gg/",
+    "store": "https://store.cobra.gg/",
+    "socials": {
+        "twitter": "PlayCobraGG",
+        "discord": "https://discord.com/invite/cobra",
+        "youtube": "UCG7twdejAK05CBV_Q4_JwXQ",
+        "instagram": "cobradotgg",
+        "telegram": "playcobragg",
+        "tiktok": "playcobragg"
+    }
+}
