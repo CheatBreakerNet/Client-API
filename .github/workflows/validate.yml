@@ -5,7 +5,7 @@ on:
     types: [submitted]
 
 jobs:
-  servers:
+  validate-servers:
     if: github.event.review.state == 'approved'
   
     runs-on: ubuntu-latest
