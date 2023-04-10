@@ -22,11 +22,8 @@
         "EU"
     ],
     "gameTypes": [
-        "PvP",
         "Factions",
-        "Minigames",
-        "Skyblock",
-        "Survival",
+        "SkyBlock",
         "Prison"
     ],
     "website": "https://jartexnetwork.com/",
