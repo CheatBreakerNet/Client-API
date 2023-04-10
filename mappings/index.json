@@ -134,6 +134,46 @@
         "inactive": false
     },
     {
+        "id": "jartexnetwork",
+        "name": "JartexNetwork",
+        "description": "JartexNetwork is one of the largest Minecraft cracked servers!",
+        "addresses": [
+            "jartexnetwork.com",
+            "jartex.fun"
+        ],
+        "primaryAddress": "play.jartexnetwork.com",
+        "minecraftVersions": [
+            "1.8.9",
+            "1.8"
+        ],
+        "primaryMinecraftVersion": "1.8.9",
+        "primaryColor": "#feca0c",
+        "secondaryColor": "#1d1d28",
+        "primaryLanguage": "en",
+        "languages": [
+            "en"
+        ],
+        "primaryRegion": "EU",
+        "regions": [
+            "EU"
+        ],
+        "gameTypes": [
+            "PvP",
+            "Factions",
+            "Minigames",
+            "Skyblock",
+            "Survival",
+            "Prison"
+        ],
+        "website": "https://jartexnetwork.com/",
+        "store": "https://store.jartexnetwork.com/",
+        "socials": {
+            "twitter": "JartexNetwork",
+            "discord": "https://jartexnetwork.com/discord"
+        },
+        "inactive": false
+    },
+    {
         "id": "minemenclub",
         "name": "Minemen Club",
         "description": "Practice server for competitive and casual players",
@@ -176,6 +216,45 @@
             "twitter": "minemen_network",
             "discord": "https://discord.com/invite/4gfk48gv9z",
             "reddit": "MinemenClub"
+        },
+        "inactive": false
+    },
+    {
+        "id": "pikanetwork",
+        "name": "PikaNetwork",
+        "description": "PikaNetwork is one of the largest Minecraft cracked servers!",
+        "addresses": [
+            "pika-network.net"
+        ],
+        "primaryAddress": "play.pika-network.net",
+        "minecraftVersions": [
+            "1.8.9",
+            "1.8"
+        ],
+        "primaryMinecraftVersion": "1.8.9",
+        "primaryColor": "#fceb38",
+        "secondaryColor": "#4e11d1",
+        "primaryLanguage": "en",
+        "languages": [
+            "en"
+        ],
+        "primaryRegion": "EU",
+        "regions": [
+            "EU"
+        ],
+        "gameTypes": [
+            "PvP",
+            "Factions",
+            "Minigames",
+            "Skyblock",
+            "Survival",
+            "Prison"
+        ],
+        "website": "https://pika-network.net",
+        "store": "https://store.pika-network.net",
+        "socials": {
+            "twitter": "PikaNetworkMC",
+            "discord": "https://pika-network.net/discord"
         },
         "inactive": false
     },
