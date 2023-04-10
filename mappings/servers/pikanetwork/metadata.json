@@ -1,0 +1,37 @@
+{
+    "id": "pikanetwork",
+    "name": "PikaNetwork",
+    "description": "PikaNetwork is one of the largest Minecraft cracked servers!",
+    "addresses": [
+        "pika-network.net",
+    ],
+    "primaryAddress": "play.pika-network.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fceb38",
+    "secondaryColor": "#4e11d1",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Factions",
+        "Minigames",
+        "Skyblock",
+        "Survival",
+        "Prison"
+    ],
+    "website": "https://pika-network.net",
+    "store": "https://store.pika-network.net",
+    "socials": {
+        "twitter": "PikaNetworkMC",
+        "discord": "https://pika-network.net/discord"
+    }
+}
