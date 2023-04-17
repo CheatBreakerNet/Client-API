@@ -19,7 +19,7 @@ def post_comment(messages: dict):
             continue
         comment += f"\n\nErrors found for **{server_id}**:\n- " + "\n- ".join(errors)
     requests.post(
-        f"https://api.github.com/repos/Offline-CheatBreaker/Client-API/pulls/{pull_id}/reviews",
+        f"https://api.github.com/repos/CheatBreakerNet/Client-API/pulls/{pull_id}/reviews",
         json={'body': comment, 'event': 'REQUEST_CHANGES'},
         headers={'Accept': 'application/vnd.github.v3+json', 'Authorization': f"Token {os.getenv('GITHUB_TOKEN')}"}
     )
@@ -125,7 +125,7 @@ def check_metadata(args: argparse.Namespace) -> dict:
                 elif error.validator == "required":
                     val = error.message.split("'")
                     messages[server_id].append(
-                        f"`{val[1]}` is required but wasn't found. Please review the [README](https://github.com/Offline-CheatBreaker/Client-API/blob/master/servers/README.md).")
+                        f"`{val[1]}` is required but wasn't found. Please review the [README](https://github.com/CheatBreakerNet/Client-API/blob/master/servers/README.md).")
                 else:  # If the error isn't defined above show the message.
                     messages[server_id].append(error.message)
 
@@ -201,7 +201,7 @@ if __name__ == '__main__':
         pull_id = os.getenv('PR_ID')
         if pull_id:
             requests.post(
-                f"https://api.github.com/repos/Offline-CheatBreaker/Client-API/issues/{pull_id}/labels",
+                f"https://api.github.com/repos/CheatBreakerNet/Client-API/issues/{pull_id}/labels",
                 json={'labels': ["Ready for review"]},
                 headers={'Accept': 'application/vnd.github+json',
                          'Authorization': f"Bearer {os.getenv('GITHUB_TOKEN')}"}
@@ -212,7 +212,7 @@ if __name__ == '__main__':
         if pull_id:
             # Remove previously added labels
             requests.post(
-                f"https://api.github.com/repos/Offline-CheatBreaker/Client-API/issues/{pull_id}/labels",
+                f"https://api.github.com/repos/CheatBreakerNet/Client-API/issues/{pull_id}/labels",
                 json={'labels': []},
                 headers={'Accept': 'application/vnd.github+json',
                             'Authorization': f"Bearer {os.getenv('GITHUB_TOKEN')}"}

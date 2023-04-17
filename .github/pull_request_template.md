@@ -8,15 +8,15 @@
 * [ ] There are no syntax errors.
 * [ ] There is no pre-existing mapping matching my id (check if there is an existing folder).
 * [ ] My field values match your requirements.
-* You can view our patterns here: [metadata.schema.json](https://github.com/Offline-CheatBreaker/Client-API/blob/master/mappings/metadata.schema.json), or take a look below and complete the field checklist:
+* You can view our patterns here: [metadata.schema.json](https://github.com/CheatBreakerNet/Client-API/blob/master/mappings/metadata.schema.json), or take a look below and complete the field checklist:
   - [ ] `id`: a lowercase string, which should match the folder name *(ex. `goldenpvpnetwork`)*
   - [ ] `name`: a string *(ex. `GoldenPvP Network`)*
   - [ ] `description`: hook between 16 and 40 characters *(ex. `We're the home of classic PvP gamemodes`)* 
   - [ ] `addresses`: an array with lowercase strings *(ex. `["goldenpvp.net", "routing.center"]`)*
-    - You do not need to specify subdomains, Offline CheatBreaker services automatically detect them.
+    - You do not need to specify subdomains, CheatBreaker services automatically detect them.
   - [ ] `primaryAddress`: the primary address that people connect to with (please include the subdomain if required) *(ex. `mc.goldenpvp.net`)*
-  - [ ] `minecraftVersions`: an array with Minecraft versions as strings *(ex. `["1.7.*", "1.8.9"]` - Must be versions or subversions supported by Offline CheatBreaker)*
-  - [ ] `primaryMinecraftVersion`: a Minecraft version as a string *(ex. `1.7.10` - Must be a subversion supported by Offline CheatBreaker)*
+  - [ ] `minecraftVersions`: an array with Minecraft versions as strings *(ex. `["1.7.*", "1.8.9"]` - Must be versions or subversions supported by CheatBreaker)*
+  - [ ] `primaryMinecraftVersion`: a Minecraft version as a string *(ex. `1.7.10` - Must be a subversion supported by CheatBreaker)*
   - [ ] `primaryColor`: a hexademical color code that primarily distinguishes the server *(ex. `#00FFFF`)* 
   - [ ] `secondaryColor`: a hexademical color code that accompanies the `primaryColor` of the server *(ex. `#FF0000`)*
   - [ ] `primaryRegion`: the primary region where your server operates in *(ex. `EU`)*

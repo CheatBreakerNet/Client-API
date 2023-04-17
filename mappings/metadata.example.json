@@ -1,7 +1,7 @@
 {
     "id": "goldenpvpnetwork",
     "name": "GoldenPvP Network",
-    "description": "We're providing the infrastructure for Offline CheatBreaker",
+    "description": "We're providing the infrastructure for CheatBreaker",
     "addresses": [
         "goldenpvp.net",
         "smp.goldenpvp.net"
