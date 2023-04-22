@@ -12,10 +12,7 @@
     },
     {
         "id": "Perspective",
-        "restrictedOptions": [
-            "Damage affects camera"
-        ],
-        "restrictedMessage": "Drag to Look is disabled.\nDamage affects camera is enabled.",
+        "restrictedMessage": "Drag to Look is disabled.",
         "restrictedServerMappingIDs": [
             "hypixelnetwork"
         ]
