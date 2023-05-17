@@ -1,0 +1,36 @@
+{
+    "id": "echomc",
+    "name": "EchoMC",
+    "description": "The best kitpvp server in italy",
+    "addresses": [
+        "echomc.it",
+        "play.echomc.it"
+    ],
+    "primaryAddress": "play.echomc.it",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffe100",
+    "secondaryColor": "#f7ab05",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://echomc.it/",
+    "store": "https://store.echomc.it/",
+    "socials": {
+        "twitter": "EchoMC",
+        "discord": "https://discord.echomc.it",
+        "reddit": "EchoMC"
+    }
+}
