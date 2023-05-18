@@ -3,8 +3,7 @@
     "name": "EchoMC",
     "description": "The best KitPVP server in Italy",
     "addresses": [
-        "echomc.it",
-        "play.echomc.it"
+        "echomc.it"
     ],
     "primaryAddress": "play.echomc.it",
     "minecraftVersions": [
