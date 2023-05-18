@@ -1,7 +1,7 @@
 {
     "id": "echomc",
     "name": "EchoMC",
-    "description": "The best kitpvp server in italy",
+    "description": "The best KitPVP server in Italy",
     "addresses": [
         "echomc.it",
         "play.echomc.it"
@@ -26,11 +26,9 @@
         "PvP",
         "Minigames"
     ],
-    "website": "https://echomc.it/",
+    "website": "https://www.echomc.it/",
     "store": "https://store.echomc.it/",
     "socials": {
-        "twitter": "EchoMC",
-        "discord": "https://discord.echomc.it",
-        "reddit": "EchoMC"
+        "discord": "https://discord.echomc.it"
     }
 }
