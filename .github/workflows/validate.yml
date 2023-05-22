@@ -17,8 +17,6 @@ jobs:
       - name: Clear any existing files
         run: rm -rf *
       - uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.PAT }}
 
       # Install Python
       - name: Setup Python 3.9
