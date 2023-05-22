@@ -2,6 +2,7 @@
   "id": "devilmc",
   "name": "DevilMC Network",
   "store": "https://store.devilmc.org/",
+  "description": "Home of the UHC",
   "addresses": [
     "devilmc.org",
   ],
