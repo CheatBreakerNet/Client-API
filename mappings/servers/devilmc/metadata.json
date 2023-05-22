@@ -4,7 +4,7 @@
   "store": "https://store.devilmc.org/",
   "description": "Home of the UHC",
   "addresses": [
-    "devilmc.org",
+    "devilmc.org"
   ],
   "primaryAddress": "devilmc.org",
   "minecraftVersions": [
