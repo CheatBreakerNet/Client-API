@@ -4,10 +4,8 @@
     "description": "Practice Server For Legit player",
     "addresses": [
         "hvbc.club",
-        "na.hvbc.club",
-        "dev.hvbc.club",
     ],
-    "primaryAddress": "na.hvbc.club",
+    "primaryAddress": "hvbc.club",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
