@@ -185,6 +185,39 @@
         "inactive": false
     },
     {
+        "id": "hvbc",
+        "name": "HVBC",
+        "description": "A practice server for legit players",
+        "addresses": [
+            "hvbc.club"
+        ],
+        "primaryAddress": "na.hvbc.club",
+        "minecraftVersions": [
+            "1.7.10",
+            "1.7",
+            "1.8.9",
+            "1.8"
+        ],
+        "primaryMinecraftVersion": "1.7.10",
+        "primaryColor": "#001FFF",
+        "secondaryColor": "#000000",
+        "primaryLanguage": "en",
+        "languages": [
+            "en"
+        ],
+        "primaryRegion": "NA",
+        "regions": [
+            "NA"
+        ],
+        "gameTypes": [
+            "PvP"
+        ],
+        "socials": {
+            "discord": "https://discord.gg/hvbc"
+        },
+        "inactive": false
+    },
+    {
         "id": "hypixelnetwork",
         "name": "Hypixel",
         "description": "The home of minigames",
