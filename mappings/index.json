@@ -395,6 +395,106 @@
         "inactive": false
     },
     {
+        "id": "potpvpnetwork",
+        "name": "PotPvP Network",
+        "description": "Competitive Minecraft PvP Network",
+        "addresses": [
+            "potpvp.com"
+        ],
+        "primaryAddress": "potpvp.com",
+        "minecraftVersions": [
+            "1.7.10",
+            "1.8.9"
+        ],
+        "primaryMinecraftVersion": "1.7.10",
+        "primaryColor": "#ec2c2a",
+        "secondaryColor": "#43344c",
+        "primaryLanguage": "en",
+        "languages": [
+            "en"
+        ],
+        "primaryRegion": "NA",
+        "regions": [
+            "NA"
+        ],
+        "gameTypes": [
+            "PvP",
+            "UHC"
+        ],
+        "socials": {
+            "twitter": "PotPvPServer"
+        },
+        "inactive": false
+    },
+    {
+        "id": "protocolnetwork",
+        "name": "Protocol Network",
+        "description": "Where the best players play",
+        "addresses": [
+            "protocol.rip"
+        ],
+        "primaryAddress": "protocol.rip",
+        "minecraftVersions": [
+            "1.7.10",
+            "1.8.9"
+        ],
+        "primaryMinecraftVersion": "1.7.10",
+        "primaryColor": "#f26151",
+        "secondaryColor": "#6a2338",
+        "primaryLanguage": "en",
+        "languages": [
+            "en"
+        ],
+        "primaryRegion": "NA",
+        "regions": [
+            "NA"
+        ],
+        "gameTypes": [
+            "PvP",
+            "HCF",
+            "UHC"
+        ],
+        "website": "https://protocol.rip/",
+        "store": "https://protocol.rip/store/",
+        "socials": {
+            "discord": "https://discord.com/invite/eG2NS9XS"
+        },
+        "inactive": false
+    },
+    {
+        "id": "vanicnetwork",
+        "name": "Vanic Network",
+        "description": "Home of the largest Competitive UHC",
+        "addresses": [
+            "vanic.gg"
+        ],
+        "primaryAddress": "vanic.gg",
+        "minecraftVersions": [
+            "1.7.10",
+            "1.8.9"
+        ],
+        "primaryMinecraftVersion": "1.7.10",
+        "primaryColor": "#6ea3d2",
+        "secondaryColor": "#454545",
+        "primaryLanguage": "en",
+        "languages": [
+            "en"
+        ],
+        "primaryRegion": "NA",
+        "regions": [
+            "NA"
+        ],
+        "gameTypes": [
+            "PvP",
+            "UHC"
+        ],
+        "socials": {
+            "twitter": "vanicfeed",
+            "discord:": "https://discord.gg/vanicmc"
+        },
+        "inactive": false
+    },
+    {
         "id": "veltpvpnetwork",
         "name": "VeltPvP",
         "description": "The ultimate PvP experience",
