@@ -1,0 +1,31 @@
+{
+    "id": "potpvpnetwork",
+    "name": "PotPvP Network",
+    "description": "Competitive Minecraft PvP Network",
+    "addresses": [
+        "potpvp.com"
+    ],
+    "primaryAddress": "potpvp.com",
+    "minecraftVersions": [
+        "1.7.10",
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "primaryColor": "#ec2c2a",
+    "secondaryColor": "#43344c",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC"
+    ],
+    "socials": {
+        "twitter": "PotPvPServer"
+    }
+}

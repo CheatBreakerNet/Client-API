@@ -1,0 +1,34 @@
+{
+    "id": "protocolnetwork",
+    "name": "Protocol Network",
+    "description": "Where the best players play",
+    "addresses": [
+        "protocol.rip"
+    ],
+    "primaryAddress": "protocol.rip",
+    "minecraftVersions": [
+        "1.7.10",
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "primaryColor": "#f26151",
+    "secondaryColor": "#6a2338",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "HCF",
+        "UHC"
+    ],
+    "website": "https://protocol.rip/",
+    "store": "https://protocol.rip/store/",
+    "socials": {
+        "discord": "https://discord.com/invite/eG2NS9XS"
+    }
+}
