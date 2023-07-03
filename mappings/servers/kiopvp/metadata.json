@@ -1,0 +1,35 @@
+{
+    "id": "kiopvp",
+    "name": "KioPvP Network",
+    "description": "The home of PvP",
+    "addresses": [
+        "kiopvp.com"
+    ],
+    "primaryAddress": "kiopvp.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#9d3df6",
+    "secondaryColor": "#80480f",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "store": "https://store.kiopvp.com/",
+    "socials": {
+        "twitter": "kiopvpnetwork",
+        "discord": "https://discord.gg/KgEjg6aMh4",
+        "telegram": "kiopvp"
+    }
+}
