@@ -42,32 +42,32 @@
 * [ ] I have uploaded my icon to my server folder *(ex. `goldenpvpnetwork`)* and named it `icon.png`.
 * [ ] My icon has a transparent background and is square (1:1 aspect ratio).
 * [ ] My icon is `64` pixels in width and height.
-* [ ] My icon is my own property and complies with relevant copyright/privacy laws.
+* [ ] My icon is my own/the server's property and complies with relevant copyright/privacy laws.
 
 #### Logo
 * [ ] My logo is a `png` file.
 * [ ] I have uploaded my logo to my server folder *(ex. `goldenpvpnetwork`)* and named it `logo.png`.
 * [ ] My logo has a transparent background and is square (1:1 aspect ratio).
 * [ ] My logo is `108` pixels in width and height.
-* [ ] My logo is my own property and complies with relevant copyright/privacy laws.
+* [ ] My logo is my own/the server's property and complies with relevant copyright/privacy laws.
 
 #### Discord Logo
 * [ ] My logo is a `png` file.
 * [ ] I have uploaded my logo to my server folder *(ex. `goldenpvpnetwork`)* and named it `discord.png`.
 * [ ] My logo has a transparent background and is square (1:1 aspect ratio).
 * [ ] My logo is between `512` and `1024` pixels in width and height.
-* [ ] My logo is my own property and complies with relevant copyright/privacy laws.
+* [ ] My logo is my own/the server's property and complies with relevant copyright/privacy laws.
 
 #### Primary Background (Only required for partnered servers)
 * [ ] My primary background is a `png` file.
 * [ ] I have uploaded my primary background to my server folder *(ex. `goldenpvpnetwork`)* and named it `primarybackground.png`.
 * [ ] My primary background is `774` pixels in width and `363` pixels in height.
-* [ ] My primary background contains relevant content pertaining to the server, is my own property, and complies with relevant copyright/privacy laws.
+* [ ] My primary background contains relevant content pertaining to the server, is my own/the server's property, and complies with relevant copyright/privacy laws.
 * [ ] My primary background doesn't contain any markings, text, or logos (unless part of a build).
 
 #### Secondary Background (Only required for partnered servers)
 * [ ] My secondary background is a `png` file.
 * [ ] I have uploaded my secondary background to my server folder *(ex. `goldenpvpnetwork`)* and named it `secondarybackground.png`.
 * [ ] My secondary background is `447` pixels in width and `172` pixels in height.
-* [ ] My secondary background contains relevant content pertaining to the server, is my own property, and complies with relevant copyright/privacy laws.
+* [ ] My secondary background contains relevant content pertaining to the server, is my own/the server's property, and complies with relevant copyright/privacy laws.
 * [ ] My secondary background doesn't contain any markings, text, or logos (unless part of a build).
