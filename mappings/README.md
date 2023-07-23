@@ -55,6 +55,44 @@ We ask that this repository is only used to store mappings for *public* Minecraf
 
 CheatBreaker reserves the right to omit any servers.
 
+## Problematic Enforcement
+
+While this will be rare. If a server is found to be problematic for our userbase, we will add it to the `problematic.json`. The list will go as follows:
+
+### Mark
+
+The server has been deemed problematic, but no further decision has been made yet. If the server continues to be problematic after 7-30 days, the server will then proceed one or more levels as shown below.
+
+### Minor
+
+The server has caused issues with our userbase, but is only for a minor reason. This includes but is not limited to:
+
+- Client crashes from the server
+- API tampering
+- Misinformation directly related to our services
+
+Users will encounter a 10 second, skippable warning prompt upon attempting to join the server.
+
+### Unsafe
+
+The server has been deemed unsafe; however, users will still be allowed to join. Reasons may include:
+
+- Failure to keep playerbase safe from any malicious activity
+- Sensitive data breach. This will only be for one time offensives
+- Extreme lack of rule enforcement from server moderation team.
+
+Users will encounter a 30 second, non skippable warning prompt. The server will also not be promoted on our client Discord RPC, and will instead show that they are playing on an unsafe server.
+
+### Block
+
+The server has been deemed problematic to where we do not feel comfortable allowing users to join the server. Reasons may include:
+
+- Malicious activity from ownership or developers
+- Repeated sensitive data breaches
+- Disallowing CheatBreaker services without any proper communication to us
+
+Users will not be able to join the server through our services.
+
 ## Inactive Server Policy
 
 If a server has closed down or has not been joinable for at least 3 months, we will add it to the `inactive.json`. This just flags our internal systems to not include the server in various place, but still retains all of the branding and other metadata you submit.
