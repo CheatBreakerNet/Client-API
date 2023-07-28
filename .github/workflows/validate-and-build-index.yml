@@ -52,39 +52,3 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Updated the servers index
-  
-  upload:
-
-    needs: servers
-
-    runs-on: ubuntu-latest
-
-    steps:
-    # Prepare the working dir
-      - name: Clear any existing files
-        run: rm -rf *
-
-    # Download & connect to the CloudFlare Tunnel
-      - name: Download & setup CloudFlare Tunnel
-        run: |
-          curl -L --output cloudflared.deb https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64.deb
-
-          sudo dpkg -i cloudflared.deb
-
-          mkdir -p ~/.ssh
-
-          echo -e "Host ${{ secrets.SSH_URL }}\n\tProxyCommand /usr/local/bin/cloudflared access ssh --hostname ${{ secrets.SSH_URL }} --id ${{ secrets.TUNNEL_ACCESS }} --secret ${{ secrets.TUNNEL_SECRET }}" >> ~/.ssh/config
-
-          sudo apt install sshpass
-
-      # Pull the latest files
-      - name: Pull the latest files
-        run: |
-          sshpass -p ${{ secrets.SSH_PASSWORD }} ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no ${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_URL }} "cd upload && git fetch --all && git reset --hard origin/master"
-    
-    # Clear cache
-      - name: Purge CloudFlare Cache
-        uses: nathanvaughn/actions-cloudflare-purge@master
-        with:
-          cf_zone: ${{ secrets.CLOUDFLARE_ZONE }}
-          cf_auth: ${{ secrets.CLOUDFLARE_TOKEN }}
