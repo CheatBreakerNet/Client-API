@@ -78,6 +78,43 @@
         "inactive": false
     },
     {
+        "id": "craftok",
+        "name": "Craftok",
+        "description": "The French minigames server",
+        "addresses": [
+            "craftok.fr"
+        ],
+        "primaryAddress": "play.craftok.fr",
+        "minecraftVersions": [
+            "1.8.9",
+            "1.8"
+        ],
+        "primaryMinecraftVersion": "1.8.9",
+        "primaryColor": "#55FFFF",
+        "secondaryColor": "#FF5555",
+        "primaryLanguage": "fr",
+        "languages": [
+            "fr"
+        ],
+        "primaryRegion": "EU",
+        "regions": [
+            "EU"
+        ],
+        "gameTypes": [
+            "Minigames",
+            "PvP",
+            "Survival"
+        ],
+        "website": "https://craftok.fr/",
+        "store": "https://shop.craftok.fr/",
+        "socials": {
+            "twitter": "CraftokMC",
+            "discord": "https://discord.com/invite/craftok",
+            "youtube": "UCtUCnFBwGU-9SImfG-R2SvA"
+        },
+        "inactive": false
+    },
+    {
         "id": "devilmc",
         "name": "DevilMC Network",
         "store": "https://store.devilmc.org/",
