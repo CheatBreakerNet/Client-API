@@ -37,6 +37,43 @@
         "inactive": false
     },
     {
+        "id": "bridgerland",
+        "name": "Bridger Land",
+        "description": "The best server to train at bridging",
+        "addresses": [
+            "bridger.land"
+        ],
+        "primaryAddress": "bridger.land",
+        "minecraftVersions": [
+            "1.8.9",
+            "1.8"
+        ],
+        "primaryMinecraftVersion": "1.8.9",
+        "primaryColor": "#55FFFF",
+        "secondaryColor": "#FF5555",
+        "primaryLanguage": "en",
+        "languages": [
+            "en"
+        ],
+        "primaryRegion": "NA",
+        "regions": [
+            "NA",
+            "EU",
+            "AS"
+        ],
+        "gameTypes": [
+            "Minigames"
+        ],
+        "website": "https://bridger.land/",
+        "store": "https://store.bridger.land/",
+        "socials": {
+            "youtube": "UCERl5BIhV4gjbVnQEv80VuQ",
+            "twitter": "Bridger_Land",
+            "discord": "https://discord.com/invite/6TkXDKkejp"
+        },
+        "inactive": false
+    },
+    {
         "id": "cobranetwork",
         "name": "Cobra Network",
         "description": "Home to Cobra Custom Teams",
