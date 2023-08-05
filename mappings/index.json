@@ -6,7 +6,7 @@
         "addresses": [
             "blocksmc.com"
         ],
-        "primaryAddress": "blocksmc.com",
+        "primaryAddress": "play.blocksmc.com",
         "minecraftVersions": [
             "1.8.9",
             "1.8"
@@ -43,14 +43,14 @@
         "addresses": [
             "bridger.land"
         ],
-        "primaryAddress": "bridger.land",
+        "primaryAddress": "mc.bridger.land",
         "minecraftVersions": [
             "1.8.9",
             "1.8"
         ],
         "primaryMinecraftVersion": "1.8.9",
-        "primaryColor": "#55FFFF",
-        "secondaryColor": "#FF5555",
+        "primaryColor": "#F7B204",
+        "secondaryColor": "#9C451F",
         "primaryLanguage": "en",
         "languages": [
             "en"
@@ -62,6 +62,7 @@
             "AS"
         ],
         "gameTypes": [
+            "PvP",
             "Minigames"
         ],
         "website": "https://bridger.land/",
