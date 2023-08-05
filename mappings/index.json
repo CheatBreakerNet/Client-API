@@ -1,5 +1,42 @@
 [
     {
+        "id": "blocksmc",
+        "name": "BlocksMC",
+        "description": "The home of cracked Minecraft players",
+        "addresses": [
+            "blocksmc.com"
+        ],
+        "primaryAddress": "blocksmc.com",
+        "minecraftVersions": [
+            "1.8.9",
+            "1.8"
+        ],
+        "primaryMinecraftVersion": "1.8.9",
+        "primaryColor": "#008fd5",
+        "secondaryColor": "#ffffff",
+        "primaryLanguage": "en",
+        "languages": [
+            "en"
+        ],
+        "primaryRegion": "EU",
+        "regions": [
+            "EU"
+        ],
+        "gameTypes": [
+            "Minigames",
+            "PvP",
+            "UHC"
+        ],
+        "website": "https://blocksmc.com/",
+        "store": "https://blocksmc.com/store",
+        "socials": {
+            "instagram": "BlocksMC",
+            "discord": "https://discord.com/invite/blocksmc",
+            "tiktok": "blocksmctiktok"
+        },
+        "inactive": false
+    },
+    {
         "id": "cobranetwork",
         "name": "Cobra Network",
         "description": "Home to Cobra Custom Teams",
