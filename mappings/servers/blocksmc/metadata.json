@@ -5,7 +5,7 @@
     "addresses": [
         "blocksmc.com"
     ],
-    "primaryAddress": "blocksmc.com",
+    "primaryAddress": "play.blocksmc.com",
     "minecraftVersions": [
         "1.8.*"
     ],
