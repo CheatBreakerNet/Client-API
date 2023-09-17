@@ -1,0 +1,32 @@
+{
+    "id": "dkgames",
+    "name": "DKGames",
+    "description": "Serveur DKGames",
+    "addresses": [
+        "dkgames.fun"
+    ],
+    "primaryAddress": "play.dkgames.fun",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ca6700",
+    "secondaryColor": "#edd711",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://dkgames.fun/",
+    "store": "https://store.dkgames.fun",
+    "socials": {
+        "discord": "https://discord.dkgames.fun/"
+    }
+}
