@@ -2,6 +2,7 @@
     "id": "hypixelnetwork",
     "name": "Hypixel",
     "description": "The home of minigames",
+    "server_brand": "Hypixel BungeeCord \\(.+\\) <- .+",
     "addresses": [
         "hypixel.net"
     ],
