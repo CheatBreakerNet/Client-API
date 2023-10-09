@@ -16,7 +16,7 @@ jobs:
       # Prepare the working dir
       - name: Clear any existing files
         run: rm -rf *
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           token: ${{ secrets.PAT }}
 
