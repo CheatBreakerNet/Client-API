@@ -49,6 +49,6 @@ jobs:
           python scripts/create_index.py --servers_dir servers --inactive_file inactive.json --index_output index.json
       
       - name: Commit index
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Updated the servers index
