@@ -2,5 +2,9 @@
     "vanicnetwork": {
         "type": "block",
         "reason": "The server is spreading misinformation about CheatBreaker, and has banned the client. We do not recommend joining the server at all. However, if you choose to, use what they recommend."
+    },
+    "potpvpnetwork": {
+        "type": "unsafe",
+        "reason": "The owner of the server is a known problematic figure. We do not recommend joining this server."
     }
 }
