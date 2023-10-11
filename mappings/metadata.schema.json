@@ -22,6 +22,11 @@
             "minLength": 16,
             "maxLength": 40
         },
+        "server_brand": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 80
+        },
         "addresses": {
             "type": "array",
             "uniqueItems": true,
