@@ -1,6 +1,8 @@
 {
     "id": "potpvpnetwork",
     "name": "PotPvP Network",
+    "website": "https://www.potpvp.com/",
+    "store": "https://store.potpvp.com/",
     "description": "Competitive Minecraft PvP Network",
     "addresses": [
         "potpvp.com",
