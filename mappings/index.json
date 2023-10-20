@@ -548,9 +548,13 @@
     {
         "id": "potpvpnetwork",
         "name": "PotPvP Network",
+        "website": "https://www.potpvp.com/",
+        "store": "https://store.potpvp.com/",
         "description": "Competitive Minecraft PvP Network",
         "addresses": [
-            "potpvp.com"
+            "potpvp.com",
+            "skylandkits.net",
+            "bridge.rip"
         ],
         "primaryAddress": "potpvp.com",
         "minecraftVersions": [
@@ -558,8 +562,8 @@
             "1.8.9"
         ],
         "primaryMinecraftVersion": "1.7.10",
-        "primaryColor": "#ec2c2a",
-        "secondaryColor": "#43344c",
+        "primaryColor": "#f7b204",
+        "secondaryColor": "#ffffff",
         "primaryLanguage": "en",
         "languages": [
             "en"
@@ -573,7 +577,9 @@
             "UHC"
         ],
         "socials": {
-            "twitter": "PotPvPServer"
+            "twitter": "PotPvPServer",
+            "discord": "https://discord.gg/PotPvP",
+            "telegram": "PotPvP"
         },
         "inactive": false
     },
