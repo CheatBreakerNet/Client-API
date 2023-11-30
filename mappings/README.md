@@ -18,7 +18,18 @@ The `addresses` array in each server object is actually an array of IP _suffixes
 
 We also require your server's primary connection information and allowed client versions. The `primaryAddress` field should be an address **included** in the `addresses` array.
 
-The `minecraftVersions` field must be an array of client versions allowed on your Minecraft server. *(ie. 1.7.10, 1.8.9)*; The `primaryMinecraftVersion` field must be a subversion of a major version included in the `minecraftVersions` array. **The versions you include must be versions that are directly offered in CheatBreaker**, which can be found in the version selector of the CheatBreaker Launcher.
+The `minecraftVersions` field must be an array of client versions allowed on your Minecraft server. *(ie. 1.7.10, 1.8.9)*; The `primaryMinecraftVersion` field must be a subversion of a major version included in the `minecraftVersions` array. **The versions you include must be versions that are directly offered in CheatBreaker**, which can be found in the version selector of the CheatBreaker Launcher. However, we also support intended versions:
+
+- 1.9.*
+- 1.10.*
+- 1.11.*
+- 1.12.*
+- 1.16.*
+- 1.17.*
+- 1.18.*
+- 1.19.*
+- 1.20.*
+- 1.21.*
 
 If your server supports all of the subversions within a major version, you can list the version in `minecraftVersions` as `1.7.*`, but you will still need to specify the specific subversion in the `primaryMinecraftVersion` as this is the specific version that the client uses to Launch you into the game for Quick Connecting.
 
