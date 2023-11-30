@@ -7,19 +7,19 @@
     ],
     "primaryAddress": "play.inferno.rip",
     "minecraftVersions": [
-	    "1.7.*",
+        "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#DC3F3F",
+    "primaryColor": "#dc3f3f",
     "secondaryColor": "#ffffff",
     "primaryLanguage": "en",
     "languages": [
         "en"
     ],
-    "primaryRegion": "US",
+    "primaryRegion": "NA",
     "regions": [
-        "US"
+        "NA"
     ],
     "gameTypes": [
         "PvP",
@@ -29,6 +29,6 @@
     "store": "https://store.inferno.rip/",
     "socials": {
         "twitter": "InfernoHCF",
-        "discord": "https://discord.inferno.rip",
+        "discord": "https://discord.inferno.rip"
     }
 }
