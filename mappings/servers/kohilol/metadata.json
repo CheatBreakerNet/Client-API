@@ -1,0 +1,23 @@
+{
+    "id": "kohilol",
+    "name": "KohiLOL",
+    "addresses": [
+        "kohi.lol"
+    ],
+    "primaryAddress": "kohi.lol",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "primaryColor": "#05fa0d",
+    "secondaryColor": "#faf205",
+    "gameTypes": [
+        "PvP"
+    ],
+    "store": "https://store.kiopvp.com/",
+    "socials": {
+        "discord": "https://discord.gg/8YabCFcr7f",
+        "youtube": "@kohilol"
+    }
+}
