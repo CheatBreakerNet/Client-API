@@ -1,0 +1,38 @@
+{
+    "id": "LandsMC,
+    "name": "Lands",
+    "description": "O servidor destinado a ser o melhor!",
+    "addresses": [
+        "Landsmc.com",
+        "Stydismc.com"
+    ],
+    "primaryAddress": "landsmc.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#0da1de",
+    "secondaryColor": "#081723",
+    "primaryLanguage": "pt-br",
+    "languages": [
+        "pt-br",
+        "pt-pt"
+    ],
+    "primaryRegion": "sa",
+    "regions": [
+
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://landsmc.com/,
+    "store": "https://landsmc.com/",
+    "socials": {
+        "twitter": "none",
+        "discord": "https://discord.gg/sWCB7T6gbQ",
+        "youtube": "LandsmcOficial"
+    }
+}
