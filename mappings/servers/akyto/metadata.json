@@ -1,0 +1,32 @@
+{
+    "id": "akyto",
+    "name": "akyto",
+    "description": "A practice server for legit players",
+    "addresses": [
+        "eu.akyto.club"
+	"na.akyto.club"
+    ],
+    "primaryAddress": "na.akyto.club",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "primaryColor": "#878787",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+	"EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/8mYHn6NTCw"
+    }
+}
