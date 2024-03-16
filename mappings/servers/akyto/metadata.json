@@ -3,8 +3,7 @@
     "name": "akyto",
     "description": "A practice server for legit players",
     "addresses": [
-        "eu.akyto.club"
-	"na.akyto.club"
+        "akyto.club"
     ],
     "primaryAddress": "na.akyto.club",
     "minecraftVersions": [
@@ -21,7 +20,6 @@
     "primaryRegion": "NA",
     "regions": [
         "NA"
-	"EU"
     ],
     "gameTypes": [
         "PvP"
