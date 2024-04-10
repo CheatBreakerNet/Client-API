@@ -1,11 +1,12 @@
 {
     "id": "akyto",
     "name": "akyto",
-    "description": "A practice server for legit players",
+    "description": "The return of the real fight is here.",
     "addresses": [
-        "akyto.club"
+        "eu.akyto.club",
+        "na.akyto.club"
     ],
-    "primaryAddress": "na.akyto.club",
+    "primaryAddress": "akyto.club",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
@@ -19,7 +20,8 @@
     ],
     "primaryRegion": "NA",
     "regions": [
-        "NA"
+        "NA",
+        "EU"
     ],
     "gameTypes": [
         "PvP"
