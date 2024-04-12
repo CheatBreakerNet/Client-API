@@ -619,39 +619,6 @@
         "inactive": false
     },
     {
-        "id": "vanicnetwork",
-        "name": "Vanic Network",
-        "description": "Home of the largest Competitive UHC",
-        "addresses": [
-            "vanic.gg"
-        ],
-        "primaryAddress": "vanic.gg",
-        "minecraftVersions": [
-            "1.7.10",
-            "1.8.9"
-        ],
-        "primaryMinecraftVersion": "1.7.10",
-        "primaryColor": "#6ea3d2",
-        "secondaryColor": "#454545",
-        "primaryLanguage": "en",
-        "languages": [
-            "en"
-        ],
-        "primaryRegion": "NA",
-        "regions": [
-            "NA"
-        ],
-        "gameTypes": [
-            "PvP",
-            "UHC"
-        ],
-        "socials": {
-            "twitter": "vanicfeed",
-            "discord:": "https://discord.gg/vanicmc"
-        },
-        "inactive": false
-    },
-    {
         "id": "veltpvpnetwork",
         "name": "VeltPvP",
         "description": "The ultimate PvP experience",
