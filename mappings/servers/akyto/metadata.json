@@ -3,8 +3,10 @@
     "name": "akyto",
     "description": "The return of the real fight is here.",
     "addresses": [
-        "eu.akyto.club",
-        "na.akyto.club"
+        "akyto.club",
+        "potted.gg",
+        "pvptemple.it",
+        "groupezk.fr"
     ],
     "primaryAddress": "akyto.club",
     "minecraftVersions": [
