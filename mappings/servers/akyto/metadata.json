@@ -1,6 +1,6 @@
 {
-    "id": "akyto",
-    "name": "akyto",
+    "id": "akyto network",
+    "name": "akyto network",
     "description": "The return of the real fight is here.",
     "addresses": [
         "akyto.club",
@@ -22,13 +22,12 @@
     ],
     "primaryRegion": "NA",
     "regions": [
-        "NA",
-        "EU"
+        "NA"
     ],
     "gameTypes": [
         "PvP"
     ],
     "socials": {
-        "discord": "https://discord.gg/8mYHn6NTCw"
+        "discord": "http://discord.akyto.club/"
     }
 }
