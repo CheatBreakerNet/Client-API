@@ -144,7 +144,7 @@ def validate_discord_logo(path, server_name) -> list:
             f'{server_name}\'s server Discord logo does not have a 1:1 aspect ratio... Please ensure the image meets the requirements before proceeding.')
 
     # Check image dimensions are 512x512 or more (up to 1024x1024)
-    if not (512 <= logo_image.width <= 1024) or not (512 <= logo_image.height <= 1024)
+    if not (512 <= logo_image.width <= 1024) or not (512 <= logo_image.height <= 1024):
         errors.append(
             f'{server_name}\'s server Discord logo resolution is not 512x512 or more (up to 1024x1024)... Please ensure the image meets the requirements before proceeding.')
 
