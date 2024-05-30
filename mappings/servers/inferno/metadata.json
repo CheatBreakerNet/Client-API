@@ -1,0 +1,35 @@
+{
+    "id": "inferno",
+    "name": "Inferno",
+    "description": "The home of Team & PotPvP Based Gamemodes",
+    "addresses": [
+        "inferno.rip"
+    ],
+    "primaryAddress": "mc.inferno.rip",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#eb4034",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+		"es"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PVP",
+        "HCF",
+        "UHC"
+    ],
+    "website": "https://inferno.rip",
+    "store": "https://store.inferno.rip",
+    "socials": {
+        "discord": "https://discord.gg/infernorip",
+    }
+}
