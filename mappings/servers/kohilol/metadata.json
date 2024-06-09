@@ -1,8 +1,12 @@
 {
     "id": "kohilol",
-    "name": "KohiLOL",
+    "name": "KohiLOL Network",
+    "description": "Remake of kohi.",
     "addresses": [
-        "kohi.lol"
+        "kohi.lol",
+        "na.kohi.lol",
+        "as.kohi.lol",
+        "asia.kohi.lol"
     ],
     "primaryAddress": "kohi.lol",
     "minecraftVersions": [
@@ -12,12 +16,21 @@
     "primaryMinecraftVersion": "1.7.10",
     "primaryColor": "#05fa0d",
     "secondaryColor": "#faf205",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "ASIA"
+    ],
     "gameTypes": [
         "PvP"
     ],
-    "store": "https://store.kiopvp.com/",
+    "store": "https://store.kohi.lol/",
     "socials": {
-        "discord": "https://discord.gg/8YabCFcr7f",
-        "youtube": "@kohilol"
+        "discord": "https://discord.kohi.lol/"
     }
 }
