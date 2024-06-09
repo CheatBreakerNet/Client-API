@@ -1,5 +1,41 @@
 [
     {
+        "id": "akyto",
+        "name": "Akyto Network",
+        "description": "The return of the real fight is here.",
+        "addresses": [
+            "akyto.club",
+            "potted.gg",
+            "pvptemple.it",
+            "groupezk.fr"
+        ],
+        "primaryAddress": "akyto.club",
+        "minecraftVersions": [
+            "1.7.10",
+            "1.7",
+            "1.8.9",
+            "1.8"
+        ],
+        "primaryMinecraftVersion": "1.7.10",
+        "primaryColor": "#878787",
+        "secondaryColor": "#ffffff",
+        "primaryLanguage": "en",
+        "languages": [
+            "en"
+        ],
+        "primaryRegion": "NA",
+        "regions": [
+            "NA"
+        ],
+        "gameTypes": [
+            "PvP"
+        ],
+        "socials": {
+            "discord": "http://discord.akyto.club/"
+        },
+        "inactive": false
+    },
+    {
         "id": "blocksmc",
         "name": "BlocksMC",
         "description": "The home of cracked Minecraft players",
@@ -619,35 +655,36 @@
         "inactive": false
     },
     {
-        "id": "vanicnetwork",
-        "name": "Vanic Network",
-        "description": "Home of the largest Competitive UHC",
+        "id": "spalion",
+        "name": "Spalion",
+        "description": "French Ranked Game Like BedWars",
+        "website": "https://spalion.net/",
         "addresses": [
-            "vanic.gg"
+            "spalion.net",
+            "spalion.fr"
         ],
-        "primaryAddress": "vanic.gg",
+        "primaryAddress": "spalion.net",
         "minecraftVersions": [
-            "1.7.10",
-            "1.8.9"
+            "1.8.9",
+            "1.8"
         ],
-        "primaryMinecraftVersion": "1.7.10",
-        "primaryColor": "#6ea3d2",
-        "secondaryColor": "#454545",
-        "primaryLanguage": "en",
+        "primaryMinecraftVersion": "1.8.9",
+        "primaryColor": "#e69138",
+        "secondaryColor": "#d82a27",
+        "primaryLanguage": "fr",
         "languages": [
-            "en"
+            "fr"
         ],
-        "primaryRegion": "NA",
+        "primaryRegion": "EU",
         "regions": [
-            "NA"
+            "EU"
         ],
         "gameTypes": [
-            "PvP",
-            "UHC"
+            "PvP"
         ],
         "socials": {
-            "twitter": "vanicfeed",
-            "discord:": "https://discord.gg/vanicmc"
+            "discord": "https://discord.gg/spalion",
+            "youtube": "spalion"
         },
         "inactive": false
     },

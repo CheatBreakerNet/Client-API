@@ -77,12 +77,12 @@ def validate_icon(path, server_name) -> list:
     icon_image = image.open(path)
 
     # Check image format is a PNG
-    if icon_image.format not in ['PNG']:
+    if icon_image.format != 'PNG':
         errors.append(
             f'{server_name}\'s server icon is not a PNG (currently {icon_image.format})... Please ensure the image meets the requirements before proceeding.')
 
     # Check image dimensions are 64x64
-    if (icon_image.width != 64) or (icon_image.height != 64):
+    if icon_image.width != 64 or icon_image.height != 64:
         errors.append(
             f'{server_name}\'s server icon resolution is not 64x64... Please ensure the image meets the requirements before proceeding.')
 
@@ -106,12 +106,12 @@ def validate_logo(path, server_name) -> list:
     logo_image = image.open(path)
 
     # Check image format is a PNG
-    if logo_image.format not in ['PNG']:
+    if logo_image.format != 'PNG':
         errors.append(
             f'{server_name}\'s server logo is not a PNG (currently {logo_image.format})... Please ensure the image meets the requirements before proceeding.')
 
     # Check image dimensions are 108x108
-    if (logo_image.width != 108) or (logo_image.height != 108):
+    if logo_image.width != 108 or logo_image.height != 108:
         errors.append(
             f'{server_name}\'s server logo resolution is not 108x108... Please ensure the image meets the requirements before proceeding.')
 
@@ -134,7 +134,7 @@ def validate_discord_logo(path, server_name) -> list:
     logo_image = image.open(path)
 
     # Check image format is a PNG
-    if logo_image.format not in ['PNG']:
+    if logo_image.format != 'PNG':
         errors.append(
             f'{server_name}\'s server Discord logo is not a PNG (currently {logo_image.format})... Please ensure the image meets the requirements before proceeding.')
 
@@ -144,7 +144,7 @@ def validate_discord_logo(path, server_name) -> list:
             f'{server_name}\'s server Discord logo does not have a 1:1 aspect ratio... Please ensure the image meets the requirements before proceeding.')
 
     # Check image dimensions are 512x512 or more (up to 1024x1024)
-    if (logo_image.width < 512) or (logo_image.height < 512) or (logo_image.width > 1024) or (logo_image.height > 1024):
+    if not (512 <= logo_image.width <= 1024) or not (512 <= logo_image.height <= 1024):
         errors.append(
             f'{server_name}\'s server Discord logo resolution is not 512x512 or more (up to 1024x1024)... Please ensure the image meets the requirements before proceeding.')
 
@@ -166,12 +166,12 @@ def validate_primary_background(path, server_name) -> list:
     primary_background_image = image.open(path)
 
     # Check image format is a PNG
-    if primary_background_image.format not in ['PNG']:
+    if primary_background_image.format != 'PNG':
         errors.append(
             f'{server_name}\'s server primary background is not a PNG (currently {primary_background_image.format})... Please ensure the image meets the requirements before proceeding.')
 
     # Check image dimensions are 774x363
-    if (primary_background_image.width != 774) or (primary_background_image.height != 363):
+    if primary_background_image.width != 774 or primary_background_image.height != 363:
         errors.append(
             f'{server_name}\'s server primary background resolution is not 774x363... Please ensure the image meets the requirements before proceeding.')
 
@@ -193,12 +193,12 @@ def validate_secondary_background(path, server_name) -> list:
     secondary_background_image = image.open(path)
 
     # Check image format is a PNG
-    if secondary_background_image.format not in ['PNG']:
+    if secondary_background_image.format != 'PNG':
         errors.append(
             f'{server_name}\'s server secondary background is not a PNG (currently {secondary_background_image.format})... Please ensure the image meets the requirements before proceeding.')
 
     # Check image dimensions are 447x172
-    if (secondary_background_image.width != 447) or (secondary_background_image.height != 172):
+    if secondary_background_image.width != 447 or secondary_background_image.height != 172:
         errors.append(
             f'{server_name}\'s server secondary background resolution is not 447x172... Please ensure the image meets the requirements before proceeding.')
 
