@@ -1,59 +1,71 @@
 {
-   "id":"twerion",
-   "name":"Twerion Network",
-   "description":"A network focused on PvP",
-   "addresses":[
-      "twerion.net",
-      "twerion.de",
-      "twerion.com",
-      "twerion.eu",
-      "twerion.org"
-   ],
-   "primaryAddress":"twerion.net",
-   "minecraftVersions":[
-      "1.8.*",
-      "1.9.*",
-      "1.10.*",
-      "1.11.*",
-      "1.12.*",
-      "1.16.*",
-      "1.17.*",
-      "1.18.*",
-      "1.19.*",
-      "1.20.*",
-      "1.21.*"
-   ],
-   "primaryMinecraftVersion":"1.8.8",
-   "primaryColor":"#FFAA00",
-   "secondaryColor":"#FF8000",
-   "primaryLanguage":"en",
-   "languages":[
-      "en",
-      "de",
-      "ru"
-   ],
-   "primaryRegion":"EU",
-   "regions":[
-      "EU",
-      "AF",
-      "AS",
-      "NA",
-      "OC",
-      "SA"
-   ],
-   "gameTypes":[
-      "PvP",
-      "Minigames",
-      "Skyblock"
-   ],
-   "website":"https://www.twerion.net/",
-   "store":"https://shop.twerion.net/",
-   "socials":{
-      "twitter":"twerionnetwork",
-      "instagram":"twerion_network",
-      "tiktok":"twerionnetwork",
-      "discord":"https://discord.gg/twerion",
-      "youtube":"https://www.youtube.com/@twerion",
-      "teamspeak":"ts.twerion.net"
-   }
+    "id": "twerion",
+    "name": "Twerion Network",
+    "description": "A network focused on PvP",
+    "addresses": [
+        "twerion.net",
+        "twerion.de",
+        "twerion.com",
+        "twerion.eu",
+        "twerion.org"
+    ],
+    "primaryAddress": "cb.twerion.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFAA00",
+    "secondaryColor": "#FF8000",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "de",
+        "ar",
+        "cn",
+        "cz",
+        "dk",
+        "es",
+        "fi",
+        "fr",
+        "gr",
+        "hi",
+        "hu",
+        "it",
+        "jp",
+        "lt",
+        "lv",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "ru",
+        "se",
+        "sk",
+        "sl",
+        "tr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "AF",
+        "AS",
+        "NA",
+        "OC",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Skyblock"
+    ],
+    "website": "https://www.twerion.net/",
+    "store": "https://shop.twerion.net/",
+    "socials": {
+        "twitter": "twerionnetwork",
+        "instagram": "twerion_network",
+        "tiktok": "twerionnetwork",
+        "discord": "https://discord.gg/twerion",
+        "youtube": "https://www.youtube.com/@twerion",
+        "teamspeak": "ts.twerion.net"
+    }
 }
