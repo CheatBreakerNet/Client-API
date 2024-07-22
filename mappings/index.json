@@ -425,6 +425,44 @@
         "inactive": false
     },
     {
+        "id": "ikara",
+        "name": "Ikara",
+        "description": "Bringing back the competitive scene",
+        "addresses": [
+            "ikara.gg"
+        ],
+        "primaryAddress": "ikara.gg",
+        "minecraftVersions": [
+            "1.7.10",
+            "1.7",
+            "1.8.9",
+            "1.8"
+        ],
+        "primaryMinecraftVersion": "1.8.9",
+        "primaryColor": "#f8c161",
+        "secondaryColor": "#EEEEEE",
+        "primaryLanguage": "en",
+        "languages": [
+            "en"
+        ],
+        "primaryRegion": "NA",
+        "regions": [
+            "NA"
+        ],
+        "gameTypes": [
+            "PvP",
+            "Minigames"
+        ],
+        "website": "https://ikara.gg/",
+        "store": "https://store.ikara.gg/",
+        "socials": {
+            "twitter": "PlayIKARA",
+            "discord": "https://discord.gg/BzUyWTCWD2",
+            "youtube": "Ikaranetwork"
+        },
+        "inactive": false
+    },
+    {
         "id": "jartexnetwork",
         "name": "JartexNetwork",
         "description": "The home of cracked Minecraft players",
@@ -685,6 +723,72 @@
         "socials": {
             "discord": "https://discord.gg/spalion",
             "youtube": "spalion"
+        },
+        "inactive": false
+    },
+    {
+        "id": "twerion",
+        "name": "Twerion Network",
+        "description": "A network focused on PvP",
+        "addresses": [
+            "twerion.net",
+            "twerion.de",
+            "twerion.com",
+            "twerion.eu",
+            "twerion.org"
+        ],
+        "primaryAddress": "twerion.net",
+        "minecraftVersions": [
+            "1.8.9",
+            "1.8"
+        ],
+        "primaryMinecraftVersion": "1.8.9",
+        "primaryColor": "#FFAA00",
+        "secondaryColor": "#FF8000",
+        "primaryLanguage": "en",
+        "languages": [
+            "en",
+            "es-EN",
+            "it",
+            "tr",
+            "ar",
+            "zh-CN",
+            "nl",
+            "fr",
+            "de",
+            "el",
+            "ja",
+            "ko",
+            "lt",
+            "no",
+            "pl",
+            "pt-PT",
+            "pt-BR",
+            "sv-SE"
+        ],
+        "primaryRegion": "EU",
+        "regions": [
+            "EU",
+            "AF",
+            "AS",
+            "NA",
+            "OC",
+            "SA"
+        ],
+        "gameTypes": [
+            "PvP",
+            "Minigames",
+            "SkyBlock"
+        ],
+        "website": "https://www.twerion.net/",
+        "store": "https://shop.twerion.net/",
+        "socials": {
+            "twitter": "twerionnetwork",
+            "instagram": "twerion_network",
+            "tiktok": "twerionnetwork",
+            "discord": "https://discord.gg/twerion",
+            "youtube": "https://www.youtube.com/@twerion",
+            "teamspeak": "ts.twerion.net"
         },
         "inactive": false
     },
