@@ -1,12 +1,9 @@
 {
     "id": "kohilol",
     "name": "KohiLOL Network",
-    "description": "Remake of kohi.",
+    "description": "Remake of kohi network.",
     "addresses": [
-        "kohi.lol",
-        "na.kohi.lol",
-        "as.kohi.lol",
-        "asia.kohi.lol"
+        "kohi.lol"
     ],
     "primaryAddress": "kohi.lol",
     "minecraftVersions": [
@@ -24,7 +21,7 @@
     "primaryRegion": "NA",
     "regions": [
         "NA",
-        "ASIA"
+        "AS"
     ],
     "gameTypes": [
         "PvP"
