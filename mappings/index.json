@@ -538,6 +538,42 @@
         "inactive": false
     },
     {
+        "id": "kohilol",
+        "name": "KohiLOL Network",
+        "description": "Remake of kohi network.",
+        "addresses": [
+            "kohi.lol"
+        ],
+        "primaryAddress": "kohi.lol",
+        "minecraftVersions": [
+            "1.7.10",
+            "1.7",
+            "1.8.9",
+            "1.8"
+        ],
+        "primaryMinecraftVersion": "1.7.10",
+        "primaryColor": "#05fa0d",
+        "secondaryColor": "#faf205",
+        "primaryLanguage": "en",
+        "languages": [
+            "en",
+            "es-EN"
+        ],
+        "primaryRegion": "NA",
+        "regions": [
+            "NA",
+            "AS"
+        ],
+        "gameTypes": [
+            "PvP"
+        ],
+        "store": "https://store.kohi.lol/",
+        "socials": {
+            "discord": "https://discord.kohi.lol/"
+        },
+        "inactive": false
+    },
+    {
         "id": "minemenclub",
         "name": "Minemen Club",
         "description": "Practice server for all players",
