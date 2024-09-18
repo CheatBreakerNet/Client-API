@@ -21,11 +21,11 @@
     "primaryRegion": "EU",
     "regions": [
         "EU"
-    ],
+    [,
     "gameTypes": [
-        "PvP"
+    "Kit-PvP"
     ],
     "socials": {
-        "telegram": "EzPvP Practice"
+        "telegram": "EzPvPPractice"
     }
 }
