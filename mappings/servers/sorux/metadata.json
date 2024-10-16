@@ -7,7 +7,7 @@
     ],
     "primaryAddress": "sorux.net",
     "minecraftVersions": [
-        "1.8.9"
+        "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#f26151",
