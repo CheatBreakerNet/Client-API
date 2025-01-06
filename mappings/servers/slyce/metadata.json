@@ -1,0 +1,34 @@
+{
+    "id": "slyce",
+    "name": "Slyce",
+    "website": "https://www.slyce.fr/",
+    "description": "Competitive Mini-Game Network",
+    "addresses": [
+        "slycemc.eu",
+        "slycemc.com",
+        "slyce.fr"
+    ],
+    "primaryAddress": "play.slyce.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f29001",
+    "secondaryColor": "#6d617d",
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "twitter": "slycemc",
+        "discord": "https://discord.com/invite/r9zEakVkxt"
+    }
