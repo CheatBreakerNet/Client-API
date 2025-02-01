@@ -1,0 +1,33 @@
+{
+    "id": "pralia",
+    "name": "Pralia",
+    "description": "The French minigames server",
+    "addresses": [
+        "pralia.fr"
+    ],
+    "primaryAddress": "play.pralia.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#55FFFF",
+    "secondaryColor": "#FF5555",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://pralia.fr/",
+    "store": "https://pralia.fr/shop",
+    "socials": {
+        "twitter": "praliafr",
+        "discord": "https://discord.gg/KVMbPjRr5R"
+    }
+}
