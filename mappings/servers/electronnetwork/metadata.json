@@ -2,7 +2,6 @@
     "id": "electronnetwork",
     "name": "Electron Network",
 	"description": "A unique PVP server with HCF, PVP and minigames.",
-    "store": "https://shop.electronmc.club/",
     "addresses": [
         "electronmc.club"
     ],
@@ -35,6 +34,8 @@
         "Minigames"
     ]
 }
+    "website": "https://www.electronmc.club/",
+    "store": "https://store.electronmc.club/",
     "socials": {
         "discord": "https://dsc.gg/electronmc"
 		"youtube": "ElectronNetwork"
