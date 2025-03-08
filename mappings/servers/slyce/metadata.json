@@ -1,7 +1,6 @@
 {
     "id": "slyce",
     "name": "Slyce",
-    "website": "https://www.slyce.fr/",
     "description": "Competitive Mini-Game Network",
     "addresses": [
         "slycemc.eu",
@@ -28,6 +27,7 @@
         "PvP",
         "Minigames"
     ],
+    "website": "https://www.slyce.fr/",
     "socials": {
         "twitter": "slycemc",
         "discord": "https://discord.com/invite/r9zEakVkxt"
