@@ -1,8 +1,6 @@
 {
     "id": "cavepvp",
     "name": "CavePvP",
-    "website": "https://cavepvp.com/",
-    "store": "https://store.cavepvp.com/",
     "addresses": [
         "cavepvp.org",
         "cavepvp.com"
@@ -14,11 +12,6 @@
         "HCF",
         "PvP"
     ],
-    "socials": {
-        "twitter": "playCavePvP",
-        "discord": "https://discord.com/invite/cavepvp",
-        "telegram": "cavepvporg"
-    },
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
@@ -31,5 +24,12 @@
     "primaryLanguage": "en",
     "languages": [
         "en"
-    ]
+    ],
+    "website": "https://cavepvp.com/",
+    "store": "https://store.cavepvp.com/",
+    "socials": {
+        "twitter": "playCavePvP",
+        "discord": "https://discord.com/invite/cavepvp",
+        "telegram": "cavepvporg"
+    }
 }
