@@ -1,0 +1,32 @@
+{
+    "id": "sorux",
+    "name": "Sorux Network",
+    "description": "PvP Based Network",
+    "addresses": [
+        "sorux.net"
+    ],
+    "primaryAddress": "sorux.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f26151",
+    "secondaryColor": "#6a2338",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://sorux.net",
+    "store": "https://sorux.net/store/",
+    "socials": {
+        "discord": "https://discord.gg/mHAbWWNZB6"
+    }
+}

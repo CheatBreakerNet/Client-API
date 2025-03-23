@@ -153,16 +153,15 @@
         "description": "The home of European PvP",
         "addresses": [
             "coldnetwork.net",
-            "coldpvp.com"
+            "coldpvp.com",
+            "coldgames.fun"
         ],
         "primaryAddress": "play.coldnetwork.net",
         "minecraftVersions": [
-            "1.7.10",
-            "1.7",
             "1.8.9",
             "1.8"
         ],
-        "primaryMinecraftVersion": "1.7.10",
+        "primaryMinecraftVersion": "1.8.9",
         "primaryColor": "#0da1de",
         "secondaryColor": "#081723",
         "primaryLanguage": "en",
@@ -179,12 +178,12 @@
             "PvP",
             "Minigames"
         ],
-        "website": "https://coldnetwork.net/",
+        "website": "https://coldgames.fun/",
         "store": "https://store.coldnetwork.net/",
         "socials": {
             "twitter": "coldnetworknet",
             "discord": "https://discord.com/invite/NX9U5ZR",
-            "youtube": "coldnetworknet"
+            "youtube": "@ColdGamesFun"
         },
         "inactive": false
     },
@@ -294,6 +293,40 @@
         "store": "https://store.echomc.it/",
         "socials": {
             "discord": "https://discord.echomc.it"
+        },
+        "inactive": false
+    },
+    {
+        "id": "ezpvp",
+        "name": "EzPvP Network",
+        "description": "KitPvP Network in Europe",
+        "addresses": [
+            "ezpvp.lol",
+            "jamals.lol"
+        ],
+        "primaryAddress": "ezpvp.lol",
+        "minecraftVersions": [
+            "1.7.10",
+            "1.7",
+            "1.8.9",
+            "1.8"
+        ],
+        "primaryMinecraftVersion": "1.8.9",
+        "primaryColor": "#AF15CA",
+        "secondaryColor": "#FFFFFF",
+        "primaryLanguage": "en",
+        "languages": [
+            "en"
+        ],
+        "primaryRegion": "EU",
+        "regions": [
+            "EU"
+        ],
+        "gameTypes": [
+            "PvP"
+        ],
+        "socials": {
+            "telegram": "EzPvPPractice"
         },
         "inactive": false
     },
@@ -725,6 +758,40 @@
         "store": "https://protocol.rip/store/",
         "socials": {
             "discord": "https://discord.com/invite/eG2NS9XS"
+        },
+        "inactive": false
+    },
+    {
+        "id": "sorux",
+        "name": "Sorux Network",
+        "description": "PvP Based Network",
+        "addresses": [
+            "sorux.net"
+        ],
+        "primaryAddress": "sorux.net",
+        "minecraftVersions": [
+            "1.8.9",
+            "1.8"
+        ],
+        "primaryMinecraftVersion": "1.8.9",
+        "primaryColor": "#f26151",
+        "secondaryColor": "#6a2338",
+        "primaryLanguage": "en",
+        "languages": [
+            "en"
+        ],
+        "primaryRegion": "EU",
+        "regions": [
+            "EU"
+        ],
+        "gameTypes": [
+            "PvP",
+            "Minigames"
+        ],
+        "website": "https://sorux.net",
+        "store": "https://sorux.net/store/",
+        "socials": {
+            "discord": "https://discord.gg/mHAbWWNZB6"
         },
         "inactive": false
     },

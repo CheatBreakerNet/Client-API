@@ -4,14 +4,14 @@
     "description": "The home of European PvP",
     "addresses": [
         "coldnetwork.net",
-        "coldpvp.com"
+        "coldpvp.com",
+        "coldgames.fun"
     ],
     "primaryAddress": "play.coldnetwork.net",
     "minecraftVersions": [
-        "1.7.*",
         "1.8.*"
     ],
-    "primaryMinecraftVersion": "1.7.10",
+    "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#0da1de",
     "secondaryColor": "#081723",
     "primaryLanguage": "en",
@@ -28,11 +28,11 @@
         "PvP",
         "Minigames"
     ],
-    "website": "https://coldnetwork.net/",
+    "website": "https://coldgames.fun/",
     "store": "https://store.coldnetwork.net/",
     "socials": {
         "twitter": "coldnetworknet",
         "discord": "https://discord.com/invite/NX9U5ZR",
-        "youtube": "coldnetworknet"
+        "youtube": "@ColdGamesFun"
     }
 }
