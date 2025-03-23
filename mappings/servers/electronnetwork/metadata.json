@@ -29,8 +29,8 @@
     "website": "https://www.electronmc.club/",
     "store": "https://store.electronmc.club/",
     "socials": {
-        "discord": "https://dsc.gg/electronmc"
-        "youtube": "ElectronNetwork"
+        "discord": "https://dsc.gg/electronmc",
+        "youtube": "ElectronNetwork",
         "twitter": "ElectronNetMC"
     }
 }
