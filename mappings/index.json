@@ -337,7 +337,7 @@
     {
         "id": "electronnetwork",
         "name": "Electron Network",
-        "description": "A unique PVP server with HCF, PVP and minigames.",
+        "description": "A unique PVP server with HCF, PVP and minigames",
         "addresses": [
             "electronmc.club"
         ],
@@ -361,7 +361,7 @@
         ],
         "gameTypes": [
             "HCF",
-            "PVP",
+            "PvP",
             "Minigames"
         ],
         "website": "https://www.electronmc.club/",
