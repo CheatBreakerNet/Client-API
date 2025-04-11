@@ -1,0 +1,36 @@
+{
+    "id": "electronnetwork",
+    "name": "Electron Network",
+    "description": "A unique PVP server with HCF, PVP and minigames.",
+    "addresses": [
+        "electronmc.club"
+    ],
+    "primaryAddress": "electronmc.club",
+    "primaryColor": "#AA00AA",
+    "secondaryColor": "#AAAAAA",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],	
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "HCF",
+        "PVP",
+        "Minigames"
+    ],
+    "website": "https://www.electronmc.club/",
+    "store": "https://store.electronmc.club/",
+    "socials": {
+        "discord": "https://dsc.gg/electronmc",
+        "youtube": "ElectronNetwork",
+        "twitter": "ElectronNetMC"
+    }
+}

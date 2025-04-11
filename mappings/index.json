@@ -297,14 +297,82 @@
         "inactive": false
     },
     {
+        "id": "electronnetwork",
+        "name": "Electron Network",
+        "description": "A unique PVP server with HCF, PVP and minigames.",
+        "addresses": [
+            "electronmc.club"
+        ],
+        "primaryAddress": "electronmc.club",
+        "primaryColor": "#AA00AA",
+        "secondaryColor": "#AAAAAA",
+        "primaryLanguage": "en",
+        "languages": [
+            "en"
+        ],
+        "minecraftVersions": [
+            "1.7.10",
+            "1.7",
+            "1.8.9",
+            "1.8"
+        ],
+        "primaryMinecraftVersion": "1.8.9",
+        "primaryRegion": "EU",
+        "regions": [
+            "EU"
+        ],
+        "gameTypes": [
+            "HCF",
+            "PVP",
+            "Minigames"
+        ],
+        "website": "https://www.electronmc.club/",
+        "store": "https://store.electronmc.club/",
+        "socials": {
+            "discord": "https://dsc.gg/electronmc",
+            "youtube": "ElectronNetwork",
+            "twitter": "ElectronNetMC"
+        },
+        "inactive": false
+    },
+    {
+        "id": "elevatemc",
+        "name": "ElevateMC Network",
+        "website": "https://elevatemc.com/",
+        "store": "https://store.elevatemc.com/",
+        "addresses": [
+            "elevatemc.com"
+        ],
+        "primaryAddress": "elevatemc.com",
+        "primaryColor": "#494949",
+        "secondaryColor": "#1BDDCB",
+        "minecraftVersions": [
+            "1.7.10",
+            "1.7",
+            "1.8.9",
+            "1.8"
+        ],
+        "primaryMinecraftVersion": "1.8.9",
+        "gameTypes": [
+            "PvP"
+        ],
+        "socials": {
+            "twitter": "ElevateMCNet",
+            "discord": "https://discord.com/invite/GkqtzCYCvF",
+            "telegram": "ElevateMC"
+        },
+        "inactive": false
+    },
+    {
         "id": "ezpvp",
         "name": "EzPvP Network",
         "description": "KitPvP Network in Europe",
         "addresses": [
+            "ezpvp.org",
             "ezpvp.lol",
             "jamals.lol"
         ],
-        "primaryAddress": "ezpvp.lol",
+        "primaryAddress": "ezpvp.org",
         "minecraftVersions": [
             "1.7.10",
             "1.7",
@@ -314,9 +382,9 @@
         "primaryMinecraftVersion": "1.8.9",
         "primaryColor": "#AF15CA",
         "secondaryColor": "#FFFFFF",
-        "primaryLanguage": "en",
+        "primaryLanguage": "it",
         "languages": [
-            "en"
+            "it"
         ],
         "primaryRegion": "EU",
         "regions": [
@@ -689,44 +757,6 @@
         "inactive": false
     },
     {
-        "id": "potpvpnetwork",
-        "name": "PotPvP Network",
-        "website": "https://www.potpvp.com/",
-        "store": "https://store.potpvp.com/",
-        "description": "Competitive Minecraft PvP Network",
-        "addresses": [
-            "potpvp.com",
-            "skylandkits.net",
-            "bridge.rip"
-        ],
-        "primaryAddress": "potpvp.com",
-        "minecraftVersions": [
-            "1.7.10",
-            "1.8.9"
-        ],
-        "primaryMinecraftVersion": "1.7.10",
-        "primaryColor": "#f7b204",
-        "secondaryColor": "#ffffff",
-        "primaryLanguage": "en",
-        "languages": [
-            "en"
-        ],
-        "primaryRegion": "NA",
-        "regions": [
-            "NA"
-        ],
-        "gameTypes": [
-            "PvP",
-            "UHC"
-        ],
-        "socials": {
-            "twitter": "PotPvPServer",
-            "discord": "https://discord.gg/PotPvP",
-            "telegram": "PotPvP"
-        },
-        "inactive": false
-    },
-    {
         "id": "protocolnetwork",
         "name": "Protocol Network",
         "description": "Where the best players play",
@@ -758,6 +788,83 @@
         "store": "https://protocol.rip/store/",
         "socials": {
             "discord": "https://discord.com/invite/eG2NS9XS"
+        },
+        "inactive": false
+    },
+    {
+        "id": "scalanetwork",
+        "name": "Scala Network",
+        "website": "https://www.scala.gg/",
+        "store": "https://store.scala.gg/",
+        "description": "Competitive Minecraft PvP Network",
+        "addresses": [
+            "scala.gg",
+            "potpvp.com",
+            "esta.land"
+        ],
+        "primaryAddress": "scala.gg",
+        "minecraftVersions": [
+            "1.7.10",
+            "1.8.9"
+        ],
+        "primaryMinecraftVersion": "1.8.9",
+        "primaryColor": "#f7b204",
+        "secondaryColor": "#ffffff",
+        "primaryLanguage": "en",
+        "languages": [
+            "en"
+        ],
+        "primaryRegion": "NA",
+        "regions": [
+            "NA",
+            "EU"
+        ],
+        "gameTypes": [
+            "PvP",
+            "Minigames",
+            "UHC"
+        ],
+        "socials": {
+            "twitter": "ScalaStudios",
+            "discord": "https://discord.gg/PotPvP",
+            "telegram": "ScalaStudios"
+        },
+        "inactive": false
+    },
+    {
+        "id": "slyce",
+        "name": "Slyce",
+        "description": "Competitive Mini-Game Network",
+        "addresses": [
+            "slycemc.eu",
+            "slycemc.com",
+            "slyce.fr"
+        ],
+        "primaryAddress": "play.slyce.fr",
+        "minecraftVersions": [
+            "1.8.9",
+            "1.8"
+        ],
+        "primaryLanguage": "en",
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "primaryRegion": "EU",
+        "regions": [
+            "EU"
+        ],
+        "primaryMinecraftVersion": "1.8.9",
+        "primaryColor": "#f29001",
+        "secondaryColor": "#6d617d",
+        "gameTypes": [
+            "PvP",
+            "Minigames"
+        ],
+        "website": "https://www.slyce.fr/",
+        "socials": {
+            "twitter": "slycemc",
+            "discord": "https://discord.com/invite/r9zEakVkxt"
         },
         "inactive": false
     },
@@ -892,6 +999,39 @@
             "discord": "https://discord.gg/twerion",
             "youtube": "https://www.youtube.com/@twerion",
             "teamspeak": "ts.twerion.net"
+        },
+        "inactive": false
+    },
+    {
+        "id": "vanicnetwork",
+        "name": "Vanic Network",
+        "description": "Home of the largest Competitive UHC",
+        "addresses": [
+            "vanic.gg"
+        ],
+        "primaryAddress": "vanic.gg",
+        "minecraftVersions": [
+            "1.7.10",
+            "1.8.9"
+        ],
+        "primaryMinecraftVersion": "1.7.10",
+        "primaryColor": "#6ea3d2",
+        "secondaryColor": "#454545",
+        "primaryLanguage": "en",
+        "languages": [
+            "en"
+        ],
+        "primaryRegion": "NA",
+        "regions": [
+            "NA"
+        ],
+        "gameTypes": [
+            "PvP",
+            "UHC"
+        ],
+        "socials": {
+            "twitter": "vanicfeed",
+            "discord:": "https://discord.gg/vanicmc"
         },
         "inactive": false
     },
