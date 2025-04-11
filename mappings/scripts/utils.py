@@ -154,7 +154,7 @@ def validate_discord_logo(path, server_name) -> list:
 '''
 Validate that server primary background meets the following requirements:
   * is a PNG
-  * is 774x363
+  * is 774x363 or 16:9
 '''
 def validate_primary_background(path, server_name) -> list:
     # Check image exits - silently skip if not (as it is not yet a requirement)
@@ -170,10 +170,12 @@ def validate_primary_background(path, server_name) -> list:
         errors.append(
             f'{server_name}\'s server primary background is not a PNG (currently {primary_background_image.format})... Please ensure the image meets the requirements before proceeding.')
 
-    # Check image dimensions are 774x363
-    if primary_background_image.width != 774 or primary_background_image.height != 363:
-        errors.append(
-            f'{server_name}\'s server primary background resolution is not 774x363... Please ensure the image meets the requirements before proceeding.')
+    aspect_ratio = primary_background_image.width / primary_background_image.height
+    # Check image dimensions are 774x363 or if the aspect ratio is 16:9
+    if (abs(aspect_ratio - (16 / 9)) > 0.01):
+        if (primary_background_image.width != 774 or primary_background_image.height != 363):
+            errors.append(
+                f'{server_name}\'s server primary background resolution is not 774x363 or 16:9... Please ensure the image meets the requirements before proceeding.')
 
     return errors
 
