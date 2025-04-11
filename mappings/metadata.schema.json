@@ -20,7 +20,7 @@
         "description": {
             "type": "string",
             "minLength": 16,
-            "maxLength": 40
+            "maxLength": 50
         },
         "server_brand": {
             "type": "string",
