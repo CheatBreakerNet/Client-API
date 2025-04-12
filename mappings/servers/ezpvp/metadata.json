@@ -1,13 +1,13 @@
 {
     "id": "ezpvp",
     "name": "EzPvP Network",
-    "description": "KitPvP Network in Europe",
+    "description": "1.8 Minecraft Server",
     "addresses": [
         "ezpvp.org",
-        "ezpvp.lol",
-        "jamals.lol"
+        "play.ezpvp.org",
+        "juega.ezpvp.org"
     ],
-    "primaryAddress": "ezpvp.org",
+    "primaryAddress": "ezpvp.org"
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
@@ -17,7 +17,8 @@
     "secondaryColor": "#FFFFFF",
     "primaryLanguage": "it",
     "languages": [
-        "it"
+        "it",
+        "en"
     ],
     "primaryRegion": "EU",
     "regions": [
