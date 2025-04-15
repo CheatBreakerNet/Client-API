@@ -1,13 +1,13 @@
 {
     "id": "ezpvp",
     "name": "EzPvP Network",
-    "description": "1.8 Minecraft Server",
+    "description": "Practice, Skyblock and Cannoning Server",
     "addresses": [
         "ezpvp.org",
         "play.ezpvp.org",
         "juega.ezpvp.org"
     ],
-    "primaryAddress": "ezpvp.org"
+    "primaryAddress": "ezpvp.org",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
