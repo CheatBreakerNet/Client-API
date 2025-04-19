@@ -1,11 +1,11 @@
 {
     "id": "ezpvp",
     "name": "EzPvP Network",
-    "description": "KitPvP Network in Europe",
+    "description": "Practice, Skyblock and Cannoning Server",
     "addresses": [
         "ezpvp.org",
-        "ezpvp.lol",
-        "jamals.lol"
+        "play.ezpvp.org",
+        "juega.ezpvp.org"
     ],
     "primaryAddress": "ezpvp.org",
     "minecraftVersions": [
@@ -17,7 +17,8 @@
     "secondaryColor": "#FFFFFF",
     "primaryLanguage": "it",
     "languages": [
-        "it"
+        "it",
+        "en"
     ],
     "primaryRegion": "EU",
     "regions": [
