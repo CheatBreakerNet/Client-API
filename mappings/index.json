@@ -402,6 +402,41 @@
         "inactive": false
     },
     {
+        "id": "exe",
+        "name": "EXE",
+        "description": "RankUP, Prison, PvP Server",
+        "addresses": [
+            "rede-exe.com"
+        ],
+        "primaryAddress": "rede-exe.com",
+        "minecraftVersions": [
+            "1.8.9",
+            "1.8"
+        ],
+        "primaryMinecraftVersion": "1.8.9",
+        "primaryColor": "#db190b",
+        "secondaryColor": "#FFFFFF",
+        "primaryLanguage": "pt-BR",
+        "languages": [
+            "pt-BR",
+            "pt-PT"
+        ],
+        "primaryRegion": "SA",
+        "regions": [
+            "NA",
+            "SA"
+        ],
+        "gameTypes": [
+            "PvP",
+            "PvE",
+            "Prison"
+        ],
+        "socials": {
+            "discord": "https://discord.gg/rede-exe"
+        },
+        "inactive": false
+    },
+    {
         "id": "ezpvp",
         "name": "EzPvP Network",
         "description": "Practice, Skyblock and Cannoning Server",
