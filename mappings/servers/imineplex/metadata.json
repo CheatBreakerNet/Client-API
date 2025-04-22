@@ -1,0 +1,35 @@
+{
+    "id": "imineplex",
+    "name": "iMinePlex",
+    "description": "Play without lag",
+    "addresses": [
+        "iMinePlex.iR"
+    ],
+    "primaryAddress": "Play.iMinePlex.iR",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.9.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#15e052",
+    "secondaryColor": "#82c295",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://iMinePlex.iR/",
+    "store": "https://Store.iMinePlex.iR/",
+    "socials": {
+        "discord": "https://discord.gg/uz7SmGQYWr",
+        "youtube": "@imineplex"
+    }
+}
