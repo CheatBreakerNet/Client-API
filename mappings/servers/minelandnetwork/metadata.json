@@ -33,15 +33,9 @@
         "EU"
     ],
     "gameTypes": [
-        "PvP",
-        "PvE",
-        "Factions",
         "Minigames",
-        "Skyblock",
-        "Survival",
-        "Open World",
-        "Prison",
-        "Creative"
+        "SkyBlock",
+        "Open World"
     ],
     "website": "https://mineland.net",
     "socials": {
