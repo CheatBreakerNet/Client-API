@@ -1,0 +1,35 @@
+{
+    "id": "akumamc",
+    "name": "AkumaMC",
+    "description": "AkumaMC is the best Minecraft OP Prison & Skyblock Server out there. Your experience is our #1 priority.",
+    "addresses": [
+        "akumamc.net",
+        "akumamc.com"
+    ],
+    "primaryAddress": "akumamc.net",
+    "minecraftVersions": [
+        "1.8.9",
+        "1.21.5"
+    ],
+    "primaryMinecraftVersion": "1.21.5",
+    "primaryColor": "ffb826",
+    "secondaryColor": "f69c1b",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Prison",
+        "Skyblock"
+    ],
+    "website": "https://akumamc.net/",
+    "store": "https://store.akumamc.net/",
+    "socials": {
+        "twitter": "AkumaMC_net",
+        "discord": "https://discord.com/akumamc"
+    }
+}
