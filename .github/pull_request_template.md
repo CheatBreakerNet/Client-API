@@ -1,3 +1,6 @@
+<!-- NOTE: Any PR submitted without having the relevant checkboxes checked will be closed! -->
+<!-- Put an X between the brackets to check a box (e.g [x]) -->
+
 ### General:
 * [ ] The pull request title is descriptive. *(ex. `Added GoldenPvP Network`, not `Updated metadata.json`)*
 * [ ] The pull request does not contain any unrelated commits.  *(ex. commits from previous pull requests)*
