@@ -1,0 +1,32 @@
+{
+    "id": "donutnetwork",
+    "name": "DonutNetwork",
+    "description": "The best server to for Clutching and Bridging",
+    "addresses": [
+        "donutnetwork.eu"
+    ],
+    "primaryAddress": "donutnetwork.eu",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff7b00",
+    "secondaryColor": "#ff7b01",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://donutnetwork.eu/",
+    "socials": {
+        "youtube": "DonutNetwork_eu",
+        "discord": "https://discord.donutnetwork.eu/"
+    }
+}
