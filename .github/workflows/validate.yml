@@ -16,7 +16,7 @@ jobs:
       # Prepare the working dir
       - name: Clear any existing files
         run: rm -rf *
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       # Install Python
       - name: Setup Python 3.9
