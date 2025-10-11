@@ -1,7 +1,7 @@
 {
     "id": "fara",
     "name": "FaraMC",
-    "description": "The next gen of Minecraft Minigames.",
+    "description": "The next gen of Minecraft Minigames",
     "addresses": [
         "faramc.uk", "tcpshield.faramc.uk", "neoprotect.faramc.uk", "playit.faramc.uk"
     ],
@@ -24,9 +24,9 @@
         "Minigames",
         "PvP"
     ],
-    "website": "https://faramc.uk",
+    "website": "faramc.uk",
     "socials": {
-        "discord": "https://discord.com/invite/2H5Z66StvM",
+        "discord": "discord.gg/2H5Z66StvM",
         "tiktok": "faramctt"
         "youtube": "faramcyt"
     }
