@@ -3,11 +3,12 @@
     "name": "FaraMC",
     "description": "The next gen of Minecraft Minigames",
     "addresses": [
-        "faramc.uk", "tcpshield.faramc.uk", "neoprotect.faramc.uk", "playit.faramc.uk"
+        "faramc.uk"
     ],
     "primaryAddress": "faramc.uk",
     "minecraftVersions": [
-        "1.8.*", "1.21.*"
+        "1.8.*",
+         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#800080",
@@ -24,9 +25,9 @@
         "Minigames",
         "PvP"
     ],
-    "website": "faramc.uk",
+    "website": "https://faramc.uk",
     "socials": {
-        "discord": "discord.gg/2H5Z66StvM",
+        "discord": "https://discord.gg/2H5Z66StvM",
         "tiktok": "faramctt"
         "youtube": "faramcyt"
     }
