@@ -2,7 +2,6 @@
     "id": "pvprivals",
     "name": "PvPRivals",
     "website": "https://pvprivals.net/",
-    "store": "https://store.pvprivals.net/",
     "description": "The Competitive Network",
     "addresses": [
         "pvprivals.net"
@@ -28,7 +27,7 @@
         "de",
         "fr"
     ],
-    "primaryRegion": "SA",
+    "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
@@ -39,11 +38,5 @@
     "socials": {
         "twitter": "PvPRivalsNet",
         "discord": "https://discord.gg/pvprivals"
-    },
-    "votingLinks": [
-        "https://de.namemc.com/server/pvpgym.net?q=pvprivals.net"
-    ],
-    "compliance": {
-        "rules": "https://pvprivals.net/rules"
     }
 }
