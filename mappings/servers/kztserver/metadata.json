@@ -1,13 +1,13 @@
 {
     "id": "kztserver",
     "name": "KZTSERVER",
-    "description": "A Japanese server where you can enjoy a variety of games",
+    "description": "A light and fun Japanese server",
     "addresses": [
         "kztmc.net"
     ],
     "primaryAddress": "mc.kztmc.net",
     "minecraftVersions": [
-        "1.8.*"
+        "1.8.9"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#ffaa00",
@@ -17,9 +17,9 @@
         "en",
         "ja"
     ],
-    "primaryRegion": "AS",
+    "primaryRegion": "JPN",
     "regions": [
-        "AS"
+        "JPN"
     ],
     "gameTypes": [
         "Minigames",
@@ -34,3 +34,4 @@
         "youtube": "kztserver"
     }
 }
+
