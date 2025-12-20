@@ -17,9 +17,9 @@
         "en",
         "ja"
     ],
-    "primaryRegion": "JPN",
+    "primaryRegion": "AS",
     "regions": [
-        "JPN"
+        "AS"
     ],
     "gameTypes": [
         "Minigames",
@@ -27,8 +27,7 @@
         "Creative"
     ],
     "website": "https://site.kztmc.net/",
-    "store": "https://store.kztmc.net/",
-    "wiki": "https://wiki.kztmc.net/",
+
     "socials": {
         "discord": "https://discord.com/invite/Qzv5qMy2Fd",
         "youtube": "https://www.youtube.com/@kztserver"
