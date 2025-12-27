@@ -1,0 +1,35 @@
+{
+    "id": "kztserver",
+    "name": "KZTSERVER",
+    "description": "A light and fun Japanese server",
+    "addresses": [
+        "kztmc.net"
+    ],
+    "primaryAddress": "mc.kztmc.net",
+    "minecraftVersions": [
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffaa00",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "ja",
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Creative"
+    ],
+    "website": "https://site.kztmc.net/",
+    "socials": {
+        "discord": "https://discord.com/invite/Qzv5qMy2Fd",
+        "youtube": "@kztserver"
+    }
+}
+
