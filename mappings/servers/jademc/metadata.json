@@ -1,0 +1,33 @@
+{
+  "id": "jademc",
+  "name": "Jade Network",
+  "description": "We're your home with the Hardcore Factions",
+  "addresses": [
+    "play.jademc.net"
+  ],
+  "primaryAddress": "play.jademc.net",
+  "minecraftVersions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#275EF5",
+  "secondaryColor": "#070DAD",
+  "primaryLanguage": "en",
+  "languages": [
+    "en",
+    "es-EN"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP",
+    "HCF"
+  ],
+  "store": "https://store.jademc.net",
+  "socials": {
+    "discord": "https://discord.gg/2w7udRCyed"
+  }
+}
