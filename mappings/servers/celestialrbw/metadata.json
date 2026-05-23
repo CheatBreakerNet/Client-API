@@ -3,8 +3,7 @@
     "name": "Celestial Network",
     "description": "The #1 Ranked Bedwars Network in the Middle East",
     "addresses": [
-        "celestialrbw.fun",
-        "alt.celestialrbw.fun"
+        "celestialrbw.fun"
     ],
     "primaryAddress": "celestialrbw.fun",
     "minecraftVersions": [
@@ -25,7 +24,7 @@
         "PvP",
         "Minigames"
     ],
-    "website": "https://store.celestialrbw.fun",
+    "website": "https://web.celestialrbw.fun",
     "socials": {
         "youtube": "https://youtube.com/@CelestialRBW",
         "discord": "https://discord.gg/celestialrbw"
