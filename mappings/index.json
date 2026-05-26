@@ -185,6 +185,40 @@
         "inactive": false
     },
     {
+        "id": "celestialrbw",
+        "name": "Celestial Network",
+        "description": "The #1 Ranked Bedwars Network in the Middle East",
+        "addresses": [
+            "celestialrbw.fun"
+        ],
+        "primaryAddress": "celestialrbw.fun",
+        "minecraftVersions": [
+            "1.8.9",
+            "1.8"
+        ],
+        "primaryMinecraftVersion": "1.8.9",
+        "primaryColor": "#00518f",
+        "secondaryColor": "#378dcf",
+        "primaryLanguage": "en",
+        "languages": [
+            "en"
+        ],
+        "primaryRegion": "AS",
+        "regions": [
+            "EU"
+        ],
+        "gameTypes": [
+            "PvP",
+            "Minigames"
+        ],
+        "website": "https://web.celestialrbw.fun",
+        "socials": {
+            "youtube": "https://youtube.com/@CelestialRBW",
+            "discord": "https://discord.gg/celestialrbw"
+        },
+        "inactive": false
+    },
+    {
         "id": "cobranetwork",
         "name": "Cobra Network",
         "description": "Home to Cobra Custom Teams",
