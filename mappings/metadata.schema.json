@@ -118,13 +118,6 @@
                     "type": "string"
                 }
             }
-        },
-        "thirdPartyAPIs": {
-            "type": "array",
-            "uniqueItems": true,
-            "items": {
-                "$ref": "#/definitions/ThirdPartyAPI"
-            }
         }
     },
     "definitions": {
@@ -218,12 +211,6 @@
                 "Creative",
                 "Roleplay",
                 "Adventure"
-            ]
-        },
-        "ThirdPartyAPI": {
-            "type": "string",
-            "enum": [
-                "Apollo"
             ]
         }
     }
