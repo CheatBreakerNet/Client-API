@@ -27,8 +27,5 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/GmptZQfBRa"
-    },
-    "thirdPartyAPIs": [
-        "Apollo"
-    ]
+    }
 }
