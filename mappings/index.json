@@ -965,9 +965,6 @@
         "socials": {
             "discord": "https://discord.com/invite/GmptZQfBRa"
         },
-        "thirdPartyAPIs": [
-            "Apollo"
-        ],
         "inactive": false
     },
     {
