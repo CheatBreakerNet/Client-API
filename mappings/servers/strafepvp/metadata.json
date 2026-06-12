@@ -27,13 +27,10 @@
         "en",
         "es-EN"
     ],
-    "store": "https://store.strafepvp.cc/",
+    "store": "https://strafepvp.tebex.io/",
     "socials": {
         "discord": "https://discord.gg/jh636CGwCQ",
         "youtube": "https://www.youtube.com/@StrafePvPNetwork",
         "tiktok": "https://www.tiktok.com/@strafepvpnetwork"
-    },
-    "thirdPartyAPIs": [
-        "Apollo"
-    ]
+    }
 }
