@@ -28,8 +28,5 @@
     "website": "https://goldenpvp.net",
     "socials": {
         "twitter": "GoldenPvPNet"
-    },
-    "thirdPartyAPIs": [
-        "Apollo"
-    ]
+    }
 }
