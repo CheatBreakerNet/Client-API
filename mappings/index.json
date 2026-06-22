@@ -1846,6 +1846,40 @@
         "inactive": false
     },
     {
+        "id": "voidtag",
+        "name": "Void Tag",
+        "website": "https://voidtag.net",
+        "store": "https://store.voidtag.net",
+        "description": "A unique twist on TNT Tag.",
+        "addresses": [
+            "voidtag.net"
+        ],
+        "primaryAddress": "voidtag.net",
+        "gameTypes": [
+            "PvP",
+            "Minigames"
+        ],
+        "primaryColor": "#ff00a8",
+        "secondaryColor": "#9600ff",
+        "primaryMinecraftVersion": "1.8.9",
+        "minecraftVersions": [
+            "1.8.9",
+            "1.8"
+        ],
+        "primaryRegion": "NA",
+        "regions": [
+            "NA"
+        ],
+        "primaryLanguage": "en",
+        "languages": [
+            "en"
+        ],
+        "socials": {
+            "discord": "https://discord.gg/PPNMtpRn4q"
+        },
+        "inactive": false
+    },
+    {
         "id": "ximipvp",
         "name": "XimiPvP",
         "description": "Italian Practice server for all",
