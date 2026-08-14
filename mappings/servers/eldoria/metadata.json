@@ -1,0 +1,42 @@
+{
+    "id": "eldoria",
+    "name": "Eldoria",
+    "website": "https://el-doria.fr/",
+    "description": "Le réseau compétitif UHC et PvP",
+    "addresses": [
+        "el-doria.fr"
+    ],
+    "primaryAddress": "el-doria.fr",
+    "primaryColor": "#55ffff",
+    "secondaryColor": "#0d0604",
+    "minecraftVersions": [
+        "1.7.10",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC",
+        "Archer",
+        "Soup",
+        "Potions"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/el-doria.fr"
+    }
+}
