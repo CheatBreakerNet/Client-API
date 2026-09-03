@@ -154,7 +154,7 @@ def validate_discord_logo(path, server_name) -> list:
 '''
 Validate that server primary background meets the following requirements:
   * is a PNG
-  * is 774x363 or 16:9
+  * is 774x363 or 447x172 or 16:9
 '''
 def validate_primary_background(path, server_name) -> list:
     # Check image exits - silently skip if not (as it is not yet a requirement)
@@ -173,35 +173,8 @@ def validate_primary_background(path, server_name) -> list:
     aspect_ratio = primary_background_image.width / primary_background_image.height
     # Check image dimensions are 774x363 or if the aspect ratio is 16:9
     if (abs(aspect_ratio - (16 / 9)) > 0.01):
-        if (primary_background_image.width != 774 or primary_background_image.height != 363):
+        if ((primary_background_image.width != 774 or primary_background_image.height != 363) or (primary_background_image.width != 447 or primary_background_image.height != 172)):
             errors.append(
-                f'{server_name}\'s server primary background resolution is not 774x363 or 16:9... Please ensure the image meets the requirements before proceeding.')
-
-    return errors
-
-
-'''
-Validate that server secondary background meets the following requirements:
-  * is a PNG
-  * is 447x172
-'''
-def validate_secondary_background(path, server_name) -> list:
-    # Check image exits - silently skip if not (as it is not yet a requirement)
-    if not os.path.isfile(path):
-        print(f'No secondary background found for {server_name}... skipping.')
-        return []
-
-    errors = []
-    secondary_background_image = image.open(path)
-
-    # Check image format is a PNG
-    if secondary_background_image.format != 'PNG':
-        errors.append(
-            f'{server_name}\'s server secondary background is not a PNG (currently {secondary_background_image.format})... Please ensure the image meets the requirements before proceeding.')
-
-    # Check image dimensions are 447x172
-    if secondary_background_image.width != 447 or secondary_background_image.height != 172:
-        errors.append(
-            f'{server_name}\'s server secondary background resolution is not 447x172... Please ensure the image meets the requirements before proceeding.')
+                f'{server_name}\'s server primary background resolution is not 774x363 or 447x172 or 16:9... Please ensure the image meets the requirements before proceeding.')
 
     return errors
