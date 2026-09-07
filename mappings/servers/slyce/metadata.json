@@ -1,7 +1,7 @@
 {
     "id": "slyce",
     "name": "Slyce",
-    "description": "Competitive Mini-Game Network",
+    "description": "France's competitive 1.8.9 BedWars server",
     "addresses": [
         "slycemc.eu",
         "slycemc.com",
@@ -11,25 +11,24 @@
     "minecraftVersions": [
         "1.8.*"
     ],
-    "primaryLanguage": "en",
+    "primaryLanguage": "fr",
     "languages": [
-        "en",
-        "fr"
+        "fr",
+        "en"
     ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#f29001",
-    "secondaryColor": "#6d617d",
+    "primaryColor": "#43b49f",
+    "secondaryColor": "#0f6155",
     "gameTypes": [
         "PvP",
         "Minigames"
     ],
     "website": "https://www.slyce.fr/",
     "socials": {
-        "twitter": "slycemc",
-        "discord": "https://discord.com/invite/r9zEakVkxt"
+        "discord": "https://discord.gg/DZJ9hhPrtE"
     }
 }
