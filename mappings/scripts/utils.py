@@ -170,11 +170,16 @@ def validate_primary_background(path, server_name) -> list:
         errors.append(
             f'{server_name}\'s server primary background is not a PNG (currently {primary_background_image.format})... Please ensure the image meets the requirements before proceeding.')
 
-    aspect_ratio = primary_background_image.width / primary_background_image.height
+    w, h = primary_background_image.width, primary_background_image.height
+    aspect_ratio = w / h
+
+    is_16_9 = abs(aspect_ratio - (16 / 9)) <= 0.01
+    is_774x363 = (w == 774 and h == 363)
+    is_447x172 = (w == 447 and h == 172)
+    
     # Check image dimensions are 774x363 or if the aspect ratio is 16:9
-    if (abs(aspect_ratio - (16 / 9)) > 0.01):
-        if ((primary_background_image.width != 774 or primary_background_image.height != 363) or (primary_background_image.width != 447 or primary_background_image.height != 172)):
-            errors.append(
-                f'{server_name}\'s server primary background resolution is not 774x363 or 447x172 or 16:9... Please ensure the image meets the requirements before proceeding.')
+    if not (is_16_9 or is_774x363 or is_447x172):
+        errors.append(
+            f'{server_name}\'s server primary background resolution is not 774x363 or 447x172 or 16:9... Please ensure the image meets the requirements before proceeding.')
 
     return errors
