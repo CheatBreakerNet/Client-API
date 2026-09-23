@@ -1,0 +1,35 @@
+{
+    "id": "tokyomc",
+    "name": "TokyoMC",
+    "addresses": [
+        "tokyomc.club"
+    ],
+    "primaryAddress": "tokyomc.club",
+    "primaryColor": "#e67e26",
+    "secondaryColor": "#fff000",
+    "gameTypes": [
+        "PvP",
+        "UHC",
+        "Hardcore"
+    ],
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "store": "https://tokyomc.club/store",
+    "socials": {
+        "discord": "https://tokyomc.club/discord",
+        "instagram": "https://www.instagram.com/tokyomcnetwork/",
+        "twitter": "https://x.com/TokyoMCNetwork"
+    }
+}
