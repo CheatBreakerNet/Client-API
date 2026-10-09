@@ -1,0 +1,22 @@
+{
+    "id": "towerwatch",
+    "name": "TowerWatch",
+    "description": "Play Skyblock and PvP on TowerWatch.",
+    "addresses": [
+        "towerwatch.top"
+    ],
+    "primaryAddress": "towerwatch.top",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#12fbff",
+    "secondaryColor": "#282b2b",
+    "gameTypes": [
+        "SkyBlock",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/Jb2ajakX"
+    }
+}

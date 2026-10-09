@@ -1,0 +1,28 @@
+{
+    "id": "ratonii",
+    "name": "Ratonii Network",
+    "addresses": [
+        "ratonii.ro"
+    ],
+    "primaryAddress": "mc.ratonii.ro",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffff81",
+    "secondaryColor": "#5bb642",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Survival",
+        "SkyBlock"
+    ],
+    "website": "https://ratonii.ro/",
+    "store": "https://store.ratonii.ro/",
+    "socials": {
+        "discord": "https://discord.com/invite/mcratonii"
+    }
+}

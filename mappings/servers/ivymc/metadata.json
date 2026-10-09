@@ -1,0 +1,33 @@
+{
+    "id": "ivymc",
+    "name": "IvyMC",
+    "description": "SMP and Minigames focused server",
+    "addresses": [
+        "ivymc.fr"
+    ],
+    "primaryAddress": "play.ivymc.fr",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#3b8540",
+    "secondaryColor": "#2ec54f",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Survival",
+        "PvP"
+    ],
+    "website": "https://ivymc.fr/",
+    "socials": {
+        "discord": "https://discord.gg/MPfasEk"
+    }
+}

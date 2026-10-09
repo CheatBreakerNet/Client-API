@@ -1,0 +1,40 @@
+{
+    "id": "celunyx",
+    "name": "Celunyx",
+    "description": "Play different modes",
+    "addresses": [
+        "celunyx.com"
+    ],
+    "primaryAddress": "celunyx.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#14B5C4",
+    "secondaryColor": "#000000",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "UHC"
+    ],
+    "website": "https://celunyx.com/",
+    "store": "https://store.celunyx.com/",
+    "socials": {
+        "twitter": "Celunyx",
+        "discord": "https://discord.gg/ZJPF7yKBtC",
+        "youtube": "Celunyx",
+        "instagram": "Celunyx",
+        "reddit": "Celunyx",
+        "tiktok": "@Celunyx",
+        "facebook": "Celunyx"
+    }
+}

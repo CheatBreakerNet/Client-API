@@ -1,0 +1,36 @@
+{
+    "id": "dynastypvp",
+    "name": "DynastyPvP",
+    "description": "OG competitive Factions.",
+    "addresses": [
+        "dynastypvp.net"
+    ],
+    "primaryAddress": "play.dynastypvp.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFAA00",
+    "secondaryColor": "#FFFF55",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP",
+        "UHC"
+    ],
+    "website": "https://www.dynastypvp.net",
+    "store": "https://shop.dynastypvp.net",
+    "socials": {
+        "twitter": "InfiniteGGroup",
+        "discord": "https://discord.gg/sZ9ZG2duyY",
+        "facebook": "dynastypvpserver"
+    }
+}

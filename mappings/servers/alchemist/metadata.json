@@ -1,0 +1,32 @@
+{
+    "id": "alchemist",
+    "name": "Alchemist Network",
+    "addresses": [
+        "alchemistnetwork.org"
+    ],
+    "primaryAddress": "alchemistnetwork.org",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Adventure"
+    ],
+    "website": "https://www.alchemistnetwork.org",
+    "store": "https://www.alchemistnetwork.org/store",
+    "socials": {
+        "discord": "https://discord.gg/6y5QghB"
+    }
+}

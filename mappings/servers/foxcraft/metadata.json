@@ -1,0 +1,31 @@
+{
+    "id": "foxcraft",
+    "name": "FoxCraft",
+    "description": "Play Adventure, Survival, and more on FoxCraft.",
+    "addresses": [
+        "foxcraft.net",
+        "mcfoxcraft.com"
+    ],
+    "primaryAddress": "play.foxcraft.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f3893b",
+    "secondaryColor": "#5a9b3c",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Adventure",
+        "Survival",
+        "Parkour"
+    ],
+    "website": "https://www.mcfoxcraft.com/",
+    "store": "http://store.foxcraft.net",
+    "socials": {
+        "twitter": "mcFoxCraft",
+        "discord": "https://discord.com/invite/ZpNuSdC"
+    }
+}

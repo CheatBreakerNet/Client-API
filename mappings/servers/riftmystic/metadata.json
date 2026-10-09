@@ -1,0 +1,33 @@
+{
+    "id": "riftmystic",
+    "name": "RiftMystic Network",
+    "addresses": [
+        "riftmystic.com"
+    ],
+    "primaryAddress": "play.riftmystic.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#17e95e",
+    "secondaryColor": "#00c1ea",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "store": "https://store.riftmystic.com/",
+    "socials": {
+        "discord": "https://discord.gg/WQC6dsVMRZ",
+        "instagram": "riftmystic"
+    }
+}

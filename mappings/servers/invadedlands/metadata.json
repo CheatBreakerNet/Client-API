@@ -1,0 +1,38 @@
+{
+    "id": "invadedlands",
+    "name": "InvadedLands",
+    "addresses": [
+        "invadedlands.net",
+        "skeppylovesflipflops.xyz",
+        "pvplands.net",
+        "nitro.rip"
+    ],
+    "primaryAddress": "invadedlands.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f5bc04",
+    "secondaryColor": "#2c2829",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "SkyBlock"
+    ],
+    "website": "https://invadedlands.net/",
+    "store": "https://store.invadedlands.net/",
+    "socials": {
+        "twitter": "invadedlands",
+        "discord": "https://discord.com/invite/WrrPtqJ",
+        "reddit": "InvadedLands"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "luckyvn",
+    "name": "LUCKYVN",
+    "description": "Play Survival, Minigames, and more on LUCKYVN.",
+    "addresses": [
+        "luckyvn.com"
+    ],
+    "primaryAddress": "mc.luckyvn.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#d7f7a1",
+    "secondaryColor": "#fd1c1d",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://luckyvn.com",
+    "store": "https://luckyvn.com/nap-the",
+    "socials": {
+        "discord": "https://discord.com/invite/luckyvn",
+        "facebook": "MCLuckyVN"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "minecadia",
+    "name": "Minecadia",
+    "addresses": [
+        "minecadia.com",
+        "minecadia.net"
+    ],
+    "primaryAddress": "play.minecadia.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fcad05",
+    "secondaryColor": "#062f5d",
+    "gameTypes": [
+        "Factions",
+        "Survival",
+        "Prison"
+    ],
+    "website": "https://minecadia.com/",
+    "store": "https://store.minecadia.com/",
+    "socials": {
+        "twitter": "PlayMinecadia",
+        "discord": "https://discord.com/invite/minecadia"
+    }
+}

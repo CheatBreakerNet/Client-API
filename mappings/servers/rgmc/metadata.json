@@ -1,0 +1,30 @@
+{
+    "id": "rgmc",
+    "name": "RGMC",
+    "description": "Play Minigames, PvP, and more on RGMC.",
+    "addresses": [
+        "rgmc.pl"
+    ],
+    "primaryAddress": "rgmc.pl",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#261e5a",
+    "secondaryColor": "#fafafa",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "store": "https://sklep.rgmc.pl/",
+    "socials": {
+        "discord": "https://discord.com/invite/JVPTuSy3E3",
+        "tiktok": "@rgmc.pl",
+        "facebook": "RGMCPL"
+    }
+}

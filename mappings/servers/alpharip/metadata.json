@@ -1,0 +1,34 @@
+{
+    "id": "alpharip",
+    "name": "Alpha Network",
+    "addresses": [
+        "alpha.rip"
+    ],
+    "primaryAddress": "alpha.rip",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFD740",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "HCF",
+        "Factions",
+        "PvP"
+    ],
+    "website": "https://alpha.rip",
+    "store": "https://store.alpha.rip",
+    "socials": {
+        "telegram": "AlphaRIPNetwork",
+        "discord": "https://discord.gg/alpharip"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "paulberger",
+    "name": "Paulberger",
+    "description": "Unleash your creativity on Paulberger.",
+    "addresses": [
+        "paulberger.gg"
+    ],
+    "primaryAddress": "mc.paulberger.gg",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#0e99c9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Creative"
+    ],
+    "store": "https://shopmc.paulberger.gg/",
+    "socials": {
+        "discord": "https://discord.com/invite/paulberger"
+    }
+}

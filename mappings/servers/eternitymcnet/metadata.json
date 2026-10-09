@@ -1,0 +1,32 @@
+{
+    "id": "eternitymcnet",
+    "name": "EternityMC.net",
+    "description": "Play PvP, Survival, and more on EternityMC.net.",
+    "addresses": [
+        "eternitymc.net"
+    ],
+    "primaryAddress": "mc.eternitymc.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00aaaa",
+    "secondaryColor": "#55ffff",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Minigames"
+    ],
+    "website": "https://eternitymc.net/",
+    "store": "https://store.eternitymc.net/",
+    "socials": {
+        "instagram": "eternitymcnet",
+        "tiktok": "@eternitymc.net",
+        "discord": "https://discord.com/invite/7Y3my2J7nQ",
+        "youtube": "@eternitymcnet"
+    }
+}

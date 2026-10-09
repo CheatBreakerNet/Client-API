@@ -1,0 +1,28 @@
+{
+    "id": "vaey",
+    "name": "Vaey Network",
+    "description": "Minecraft HCF & Others",
+    "addresses": [
+        "vaeypvp.live"
+    ],
+    "primaryAddress": "vaeypvp.live",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#75cae3",
+    "secondaryColor": "#3883a7",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Factions",
+        "Survival"
+    ],
+    "store": "https://store.vaeypvp.live",
+    "socials": {
+        "discord": "https://discord.gg/423hKFVAjv"
+    }
+}

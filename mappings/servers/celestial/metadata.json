@@ -1,0 +1,25 @@
+{
+    "id": "celestial",
+    "name": "Celestial Ranked",
+    "addresses": [
+        "celestialrbw.it"
+    ],
+    "primaryAddress": "mc.celestialrbw.it",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#1387ca",
+    "secondaryColor": "#262d37",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/edSfVfpmwH"
+    }
+}

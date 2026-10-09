@@ -1,0 +1,28 @@
+{
+    "id": "hyleria",
+    "name": "hyleria",
+    "description": "Hyleria V1 / PvP|Faction",
+    "addresses": [
+        "hyleria.fr"
+    ],
+    "primaryAddress": "play.hyleria.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff9d2e",
+    "secondaryColor": "#87231a",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "website": "https://hyleria.fr/",
+    "store": "https://hyleria.fr/tebex",
+    "socials": {
+        "discord": "https://discord.gg/Sa2QWbPKzb"
+    }
+}

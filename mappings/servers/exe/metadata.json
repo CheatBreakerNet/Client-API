@@ -26,8 +26,9 @@
         "PvP",
         "PvE",
         "Prison"
-        ],
+    ],
     "socials": {
         "discord": "https://discord.gg/rede-exe"
-    }
+    },
+    "store": "https://loja.rede-exe.com"
 }

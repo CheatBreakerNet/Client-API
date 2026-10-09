@@ -1,0 +1,29 @@
+{
+    "id": "eldoria",
+    "name": "Eldoria",
+    "description": "Play PvP and UHC on Eldoria.",
+    "addresses": [
+        "el-doria.fr"
+    ],
+    "primaryAddress": "el-doria.fr",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#55FFFF",
+    "secondaryColor": "#FFFFFF",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC"
+    ],
+    "website": "https://el-doria.fr/",
+    "store": "https://el-doria.fr/store",
+    "socials": {
+        "discord": "https://discord.gg/gMAb2WcTGa"
+    }
+}

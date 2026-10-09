@@ -1,0 +1,35 @@
+{
+    "id": "medoramc",
+    "name": "MedoraMC",
+    "description": "MedoraMC - Join now and play with your friends!",
+    "addresses": [
+        "medoramc.it"
+    ],
+    "primaryAddress": "play.medoramc.it",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ae00ff",
+    "secondaryColor": "#cf2bcc",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Minigames"
+    ],
+    "website": "https://medoramc.it/",
+    "store": "https://store.medoramc.it/",
+    "socials": {
+        "discord": "https://discord.com/invite/xJKMuW4aN2",
+        "telegram": "MedoraMCNetwork"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "endercraft",
+    "name": "EnderCraft",
+    "addresses": [
+        "endercraft.com.br"
+    ],
+    "primaryAddress": "endercraft.com.br",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#a509e8",
+    "secondaryColor": "#0A56A5",
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "SkyBlock",
+        "PvP"
+    ],
+    "website": "https://loja.endercraft.com.br",
+    "store": "https://loja.endercraft.com.br/shop",
+    "socials": {
+        "tiktok": "EnderCrafBR",
+        "instagram": "EnderCraftBR",
+        "discord": "https://discord.gg/endercraft",
+        "youtube": "https://www.youtube.com/@endercraft_br"
+    }
+}

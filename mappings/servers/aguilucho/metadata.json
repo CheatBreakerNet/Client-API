@@ -1,0 +1,31 @@
+{
+    "id": "aguilucho",
+    "name": "Aguilucho Network",
+    "addresses": [
+        "aguilucho.ar"
+    ],
+    "primaryAddress": "mc.aguilucho.ar",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e0be8c",
+    "secondaryColor": "#332419",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "Open World"
+    ],
+    "website": "https://www.aguilucho.ar/",
+    "socials": {
+        "discord": "https://discord.com/invite/waMta633EK"
+    }
+}

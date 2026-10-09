@@ -1,0 +1,26 @@
+{
+    "id": "minefun",
+    "name": "MineFun Network",
+    "description": "Play Survival and PvP on MineFun Network.",
+    "addresses": [
+        "minefun.net"
+    ],
+    "primaryAddress": "minefun.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#6CF70C",
+    "secondaryColor": "#0CF7F0",
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "store": "https://tienda.minefun.net/",
+    "socials": {
+        "twitter": "ntminefun",
+        "discord": "https://discord.gg/minefun",
+        "tiktok": "@minefunnetwork",
+        "instagram": "minefun"
+    }
+}

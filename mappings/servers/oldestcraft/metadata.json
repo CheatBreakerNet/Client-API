@@ -1,0 +1,32 @@
+{
+    "id": "oldestcraft",
+    "name": "OldestCraft Network",
+    "description": "Network is beautifull!",
+    "addresses": [
+        "oldestcraft.online"
+    ],
+    "primaryAddress": "play.oldestcraft.online",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#2f7cdb",
+    "secondaryColor": "#e9aa65",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Survival",
+        "PvP"
+    ],
+    "website": "https://oldestcraft.online",
+    "socials": {
+        "discord": "https://discord.gg/af26sDsUtn"
+    }
+}

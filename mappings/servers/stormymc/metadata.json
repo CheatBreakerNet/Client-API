@@ -1,0 +1,31 @@
+{
+    "id": "stormymc",
+    "name": "StormyMC",
+    "addresses": [
+        "stormymc.com"
+    ],
+    "primaryAddress": "play.stormymc.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00AAAA",
+    "secondaryColor": "#55FFFF",
+    "primaryLanguage": "ar",
+    "languages": [
+        "en",
+        "ar"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "store": "https://store.stormymc.com",
+    "socials": {
+        "discord": "https://discord.gg/stormymc"
+    }
+}

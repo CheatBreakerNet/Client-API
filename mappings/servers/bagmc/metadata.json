@@ -1,0 +1,29 @@
+{
+    "id": "bagmc",
+    "name": "BagMC",
+    "description": "Play Minigames, PvP, and more on BagMC.",
+    "addresses": [
+        "bagmc.pl"
+    ],
+    "primaryAddress": "bagmc.pl",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f1be6f",
+    "secondaryColor": "#822f5e",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "SkyBlock"
+    ],
+    "website": "https://bagmc.pl/",
+    "store": "https://bagmc.pl/servers",
+    "socials": {
+        "discord": "https://discord.com/invite/65JQDprgKa"
+    }
+}

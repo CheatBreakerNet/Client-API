@@ -1,0 +1,40 @@
+{
+    "id": "oasisworld",
+    "name": "Oasis World",
+    "description": "Multiple game modes, one community.",
+    "addresses": [
+        "oasisworld.net"
+    ],
+    "primaryAddress": "play.oasisworld.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#F59E0B",
+    "secondaryColor": "#FB923C",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "de",
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Adventure"
+    ],
+    "website": "https://oasisworld.net",
+    "store": "https://store.oasisworld.net",
+    "socials": {
+        "twitter": "oasisworldofficial",
+        "discord": "https://discord.gg/oasismc",
+        "youtube": "@oasisworldofficial",
+        "instagram": "oasisworldofficial",
+        "tiktok": "@oasisworldofficial",
+        "facebook": "oasisworldofficial"
+    }
+}

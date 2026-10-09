@@ -1,0 +1,22 @@
+{
+    "id": "vampnetwork",
+    "name": "VAMP Network",
+    "addresses": [
+        "vampmc.fun"
+    ],
+    "primaryAddress": "play.vampmc.fun",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ceb19e",
+    "secondaryColor": "#000000",
+    "gameTypes": [
+        "Minigames",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/Bnadu49uPu",
+        "youtube": "@gamingwithprajeet"
+    }
+}

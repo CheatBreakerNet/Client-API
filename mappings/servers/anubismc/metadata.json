@@ -1,0 +1,28 @@
+{
+    "id": "anubismc",
+    "name": "AnubisMC",
+    "description": "Experience survival gameplay on AnubisMC.",
+    "addresses": [
+        "anubismc.com"
+    ],
+    "primaryAddress": "play.anubismc.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f24fff",
+    "secondaryColor": "#eeba96",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "website": "https://anubismc.com/",
+    "store": "https://buy.anubismc.com/",
+    "socials": {
+        "twitter": "AnubisMCS",
+        "discord": "https://discord.com/invite/H3dhmH6bzE"
+    }
+}

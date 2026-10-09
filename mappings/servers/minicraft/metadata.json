@@ -1,0 +1,32 @@
+{
+    "id": "minicraft",
+    "name": "Minicraft",
+    "description": "Play Survival, Skyblock, and more on Minicraft.",
+    "addresses": [
+        "minicraft.cz"
+    ],
+    "primaryAddress": "play.minicraft.cz",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ecb94f",
+    "secondaryColor": "#372826",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "SkyBlock",
+        "PvP"
+    ],
+    "website": "https://www.minicraft.cz/",
+    "store": "https://store.minicraft.cz/",
+    "socials": {
+        "twitter": "minicraftcz",
+        "discord": "https://discord.com/invite/ZaH8JBvk",
+        "instagram": "minicraft.cz",
+        "facebook": "czminicraft"
+    }
+}

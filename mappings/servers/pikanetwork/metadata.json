@@ -3,7 +3,9 @@
     "name": "PikaNetwork",
     "description": "The home of cracked Minecraft players",
     "addresses": [
-        "pika-network.net"
+        "pika-network.net",
+        "pika.host",
+        "pikanetwork.net"
     ],
     "primaryAddress": "play.pika-network.net",
     "minecraftVersions": [
@@ -29,6 +31,8 @@
     "store": "https://store.pika-network.net",
     "socials": {
         "twitter": "PikaNetworkMC",
-        "discord": "https://pika-network.net/discord"
+        "discord": "https://pika-network.net/discord",
+        "youtube": "UC-86TfZpgf53efsDlZg8Xow",
+        "instagram": "pika.network"
     }
 }

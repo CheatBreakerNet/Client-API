@@ -1,0 +1,34 @@
+{
+    "id": "pingumc",
+    "name": "PinguMC",
+    "addresses": [
+        "pingumc.com"
+    ],
+    "primaryAddress": "play.pingumc.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00a6ff",
+    "secondaryColor": "#def3ff",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA",
+        "SA"
+    ],
+    "gameTypes": [
+        "Creative",
+        "Minigames",
+        "Survival"
+    ],
+    "website": "https://pingumc.com/",
+    "store": "https://shop.pingumc.com/",
+    "socials": {
+        "discord": "https://discord.gg/g9K4ZwGrBX"
+    }
+}

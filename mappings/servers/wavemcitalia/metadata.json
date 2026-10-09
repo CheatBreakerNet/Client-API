@@ -1,0 +1,35 @@
+{
+    "id": "wavemcitalia",
+    "name": "WaveMC",
+    "description": "Join our server to play the best gamemodes",
+    "addresses": [
+        "wavemc.me"
+    ],
+    "primaryAddress": "play.wavemc.me",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00A2FF",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Survival"
+    ],
+    "website": "https://www.wavemc.me",
+    "store": "https://store.wavemc.me",
+    "socials": {
+        "discord": "https://discord.com/invite/c4TvwdJwg6",
+        "youtube": "@wavemcitalia",
+        "tiktok": "@wavemc.me"
+    }
+}

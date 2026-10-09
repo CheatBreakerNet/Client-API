@@ -1,0 +1,26 @@
+{
+    "id": "overshoteu",
+    "name": "Over-Shot.eu",
+    "description": "Experience survival gameplay on Over-Shot.eu.",
+    "addresses": [
+        "over-shot.eu"
+    ],
+    "primaryAddress": "mc.over-shot.eu",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#7fff00",
+    "secondaryColor": "#eeff01",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "store": "https://store.over-shot.eu/",
+    "socials": {
+        "discord": "https://discord.com/invite/nehqTEAuzz"
+    }
+}

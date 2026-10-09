@@ -1,0 +1,27 @@
+{
+    "id": "mineforge",
+    "name": "MineForge",
+    "description": "Play Survival and Skyblock on MineForge.",
+    "addresses": [
+        "mineforge.club",
+        "mineforge.id"
+    ],
+    "primaryAddress": "play.mineforge.id",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#84e53e",
+    "secondaryColor": "#ffffff",
+    "gameTypes": [
+        "Survival",
+        "SkyBlock"
+    ],
+    "website": "https://www.mineforge.net/",
+    "store": "https://store.mineforge.id/",
+    "socials": {
+        "discord": "https://discord.com/invite/mineforge",
+        "tiktok": "@mineforge.id",
+        "instagram": "mineforgeofficial"
+    }
+}

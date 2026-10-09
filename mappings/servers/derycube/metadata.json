@@ -1,0 +1,25 @@
+{
+    "id": "derycube",
+    "name": "Derycube",
+    "description": "Play Minigames, PvP, and more on Derycube.",
+    "addresses": [
+        "derycube.fr"
+    ],
+    "primaryAddress": "derycube.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffc100",
+    "secondaryColor": "#000000",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "UHC"
+    ],
+    "store": "https://derycube.fr/shop"
+}

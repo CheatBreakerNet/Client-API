@@ -1,0 +1,33 @@
+{
+    "id": "ayormc",
+    "name": "AyorMC",
+    "addresses": [
+        "ayormc.net",
+        "arbw.net"
+    ],
+    "primaryAddress": "mc.ayormc.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff9900",
+    "secondaryColor": "#6600ff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://www.ayormc.net/",
+    "store": "https://store.ayormc.net/",
+    "socials": {
+        "discord": "https://discord.com/invite/p4HcXRfM4S",
+        "youtube": "@ayorminecraft"
+    }
+}

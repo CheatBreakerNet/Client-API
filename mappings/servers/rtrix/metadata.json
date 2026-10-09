@@ -1,0 +1,35 @@
+{
+    "id": "rtrix",
+    "name": "Rtrix",
+    "addresses": [
+        "rtrix.eu"
+    ],
+    "primaryAddress": "mc.rtrix.eu",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00FFF5",
+    "secondaryColor": "#00C1FF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Parkour"
+    ],
+    "website": "https://rtrix.eu",
+    "store": "https://store.rtrix.eu",
+    "socials": {
+        "discord": "https://discord.gg/tN4BmRPKz8",
+        "instagram": "rtrix.eu",
+        "tiktok": "@rtrix.eu"
+    }
+}

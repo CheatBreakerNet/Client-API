@@ -1,0 +1,34 @@
+{
+    "id": "cubehaven",
+    "name": "CubeHaven",
+    "description": "A fun, unique and competitive Minecraft Network!",
+    "addresses": [
+        "cubehaven.net"
+    ],
+    "primaryAddress": "mc.cubehaven.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#F37335",
+    "secondaryColor": "#FDC830",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "SkyBlock",
+        "Prison"
+    ],
+    "website": "https://cubehaven.net",
+    "store": "https://store.cubehaven.net",
+    "socials": {
+        "discord": "https://discord.com/invite/p4yREXrwbD"
+    }
+}

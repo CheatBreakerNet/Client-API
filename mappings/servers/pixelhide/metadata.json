@@ -1,0 +1,31 @@
+{
+    "id": "pixelhide",
+    "name": "PixelHide",
+    "addresses": [
+        "pixelhide.net"
+    ],
+    "primaryAddress": "pixelhide.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#7700ff",
+    "secondaryColor": "#335fff",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://pixelhide.net",
+    "socials": {
+        "discord": "https://discord.gg/nzg6gbUsUm",
+        "youtube": "https://www.youtube.com/channel/UCkkQLi_gCaim1FNHzTjNG6g"
+    }
+}

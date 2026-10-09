@@ -1,0 +1,32 @@
+{
+    "id": "ogtimes",
+    "name": "OGTimes",
+    "description": "Play Minigames, PvP, and more on OGTimes.",
+    "addresses": [
+        "ogtimes.fun"
+    ],
+    "primaryAddress": "play.ogtimes.fun",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#efb810",
+    "secondaryColor": "#ffff00",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "PvE"
+    ],
+    "website": "https://ogtimes.fun",
+    "store": "https://store.ogtimes.fun/",
+    "socials": {
+        "twitter": "ogtimesgames",
+        "discord": "https://discord.gg/cg5d32vvBK",
+        "youtube": "OGTimes",
+        "twitch": "ogtimesgames"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "seeyaa",
+    "name": "seeyaa",
+    "addresses": [
+        "seeyaa.pl"
+    ],
+    "primaryAddress": "play.seeyaa.pl",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e43ce8",
+    "secondaryColor": "#bbbbbb",
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "website": "https://seeyaa.pl/",
+    "store": "https://sklep.seeyaa.pl/",
+    "socials": {
+        "discord": "https://discord.gg/JUnX4ANd9P",
+        "tiktok": "@seeyaa.pl"
+    }
+}

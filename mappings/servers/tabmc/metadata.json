@@ -1,0 +1,29 @@
+{
+    "id": "tabmc",
+    "name": "TabMC",
+    "description": "Play Minigames, PvP, and more on TabMC.",
+    "addresses": [
+        "tabmc.pl"
+    ],
+    "primaryAddress": "tabmc.pl",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#422e83",
+    "secondaryColor": "#ffca2c",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "SkyBlock"
+    ],
+    "store": "https://tabmc.pl/shop",
+    "socials": {
+        "discord": "https://discord.com/invite/c6chAZPBea",
+        "facebook": "tabmcpl"
+    }
+}

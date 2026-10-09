@@ -1,0 +1,35 @@
+{
+    "id": "vypercraftnetwork",
+    "name": "VyperCraft Network",
+    "description": "The best survival you will ever play",
+    "addresses": [
+        "vypercraft.es"
+    ],
+    "primaryAddress": "mc.vypercraft.es",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fefefe",
+    "secondaryColor": "#fefefe",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "store": "https://tienda.vypercraft.es",
+    "socials": {
+        "twitter": "vypercraft_es",
+        "discord": "https://discord.gg/TRgGuJGj4H"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "id": "exilemc",
+    "name": "ExileMC",
+    "addresses": [
+        "exilemc.com.br"
+    ],
+    "primaryAddress": "exilemc.com.br",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#18B6F4",
+    "secondaryColor": "#073A84",
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/dYxw9wdzm7"
+    }
+}

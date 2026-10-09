@@ -1,0 +1,29 @@
+{
+    "id": "roxbot",
+    "name": "Roxbot",
+    "description": "Play PvP and Parkour on Roxbot.",
+    "addresses": [
+        "roxbot.com"
+    ],
+    "primaryAddress": "roxbot.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#000000",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Parkour"
+    ],
+    "website": "https://roxbot.com/",
+    "store": "https://shop.roxbot.com/",
+    "socials": {
+        "discord": "https://discord.com/invite/0k2T4T1VdCyt5e8e",
+        "twitter": "Jigabot"
+    }
+}

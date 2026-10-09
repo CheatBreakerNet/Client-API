@@ -1,0 +1,36 @@
+{
+    "id": "icenetwork",
+    "name": "IceNetwork",
+    "addresses": [
+        "icenetwork.it"
+    ],
+    "primaryAddress": "play.icenetwork.it",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00a6ff",
+    "secondaryColor": "#def3ff",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA",
+        "SA"
+    ],
+    "gameTypes": [
+        "Creative",
+        "Minigames",
+        "Survival"
+    ],
+    "website": "https://icenetwork.tebex.io/",
+    "store": "https://icenetwork.tebex.io/",
+    "socials": {
+        "discord": "https://discord.gg/MQyfSAYtps",
+        "tiktok": "@icenetworkmc",
+        "instagram": "icecommunitymc"
+    }
+}

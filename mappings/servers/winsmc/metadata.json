@@ -1,0 +1,36 @@
+{
+    "id": "winsmc",
+    "name": "WinsMC",
+    "addresses": [
+        "winsmc.com.br"
+    ],
+    "primaryAddress": "winsmc.com.br",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f1c40f",
+    "secondaryColor": "#cc681c",
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR",
+        "pt-PT"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Roleplay"
+    ],
+    "website": "https://www.winsmc.com.br/",
+    "store": "https://www.winsmc.com.br/loja",
+    "socials": {
+        "discord": "https://discord.gg/TdGMTEmeE2",
+        "youtube": "@RedeWinsMC",
+        "instagram": "redewinsmc",
+        "tiktok": "@_winsmc_"
+    }
+}

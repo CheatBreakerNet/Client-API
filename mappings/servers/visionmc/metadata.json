@@ -1,0 +1,29 @@
+{
+    "id": "visionmc",
+    "name": "VisionMC Network",
+    "description": "PotPVP Server with Minigames and more!",
+    "addresses": [
+        "visionmc.rip"
+    ],
+    "primaryAddress": "visionmc.rip",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff9933",
+    "secondaryColor": "#f9f9f9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "store": "https://store.visionmc.rip",
+    "socials": {
+        "twitter": "VisionMC_RIP",
+        "discord": "https://discord.gg/dErXwWyJsr"
+    }
+}

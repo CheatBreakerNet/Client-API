@@ -1,0 +1,31 @@
+{
+    "id": "mcnebula",
+    "name": "Project Nebula",
+    "addresses": [
+        "mcnebula.net"
+    ],
+    "primaryAddress": "play.mcnebula.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#10b71b",
+    "secondaryColor": "#232b2b",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://www.mcnebula.net/",
+    "store": "https://www.mcnebula.net/store",
+    "socials": {
+        "discord": "https://discord.gg/kgWvJGKkt8"
+    }
+}

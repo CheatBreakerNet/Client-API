@@ -1,0 +1,28 @@
+{
+    "id": "elyrion",
+    "name": "Elyrion",
+    "description": "French Minecraft Minigames Server",
+    "addresses": [
+        "elyrion.fr"
+    ],
+    "primaryAddress": "elyrion.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00981E",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://elyrion.fr/"
+}

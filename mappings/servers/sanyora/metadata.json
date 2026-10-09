@@ -1,0 +1,29 @@
+{
+    "id": "sanyora",
+    "name": "Sanyora",
+    "description": "Play UHC, PvP, and more on Sanyora.",
+    "addresses": [
+        "sanyora.fr"
+    ],
+    "primaryAddress": "mc.sanyora.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#241b1d",
+    "secondaryColor": "#dcd6bc",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "UHC",
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://sanyora.fr/",
+    "store": "https://boutique.sanyora.fr/",
+    "socials": {
+        "discord": "https://discord.com/invite/ttRBujUHTg"
+    }
+}

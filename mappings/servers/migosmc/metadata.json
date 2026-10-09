@@ -1,0 +1,25 @@
+{
+    "id": "migosmc",
+    "name": "MigosMC",
+    "description": "Play Minigames, Survival, and more on MigosMC.",
+    "addresses": [
+        "migosmc.ru"
+    ],
+    "primaryAddress": "migosmc.ru",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f4f3f5",
+    "secondaryColor": "#e71736",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Survival",
+        "Roleplay"
+    ],
+    "website": "http://migosmc.ru/"
+}

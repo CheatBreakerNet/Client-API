@@ -1,0 +1,31 @@
+{
+    "id": "crystalnetwork",
+    "name": "Crystal Network",
+    "addresses": [
+        "crystaldev.co"
+    ],
+    "primaryAddress": "play.crystaldev.co",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#72f17a",
+    "secondaryColor": "#3c88f0",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Creative",
+        "Factions",
+        "PvP"
+    ],
+    "store": "https://store.crystaldev.co/",
+    "socials": {
+        "discord": "https://discord.com/invite/KwENm47jnG"
+    }
+}

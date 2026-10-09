@@ -1,0 +1,19 @@
+{
+    "id": "asrbw01",
+    "name": "Asian Ranked Bedwars",
+    "addresses": [
+        "asrbw.club"
+    ],
+    "primaryAddress": "play.asrbw.club",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#499a98",
+    "secondaryColor": "#ffffff",
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Parkour"
+    ]
+}

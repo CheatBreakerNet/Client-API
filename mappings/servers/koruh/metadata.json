@@ -1,0 +1,27 @@
+{
+    "id": "koruh",
+    "name": "Koruh",
+    "description": "Play SkyWars, BedWars, Survival and more on Koruh.",
+    "addresses": [
+        "koruh.rip"
+    ],
+    "primaryAddress": "koruh.rip",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FF4D4D",
+    "secondaryColor": "#8B0000",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/YXSweW28HU"
+    }
+}

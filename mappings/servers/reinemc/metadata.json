@@ -1,0 +1,32 @@
+{
+    "id": "reinemc",
+    "name": "ReineMC",
+    "description": "minigames server",
+    "addresses": [
+        "reinemc.net"
+    ],
+    "primaryAddress": "eu.reinemc.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#F2BF1B",
+    "secondaryColor": "#B26700",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://reinemc.net",
+    "store": "https://reinemc.net/shop",
+    "socials": {
+        "discord": "https://discord.gg/sS96De79rs"
+    }
+}

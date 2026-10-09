@@ -1,0 +1,28 @@
+{
+    "id": "vite",
+    "name": "Vite Network",
+    "description": "HCF competitive server",
+    "addresses": [
+        "vitepvp.com"
+    ],
+    "primaryAddress": "vitepvp.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#6a329f",
+    "secondaryColor": "#ba64c9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC"
+    ],
+    "store": "https://store.vitepvp.com",
+    "socials": {
+        "discord": "https://discord.gg/YCMZ8FBg6T"
+    }
+}

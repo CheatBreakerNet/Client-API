@@ -1,0 +1,24 @@
+{
+    "id": "bliteria",
+    "name": "Bliteria",
+    "description": "Play Minigames and PvP on Bliteria.",
+    "addresses": [
+        "bliteria.fr"
+    ],
+    "primaryAddress": "play.bliteria.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f52525",
+    "secondaryColor": "#000000",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "store": "https://bliteria.fr/shop"
+}

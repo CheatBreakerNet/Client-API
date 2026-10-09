@@ -1,0 +1,29 @@
+{
+    "id": "nzcraft",
+    "name": "NZCraft Network",
+    "addresses": [
+        "nzcraft.net"
+    ],
+    "primaryAddress": "play.nzcraft.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e8abed",
+    "secondaryColor": "#0441af",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Survival",
+        "SkyBlock"
+    ],
+    "store": "https://tienda.nzcraft.net/",
+    "socials": {
+        "twitter": "NzcraftSurvival",
+        "discord": "https://discord.com/invite/9WGVngH",
+        "tiktok": "@nzcraftserver"
+    }
+}

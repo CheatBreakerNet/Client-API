@@ -1,0 +1,22 @@
+{
+    "id": "towerschampagne",
+    "name": "The Towers Champagne",
+    "description": "Only server dedicated to the gamemode: The Towers.",
+    "addresses": [
+        "ttchampagne.network"
+    ],
+    "primaryAddress": "mc.ttchampagne.network",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#C2DCFF",
+    "secondaryColor": "#1F3A5F",
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://www.ttchampagne.network",
+    "socials": {
+        "discord": "https://discord.gg/kZwjepZS4r"
+    }
+}

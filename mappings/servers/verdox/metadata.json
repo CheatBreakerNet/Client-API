@@ -1,0 +1,27 @@
+{
+    "id": "verdox",
+    "name": "VerdoxNET",
+    "addresses": [
+        "verdox.net"
+    ],
+    "primaryAddress": "verdox.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#335df5",
+    "secondaryColor": "#0580f2",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "de"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "website": "https://verdox.net",
+    "socials": {
+        "discord": "https://discord.gg/2QVV8XxrrE"
+    }
+}

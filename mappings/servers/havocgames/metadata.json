@@ -1,0 +1,32 @@
+{
+    "id": "havocgames",
+    "name": "Havoc Games",
+    "description": "Play Minigames, Roleplay, and more on Havoc Games.",
+    "addresses": [
+        "havoc.games",
+        "miningdead.com"
+    ],
+    "primaryAddress": "play.havoc.games",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffa626",
+    "secondaryColor": "#ff5657",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Roleplay",
+        "Survival"
+    ],
+    "website": "https://havoc.games/",
+    "store": "https://shop.havoc.games/",
+    "socials": {
+        "twitter": "HavocGamesNet",
+        "discord": "https://discord.com/invite/N8Grn4B3CZ"
+    }
+}

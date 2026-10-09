@@ -1,0 +1,29 @@
+{
+    "id": "aetheriummc",
+    "name": "AetheriumMC Network",
+    "description": "Play Survival, BoxPvP, and more on aetheriummc",
+    "addresses": [
+        "aetheriummc.xyz"
+    ],
+    "primaryAddress": "aetheriummc.xyz",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#279cd6",
+    "secondaryColor": "#dc7eed",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "store": "https://store.aetheriummc.xyz/",
+    "socials": {
+        "twitter": "aetheriummcnw",
+        "discord": "https://discord.gg/whZXNNGvSK"
+    }
+}

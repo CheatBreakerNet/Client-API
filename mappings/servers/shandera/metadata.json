@@ -1,0 +1,30 @@
+{
+    "id": "shandera",
+    "name": "Shandera",
+    "description": "Play Factions and PvP on Shandera.",
+    "addresses": [
+        "shandera.fr"
+    ],
+    "primaryAddress": "play.shandera.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fee649",
+    "secondaryColor": "#e6711e",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "website": "https://shandera.fr/",
+    "store": "https://shandera.fr/shop",
+    "socials": {
+        "discord": "https://discord.com/invite/shandera",
+        "youtube": "@Shandera-PvP",
+        "tiktok": "@shanderapvp"
+    }
+}

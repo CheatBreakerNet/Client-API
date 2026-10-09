@@ -1,0 +1,29 @@
+{
+    "id": "ivonia",
+    "name": "Ivonia",
+    "description": "Play Factions and PvP on Ivonia.",
+    "addresses": [
+        "ivonia.fr"
+    ],
+    "primaryAddress": "play.ivonia.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fdd451",
+    "secondaryColor": "#403f7b",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "website": "https://ivonia.fr/",
+    "store": "https://ivonia.fr/shop/categories/credits",
+    "socials": {
+        "discord": "https://discord.com/invite/ivonia",
+        "youtube": "ivonia_faction"
+    }
+}

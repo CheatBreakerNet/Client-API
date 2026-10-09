@@ -1,0 +1,30 @@
+{
+    "id": "rushmc",
+    "name": "RushMC",
+    "description": "A Minecraft server network in France",
+    "addresses": [
+        "rushmc.fr"
+    ],
+    "primaryAddress": "play.rushmc.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e79222",
+    "secondaryColor": "#fff800",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://rushmc.fr/",
+    "socials": {
+        "discord": "https://discord.gg/cS3QZEvPwJ"
+    }
+}

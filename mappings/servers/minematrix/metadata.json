@@ -1,0 +1,36 @@
+{
+    "id": "minematrix",
+    "name": "MineMatrix",
+    "addresses": [
+        "minematrix.lol"
+    ],
+    "primaryAddress": "minematrix.lol",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#AA00AA",
+    "secondaryColor": "#FF55FF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "SkyBlock",
+        "Minigames",
+        "Survival"
+    ],
+    "website": "https://minematrix.lol",
+    "store": "https://store.minematrix.lol",
+    "socials": {
+        "discord": "https://discord.com/invite/4UA2s9bS4T"
+    }
+}

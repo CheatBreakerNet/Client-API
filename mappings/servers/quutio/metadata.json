@@ -1,0 +1,29 @@
+{
+    "id": "quutio",
+    "name": "Quut.io",
+    "description": "Play Survival, Prison, and more on Quut.io.",
+    "addresses": [
+        "quut.io"
+    ],
+    "primaryAddress": "mc.quut.io",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#418dcc",
+    "secondaryColor": "#2f529e",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Prison",
+        "PvP"
+    ],
+    "website": "https://quut.io/",
+    "store": "https://kauppa.quut.io/",
+    "socials": {
+        "discord": "https://discord.com/invite/RkEMPGukVn"
+    }
+}

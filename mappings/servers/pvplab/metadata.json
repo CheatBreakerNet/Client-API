@@ -1,0 +1,31 @@
+{
+    "id": "pvplab",
+    "name": "PvPLabs",
+    "description": "Play Factions, Skyblock, and more on PvPLabs.",
+    "addresses": [
+        "pvplab.org"
+    ],
+    "primaryAddress": "mc.pvplab.org",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#3ddff8",
+    "secondaryColor": "#6a7274",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Factions",
+        "SkyBlock",
+        "PvP"
+    ],
+    "website": "https://pvplab.org/",
+    "store": "https://store.pvplab.org/",
+    "socials": {
+        "twitter": "mcpvplab",
+        "discord": "https://discord.com/invite/pvplabs",
+        "youtube": "pvplabs"
+    }
+}

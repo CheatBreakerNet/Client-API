@@ -1,0 +1,36 @@
+{
+    "id": "flamemc",
+    "name": "FlameMC",
+    "description": "Test your combat skills on FlameMC.",
+    "addresses": [
+        "flamemc.com.br"
+    ],
+    "primaryAddress": "flamemc.com.br",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fea603",
+    "secondaryColor": "#963c0e",
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "store": "https://loja.flamemc.com.br/",
+    "socials": {
+        "twitter": "RedeFlameMC",
+        "discord": "https://discord.com/invite/flamemc",
+        "youtube": "flamemcoficial",
+        "tiktok": "redeflamemc",
+        "instagram": "redeflamemc"
+    },
+    "website": "https://flamemc.com.br"
+}

@@ -1,0 +1,30 @@
+{
+    "id": "coolcube",
+    "name": "CoolCube",
+    "description": "French Minecraft minigame server with PvP-modes",
+    "addresses": [
+        "coolcube.fr"
+    ],
+    "primaryAddress": "play.coolcube.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#fff700",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/5nTNHN3djF"
+    }
+}

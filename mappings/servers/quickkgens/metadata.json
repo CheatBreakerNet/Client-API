@@ -1,0 +1,32 @@
+{
+    "id": "quickkgens",
+    "name": "QuickkGens",
+    "addresses": [
+        "quickkgens.net"
+    ],
+    "primaryAddress": "play.quickkgens.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#F5A327",
+    "secondaryColor": "#FFD594",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Factions"
+    ],
+    "website": "http://quickkgens.net/",
+    "socials": {
+        "discord": "https://discord.gg/hbZ3FkVg8S"
+    }
+}

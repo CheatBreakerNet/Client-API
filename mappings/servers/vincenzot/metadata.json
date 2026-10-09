@@ -1,0 +1,36 @@
+{
+    "id": "vincenzot",
+    "name": "mc.vincenzot.it",
+    "addresses": [
+        "vincenzot.it"
+    ],
+    "primaryAddress": "mc.vincenzot.it",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00a6ff",
+    "secondaryColor": "#def3ff",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA",
+        "SA"
+    ],
+    "gameTypes": [
+        "Creative",
+        "Minigames",
+        "Survival"
+    ],
+    "website": "https://vincenzot.it",
+    "store": "https://shop.vincenzot.it",
+    "socials": {
+        "discord": "https://discord.gg/MQyfSAYtps",
+        "tiktok": "@mc.vincenzot.it",
+        "instagram": "vincenzot.it"
+    }
+}

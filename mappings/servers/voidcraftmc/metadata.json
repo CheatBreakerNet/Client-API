@@ -1,0 +1,32 @@
+{
+    "id": "voidcraftmc",
+    "name": "VoidCraftMC Network",
+    "addresses": [
+        "voidcraftmc.net"
+    ],
+    "primaryAddress": "play.voidcraftmc.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#b5102c",
+    "secondaryColor": "#6b0a42",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://www.voidcraftmc.net",
+    "store": "https://store.voidcraftmc.net",
+    "socials": {
+        "discord": "https://discord.gg/QXkNqQ7XWt"
+    }
+}

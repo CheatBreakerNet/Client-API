@@ -1,0 +1,32 @@
+{
+    "id": "rezamnetwork",
+    "name": "Rezam Network",
+    "addresses": [
+        "rezam.xyz"
+    ],
+    "primaryAddress": "mc.rezam.xyz",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Minigames"
+    ],
+    "website": "https://site.rezam.xyz",
+    "store": "https://site.rezam.xyz/store",
+    "socials": {
+        "discord": "https://discord.com/invite/AecXEDgJGt"
+    }
+}

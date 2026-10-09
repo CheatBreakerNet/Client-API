@@ -1,0 +1,38 @@
+{
+    "id": "gravijet",
+    "name": "GraviJet",
+    "description": "Practice, Fastbuilder, CrystalFFA, LetsKnock, etc.",
+    "addresses": [
+        "gravijet.net"
+    ],
+    "primaryAddress": "gravijet.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#2aff00",
+    "secondaryColor": "#024bff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "AS",
+        "AF",
+        "OC",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://gravijet.net/",
+    "store": "https://store.gravijet.net",
+    "socials": {
+        "discord": "https://discord.com/invite/pWphUWy9mJ",
+        "youtube": "@gravijet"
+    }
+}

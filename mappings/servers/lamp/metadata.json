@@ -1,0 +1,26 @@
+{
+    "id": "lamp",
+    "name": "Lamp",
+    "addresses": [
+        "lampnetwork.xyz"
+    ],
+    "primaryAddress": "mc.lampnetwork.xyz",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#0055FF",
+    "secondaryColor": "#FFFFFF",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "store": "https://store.lampnetwork.xyz",
+    "socials": {
+        "discord": "https://discord.com/invite/nUAtpDK9p9"
+    }
+}

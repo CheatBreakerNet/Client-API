@@ -1,0 +1,34 @@
+{
+    "id": "holyhcf",
+    "name": "HolyHCF Network",
+    "addresses": [
+        "holypvp.net",
+        "holyhcf.com",
+        "holyh.cf"
+    ],
+    "primaryAddress": "holyhcf.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#dedede",
+    "secondaryColor": "#e6b511",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "HCF",
+        "UHC",
+        "PvP"
+    ],
+    "website": "https://www.holypvp.net/",
+    "store": "https://store.holypvp.net/",
+    "socials": {
+        "twitter": "holypvpnet",
+        "discord": "https://discord.gg/U4zmtsD7zn",
+        "tiktok": "@holypvpnet",
+        "instagram": "holypvpnet"
+    }
+}

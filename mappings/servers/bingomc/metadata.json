@@ -1,0 +1,32 @@
+{
+    "id": "bingomc",
+    "name": "BingoMC",
+    "addresses": [
+        "bingomc.net"
+    ],
+    "primaryAddress": "play.bingomc.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#55FF55",
+    "secondaryColor": "#2A2E39",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://bingomc.net",
+    "socials": {
+        "tiktok": "play.bingomc.net",
+        "discord": "https://discord.gg/MZ7Dna9nuW",
+        "youtube": "https://www.youtube.com/@playbingomc"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "vexo",
+    "name": "Vexo BedWars",
+    "description": "Korea BedWars Server",
+    "addresses": [
+        "vexorbw.xyz"
+    ],
+    "primaryAddress": "mc.vexorbw.xyz",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#3978d1",
+    "secondaryColor": "#5d95e4",
+    "primaryLanguage": "ko",
+    "languages": [
+        "ko"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/btp3C8QryW"
+    }
+}

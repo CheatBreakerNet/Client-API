@@ -1,0 +1,33 @@
+{
+    "id": "minelands",
+    "name": "Minelands",
+    "description": "Server Vanilla Java & Bedrock",
+    "addresses": [
+        "minelands.xyz"
+    ],
+    "primaryAddress": "play.minelands.xyz",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffda33",
+    "secondaryColor": "#2aaad1",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "website": "https://minelands.xyz",
+    "socials": {
+        "discord": "https://discord.com/invite/PEemHmvSpq",
+        "telegram": "minelandsofficial",
+        "youtube": "@minelands8",
+        "instagram": "minelands.server"
+    }
+}

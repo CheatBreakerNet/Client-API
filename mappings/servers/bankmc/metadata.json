@@ -1,0 +1,28 @@
+{
+    "id": "bankmc",
+    "name": "BankMC",
+    "description": "Play Skyblock and Survival on BankMC.",
+    "addresses": [
+        "bankmc.pl"
+    ],
+    "primaryAddress": "bankmc.pl",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#03071a",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "SkyBlock",
+        "Survival"
+    ],
+    "store": "https://bankmc.pl/",
+    "socials": {
+        "discord": "https://discord.com/invite/ZKPYRrm6tb",
+        "tiktok": "@bankmcpl"
+    }
+}

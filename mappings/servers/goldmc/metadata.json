@@ -1,0 +1,29 @@
+{
+    "id": "goldmc",
+    "name": "GoldMc",
+    "description": "Play BoxPvP and Survival on GoldMc Network!",
+    "addresses": [
+        "goldmc.xyz"
+    ],
+    "primaryAddress": "goldmc.xyz",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFD000",
+    "secondaryColor": "#FFD000",
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "website": "https://goldmc.xyz/",
+    "socials": {
+        "discord": "https://discord.gg/Goldmc"
+    }
+}

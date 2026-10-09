@@ -1,0 +1,27 @@
+{
+    "id": "spartamc",
+    "name": "SpartaMC",
+    "description": "The best Bedwars gameplay: fast and flawless",
+    "addresses": [
+        "spartamc.com.br"
+    ],
+    "primaryAddress": "spartamc.com.br",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FF9A00",
+    "secondaryColor": "#FFD54F",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "store": "https://spartamc.com.br",
+    "socials": {
+        "discord": "https://discord.gg/spartamc"
+    }
+}

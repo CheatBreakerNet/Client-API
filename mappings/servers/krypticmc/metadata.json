@@ -1,0 +1,30 @@
+{
+    "id": "krypticmc",
+    "name": "KrypticMC",
+    "addresses": [
+        "krypticmc.net",
+        "krypticmc.com"
+    ],
+    "primaryAddress": "krypticmc.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#C23C96",
+    "secondaryColor": "#5A1E52",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Prison",
+        "UHC"
+    ],
+    "website": "https://krypticmc.net/",
+    "store": "https://krypticmc.net/store",
+    "socials": {
+        "discord": "https://discord.com/invite/PmuCDKgxkA",
+        "youtube": "@rigbot"
+    }
+}

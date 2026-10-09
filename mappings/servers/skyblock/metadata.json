@@ -1,0 +1,30 @@
+{
+    "id": "skyblock",
+    "name": "Skyblock",
+    "description": "The home of Skyblock!",
+    "addresses": [
+        "skyblock.net",
+        "skyblock.org",
+        "skyblock.com"
+    ],
+    "primaryAddress": "skyblock.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#62b542",
+    "secondaryColor": "#ffdb00",
+    "gameTypes": [
+        "SkyBlock",
+        "Survival"
+    ],
+    "website": "https://skyblock.net/",
+    "store": "https://shop.skyblock.net/",
+    "socials": {
+        "twitter": "Skyblock",
+        "discord": "https://discord.com/invite/sb",
+        "instagram": "skyblock",
+        "tiktok": "@skyblock",
+        "reddit": "Skyblock"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "id": "castlemc",
+    "name": "CastleMC Network",
+    "description": "Play Minigames, PvP, and more on CastleMC Network.",
+    "addresses": [
+        "castlemc.net"
+    ],
+    "primaryAddress": "castlemc.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#D6C700",
+    "secondaryColor": "#FFFFFF",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "store": "https://castlemcnw.tebex.io",
+    "socials": {
+        "discord": "https://discord.gg/RwV2AMH8Nj"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "enforcedpvp",
+    "name": "EnforcedPvP",
+    "description": "Build your faction and conquer on EnforcedPvP.",
+    "addresses": [
+        "enforcedpvp.org",
+        "enforcedpvp.net"
+    ],
+    "primaryAddress": "play.enforcedpvp.org",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#357A03",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Factions"
+    ],
+    "store": "https://buy.enforcedpvp.org/",
+    "socials": {
+        "discord": "https://discord.com/invite/Zs3FvFjgEa"
+    }
+}

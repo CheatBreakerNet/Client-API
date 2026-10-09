@@ -1,0 +1,27 @@
+{
+    "id": "veltra",
+    "name": "Veltra Network",
+    "description": "Play HCF, UHC, and more on Veltra Network.",
+    "addresses": [
+        "veltra.lol"
+    ],
+    "primaryAddress": "veltra.lol",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "primaryColor": "#ffaa00",
+    "secondaryColor": "#ffd500",
+    "gameTypes": [
+        "HCF",
+        "UHC",
+        "PvP"
+    ],
+    "website": "https://www.veltra.lol/",
+    "store": "https://www.veltra.lol/store",
+    "socials": {
+        "twitter": "VeltraLand",
+        "discord": "https://discord.com/invite/jTqA58wNjB"
+    }
+}

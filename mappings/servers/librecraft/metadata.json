@@ -1,0 +1,32 @@
+{
+    "id": "librecraft",
+    "name": "Librecraft Network",
+    "addresses": [
+        "librecraft.com",
+        "librecraft.juegos"
+    ],
+    "primaryAddress": "mc.librecraft.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#87b60a",
+    "secondaryColor": "#0a1a2a",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://librecraft.com/",
+    "store": "https://tienda.librecraft.com/",
+    "socials": {
+        "twitter": "LibreCraftMC",
+        "discord": "https://discord.com/invite/v9H6xd6",
+        "youtube": "UCFTDLW_Q-TVrwc5fOpKW_tg",
+        "facebook": "librecraftnetwork"
+    }
+}

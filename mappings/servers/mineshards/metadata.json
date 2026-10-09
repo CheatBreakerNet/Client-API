@@ -1,0 +1,30 @@
+{
+    "id": "mineshards",
+    "name": "MineShards",
+    "description": "Rise through the ranks on MineShards.",
+    "addresses": [
+        "mineshards.com"
+    ],
+    "primaryAddress": "play.mineshards.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#34caf0",
+    "secondaryColor": "#cc4182",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Prison"
+    ],
+    "store": "https://store.mineshards.com/",
+    "socials": {
+        "discord": "https://discord.com/invite/SBAEq8ShbS"
+    }
+}

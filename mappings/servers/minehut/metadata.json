@@ -1,0 +1,39 @@
+{
+    "id": "minehut",
+    "name": "Minehut",
+    "addresses": [
+        "minehut.com",
+        "minehut.gg"
+    ],
+    "primaryAddress": "mc.minehut.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#488aff",
+    "secondaryColor": "#8beac9",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Roleplay"
+    ],
+    "website": "https://minehut.com/",
+    "store": "https://app.minehut.com/shop/credits/",
+    "socials": {
+        "twitter": "minehut",
+        "discord": "https://discord.com/invite/minehut",
+        "youtube": "Minehut",
+        "instagram": "minehutmc",
+        "tiktok": "@minehut",
+        "reddit": "minehut",
+        "facebook": "MinehutServers"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "manacube",
+    "name": "ManaCube",
+    "addresses": [
+        "manacube.com",
+        "manacube.net",
+        "mineville.net",
+        "minevast.com"
+    ],
+    "primaryAddress": "play.manacube.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#1b96a8",
+    "secondaryColor": "#124656",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "SkyBlock",
+        "PvP",
+        "Parkour"
+    ],
+    "website": "https://manacube.com/",
+    "store": "https://store.manacube.com/",
+    "socials": {
+        "twitter": "ManaCubeMC",
+        "discord": "https://discord.com/invite/manacube",
+        "youtube": "manacube",
+        "instagram": "manacubemc",
+        "tiktok": "@manacubemc"
+    }
+}

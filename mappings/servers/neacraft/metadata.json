@@ -1,0 +1,30 @@
+{
+    "id": "neacraft",
+    "name": "Nealand Network",
+    "description": "Play Survival, PvP, and more on Nealand Network.",
+    "addresses": [
+        "neacraft.net"
+    ],
+    "primaryAddress": "play.neacraft.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#be0f0c",
+    "secondaryColor": "#3b445c",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "SkyBlock"
+    ],
+    "website": "https://www.neacraft.net/",
+    "store": "https://tienda.neacraft.net/",
+    "socials": {
+        "twitter": "Nealandclub",
+        "discord": "https://discord.com/invite/2UBShd5Xa7"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "coregame",
+    "name": "CoreGame.pl",
+    "description": "CoreGame, a server made BY gamers FOR gamers.",
+    "addresses": [
+        "coregame.pl"
+    ],
+    "primaryAddress": "mc.coregame.pl",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#87100e",
+    "secondaryColor": "#000000",
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl",
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "SkyBlock",
+        "Minigames"
+    ],
+    "website": "https://coregame.pl",
+    "socials": {
+        "discord": "https://discord.com/invite/rBardAJx6d",
+        "youtube": "@coregame.pl_minecraft"
+    }
+}

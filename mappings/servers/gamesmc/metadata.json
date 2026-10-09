@@ -1,0 +1,34 @@
+{
+    "id": "gamesmc",
+    "name": "GamesMC",
+    "addresses": [
+        "gamesmc.de"
+    ],
+    "primaryAddress": "gamesmc.de",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#391D0D",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Creative"
+    ],
+    "website": "https://gamesmc.de",
+    "socials": {
+        "twitter": "GamesMCde",
+        "facebook": "gamesmcde",
+        "instagram": "gamesmcde",
+        "youtube": "https://www.youtube.com/channel/UC2ZJba-Nf9FY8Ncg2pR43fg",
+        "discord": "https://discord.com/invite/GvCpTxcFfJ"
+    }
+}

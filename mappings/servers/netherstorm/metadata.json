@@ -1,0 +1,29 @@
+{
+    "id": "netherstorm",
+    "name": "Nether Storm",
+    "description": "Play Minigames and PvP on Nether Storm.",
+    "addresses": [
+        "nssv.pl"
+    ],
+    "primaryAddress": "nssv.pl",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f6a61a",
+    "secondaryColor": "#fff721",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://www.nssv.pl/",
+    "store": "https://www.nssv.pl/sklep",
+    "socials": {
+        "discord": "https://discord.com/invite/CZPA3aM",
+        "facebook": "nsminecraft"
+    }
+}

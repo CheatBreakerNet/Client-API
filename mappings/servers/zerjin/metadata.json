@@ -1,0 +1,36 @@
+{
+    "id": "zerjin",
+    "name": "Zerjin",
+    "addresses": [
+        "zerjin.de"
+    ],
+    "primaryAddress": "zerjin.de",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#08B0EE",
+    "secondaryColor": "#08B0EE",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "SkyBlock"
+    ],
+    "website": "https://zerjin.de",
+    "store": "https://shop.zerjin.de",
+    "socials": {
+        "discord": "https://discord.gg/NdC7Ey5KZK",
+        "youtube": "https://www.youtube.com/@Zerjin-MinecraftNetzwerk",
+        "tiktok": "zerjinnetzwerk",
+        "instagram": "zerjinnetzwerk",
+        "facebook": "Zerjin-Minecraft-Netzwerk",
+        "twitter": "ZerjinMC"
+    }
+}

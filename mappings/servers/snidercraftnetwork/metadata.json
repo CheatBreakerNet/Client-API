@@ -1,0 +1,24 @@
+{
+    "id": "snidercraftnetwork",
+    "name": "SniderCraft Network",
+    "addresses": [
+        "snidermc.online"
+    ],
+    "primaryAddress": "mc.snidermc.online",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffff00",
+    "secondaryColor": "#ffb300",
+    "gameTypes": [
+        "Survival",
+        "Prison",
+        "Minigames"
+    ],
+    "store": "https://tienda.snidermc.online/",
+    "socials": {
+        "discord": "https://discord.com/invite/MwXxkKXPXb"
+    }
+}

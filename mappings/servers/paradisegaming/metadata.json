@@ -1,0 +1,34 @@
+{
+    "id": "paradisegaming",
+    "name": "Paradise Gaming",
+    "description": "Are you looking for paradise to play?",
+    "addresses": [
+        "paradisegaming.it"
+    ],
+    "primaryAddress": "mc.paradisegaming.it",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "SkyBlock"
+    ],
+    "store": "https://store.paradisegaming.it/",
+    "socials": {
+        "telegram": "paradisegamingcommunity",
+        "discord": "https://discord.com/invite/paradise-gaming-2k-758059663714418698",
+        "instagram": "mc.paradisegaming.it",
+        "tiktok": "@mc.paradisegaming.it"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "infernouno",
+    "name": "Inferno",
+    "description": "Play PvP and UHC on Inferno.",
+    "addresses": [
+        "inferno.uno",
+        "inferno.wiki"
+    ],
+    "primaryAddress": "inferno.uno",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FEA82F",
+    "secondaryColor": "#FFD966",
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC"
+    ],
+    "store": "https://inferno.uno/store",
+    "socials": {
+        "twitter": "infernowiki",
+        "discord": "https://discord.com/invite/kUdGhmzCZR"
+    }
+}

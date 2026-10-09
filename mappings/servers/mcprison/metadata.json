@@ -1,0 +1,23 @@
+{
+    "id": "mcprison",
+    "name": "MCPrison",
+    "description": "Play Skyblock and Prison on MCPrison.",
+    "addresses": [
+        "mcprison.com"
+    ],
+    "primaryAddress": "mcprison.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e99b24",
+    "secondaryColor": "#b6b6b6",
+    "gameTypes": [
+        "SkyBlock",
+        "Prison"
+    ],
+    "store": "https://buy.mchub.com/",
+    "socials": {
+        "discord": "https://discord.com/invite/mchub"
+    }
+}

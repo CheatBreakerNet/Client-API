@@ -1,0 +1,27 @@
+{
+    "id": "pvpcookie",
+    "name": "PVPCookie",
+    "addresses": [
+        "pvpcookie.pl"
+    ],
+    "primaryAddress": "pvpcookie.pl",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#6F4E37",
+    "secondaryColor": "#3D2B1F",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://pvpcookie.pl/",
+    "store": "https://pvpcookie.pl/sklep",
+    "socials": {
+        "discord": "https://discord.gg/mmXgnWtgGe"
+    }
+}

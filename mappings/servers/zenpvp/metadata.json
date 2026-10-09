@@ -1,0 +1,29 @@
+{
+    "id": "zenpvp",
+    "name": "ZenPvP",
+    "description": "Play Skyblock, Prison, and more on ZenPvP.",
+    "addresses": [
+        "zenpvp.net"
+    ],
+    "primaryAddress": "play.zenpvp.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#07cc53",
+    "secondaryColor": "#824625",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "SkyBlock",
+        "Prison",
+        "PvP"
+    ],
+    "website": "https://www.zenpvp.net/",
+    "store": "https://store.zenpvp.net/",
+    "socials": {
+        "discord": "https://discord.com/invite/zenpvp"
+    }
+}

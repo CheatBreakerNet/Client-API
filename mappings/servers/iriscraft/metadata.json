@@ -1,0 +1,30 @@
+{
+    "id": "iriscraft",
+    "name": "Iriscraft",
+    "description": "Play HCF, PvP, and more on Iriscraft.",
+    "addresses": [
+        "iriscraft.us"
+    ],
+    "primaryAddress": "iriscraft.us",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#d627c6",
+    "secondaryColor": "#dc7eed",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "HCF",
+        "PvP",
+        "Survival"
+    ],
+    "store": "https://store.iriscraft.us/",
+    "socials": {
+        "twitter": "iriscraftnw",
+        "discord": "https://discord.gg/MheUrV6z6t"
+    }
+}

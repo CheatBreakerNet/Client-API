@@ -1,0 +1,33 @@
+{
+    "id": "nekozouneko",
+    "name": "Nekozouneko",
+    "description": "Play Minigames and Survival on Nekozouneko.",
+    "addresses": [
+        "nekozouneko.net"
+    ],
+    "primaryAddress": "nekozouneko.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#2d3381",
+    "primaryLanguage": "ja",
+    "languages": [
+        "ja"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Survival"
+    ],
+    "website": "https://www.nekozouneko.net/",
+    "socials": {
+        "twitter": "TEAMnekozouneko",
+        "discord": "https://discord.com/invite/fwvcvXUP",
+        "youtube": "UCph1f4XaFzMt_NPHtr72Oqw"
+    }
+}

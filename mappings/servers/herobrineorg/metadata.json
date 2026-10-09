@@ -1,0 +1,25 @@
+{
+    "id": "herobrineorg",
+    "name": "Herobrine.org",
+    "addresses": [
+        "herobrine.org"
+    ],
+    "primaryAddress": "herobrine.org",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#bb8b73",
+    "secondaryColor": "#2e1f0e",
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "SkyBlock"
+    ],
+    "website": "https://www.herobrine.org/",
+    "store": "https://shop.herobrine.org/",
+    "socials": {
+        "twitter": "herobrinedotorg",
+        "discord": "https://discord.com/invite/herobrine"
+    }
+}

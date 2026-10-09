@@ -1,0 +1,32 @@
+{
+    "id": "starymc",
+    "name": "StaryMC Network",
+    "addresses": [
+        "starymc.it",
+        "starymc.eu"
+    ],
+    "primaryAddress": "starymc.it",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#7b1fa2",
+    "secondaryColor": "#d9d9d9",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://www.starymc.it/",
+    "store": "https://store.starymc.it/",
+    "socials": {
+        "discord": "https://discord.com/invite/bEX8dnPwqJ"
+    }
+}

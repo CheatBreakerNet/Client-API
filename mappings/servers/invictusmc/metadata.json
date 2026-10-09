@@ -1,0 +1,35 @@
+{
+    "id": "invictusmc",
+    "name": "InvictusMC",
+    "addresses": [
+        "invictusmc.it"
+    ],
+    "primaryAddress": "play.invictusmc.it",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#cb84da",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://invictusmc.it/",
+    "store": "https://invictusmc.it/",
+    "socials": {
+        "discord": "https://discord.gg/Ft9xzW2FTM",
+        "instagram": "invictusmc.it",
+        "telegram": "InvictusMC"
+    }
+}

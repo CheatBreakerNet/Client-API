@@ -1,0 +1,40 @@
+{
+    "id": "playhills",
+    "name": "PlayHills",
+    "addresses": [
+        "playhills.de",
+        "playhills.eu",
+        "tumira.net",
+        "tumira.de",
+        "tumira.eu"
+    ],
+    "primaryAddress": "playhills.eu",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#d9bf46",
+    "secondaryColor": "#202020",
+    "primaryLanguage": "de",
+    "languages": [
+        "de",
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "SkyBlock"
+    ],
+    "website": "https://playhills.eu",
+    "store": "https://shop.playhills.eu",
+    "socials": {
+        "twitter": "PlayHillsEU",
+        "discord": "https://discord.gg/heKnBXK",
+        "tiktok": "PlayHillsEU",
+        "youtube": "https://www.youtube.com/@playhillseu6232"
+    }
+}

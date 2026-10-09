@@ -1,0 +1,25 @@
+{
+    "id": "mineblaze",
+    "name": "MineBlaze",
+    "description": "Play Survival, Minigames, and more on MineBlaze.",
+    "addresses": [
+        "mineblaze.net"
+    ],
+    "primaryAddress": "mc.mineblaze.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#facf1f",
+    "secondaryColor": "#d9550e",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://mineblaze.net/"
+}

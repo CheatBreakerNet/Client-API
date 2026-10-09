@@ -1,0 +1,31 @@
+{
+    "id": "mine_via",
+    "name": "Minevia",
+    "addresses": [
+        "minevia.club"
+    ],
+    "primaryAddress": "play.minevia.club",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#F54927",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://web.minevia.club",
+    "store": "https://web.minevia.club/store",
+    "socials": {
+        "discord": "https://discord.gg/ZWPGkMdwC6",
+        "youtube": "@mine_via"
+    }
+}

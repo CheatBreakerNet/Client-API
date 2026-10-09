@@ -1,0 +1,35 @@
+{
+    "id": "createcraft",
+    "name": "CreateCraft.eu",
+    "addresses": [
+        "createcraft.eu",
+        "minetommy.eu"
+    ],
+    "primaryAddress": "createcraft.eu",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#6DA5C0",
+    "secondaryColor": "#343a40",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Creative",
+        "SkyBlock",
+        "Minigames"
+    ],
+    "website": "https://www.createcraft.eu",
+    "store": "https://www.createcraft.eu/store",
+    "socials": {
+        "tiktok": "createcrafteu",
+        "instagram": "createcraft.eu",
+        "discord": "https://discord.gg/createcraft"
+    }
+}

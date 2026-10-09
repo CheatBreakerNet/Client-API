@@ -1,0 +1,33 @@
+{
+    "id": "crypticbeds",
+    "name": "CrypticBeds",
+    "description": "Competitive Bedwars experience, optimized for fun.",
+    "addresses": [
+        "crypticbeds.fun",
+        "crypticbeds.com"
+    ],
+    "primaryAddress": "crypticbeds.fun",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff55ff",
+    "secondaryColor": "#55ffff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://crypticbeds.fun",
+    "store": "https://shop.crypticbeds.fun",
+    "socials": {
+        "discord": "https://discord.gg/TJ43sEghQv"
+    }
+}

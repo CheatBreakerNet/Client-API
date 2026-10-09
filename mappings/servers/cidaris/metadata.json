@@ -1,0 +1,31 @@
+{
+    "id": "cidaris",
+    "name": "Cidaris",
+    "description": "Factions, PvP, PvE",
+    "addresses": [
+        "cidaris.fr"
+    ],
+    "primaryAddress": "play.cidaris.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#536A80",
+    "secondaryColor": "#122035",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "PvE",
+        "Factions"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/cidaris"
+    }
+}

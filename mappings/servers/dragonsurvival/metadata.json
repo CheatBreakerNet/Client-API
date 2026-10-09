@@ -1,0 +1,30 @@
+{
+    "id": "dragonsurvival",
+    "name": "DragonSurvival.EU",
+    "description": "Test your combat skills on DragonSurvival.EU.",
+    "addresses": [
+        "dragon-survival.eu",
+        "dragonsurvival.eu",
+        "dragonsurvival.pl"
+    ],
+    "primaryAddress": "dragonsurvival.eu",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f0db85",
+    "secondaryColor": "#262a26",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://dragon-survival.eu/",
+    "store": "https://dragon-survival.eu/shop",
+    "socials": {
+        "instagram": "dragonsurvivalmc",
+        "facebook": "DragonSurvivalMC"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "id": "epsilonmc",
+    "name": "epsilonmc",
+    "description": "Play Factions and PvP on epsilonmc.",
+    "addresses": [
+        "epsilonmc.fr"
+    ],
+    "primaryAddress": "play.epsilonmc.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff9700",
+    "secondaryColor": "#fcfe46",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "website": "https://epsilonmc.fr/",
+    "store": "https://epsilonmc.fr/shop",
+    "socials": {
+        "discord": "https://discord.gg/nDuYQPufq7"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "id": "saicopvp",
+    "name": "SaicoPvP",
+    "description": "Test your combat skills on SaicoPvP.",
+    "addresses": [
+        "saicopvp.com",
+        "saicosky.com"
+    ],
+    "primaryAddress": "play.saicopvp.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ecb94f",
+    "secondaryColor": "#372826",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://saicopvp.com/",
+    "store": "https://store.saicopvp.com/",
+    "socials": {
+        "twitter": "SaiCo",
+        "discord": "https://discord.com/invite/rwPnySZ"
+    }
+}

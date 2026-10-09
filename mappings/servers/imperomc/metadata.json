@@ -1,0 +1,29 @@
+{
+    "id": "imperomc",
+    "name": "ImperoMC",
+    "description": "Be the greatest Imperator!",
+    "addresses": [
+        "imperomc.it"
+    ],
+    "primaryAddress": "play.imperomc.it",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#ffb300",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "SkyBlock"
+    ],
+    "store": "https://www.imperomc.it/store",
+    "socials": {
+        "tiktok": "@imperomc1",
+        "discord": "https://discord.com/invite/VPMPAKrgRZ"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "universality",
+    "name": "Universality",
+    "description": "Play UHC and PvP on Universality.",
+    "addresses": [
+        "play-universality.fr"
+    ],
+    "primaryAddress": "mc.play-universality.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#c49f77",
+    "secondaryColor": "#7ea99d",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "UHC",
+        "PvP"
+    ],
+    "website": "https://universality.gitbook.io/demon-slayer-uhc-meetup/",
+    "socials": {
+        "discord": "https://discord.gg/Cwm9kA9syV"
+    }
+}

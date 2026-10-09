@@ -1,0 +1,28 @@
+{
+    "id": "pyrocraft",
+    "name": "Pyrocraft Network",
+    "description": "Play Minigames and PvP on Pyrocraft Network.",
+    "addresses": [
+        "pyrocraft.es"
+    ],
+    "primaryAddress": "pyrocraft.es",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#950000",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "store": "https://tienda.pyrocraft.es/",
+    "socials": {
+        "twitter": "pyrocraftnet",
+        "discord": "https://discord.gg/pyrocraft"
+    }
+}

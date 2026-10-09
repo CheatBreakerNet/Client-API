@@ -1,0 +1,33 @@
+{
+    "id": "minelucky",
+    "name": "MineLucky",
+    "description": "The home of unique experiences like no other.",
+    "addresses": [
+        "minelucky.net"
+    ],
+    "primaryAddress": "play.minelucky.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#E26706",
+    "secondaryColor": "#220B53",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Prison",
+        "PvP"
+    ],
+    "website": "https://www.minelucky.net/",
+    "store": "https://store.minelucky.net/",
+    "socials": {
+        "twitter": "PlayMineLucky",
+        "discord": "https://discord.gg/eb7mTPYEJ3"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "allstars",
+    "name": "All Stars UHC",
+    "description": "French UHC competition for the best of the best.",
+    "addresses": [
+        "as-uhc.fr"
+    ],
+    "primaryAddress": "play.as-uhc.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#B0023F",
+    "secondaryColor": "#EC5E8E",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "UHC",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/as-uhc"
+    }
+}

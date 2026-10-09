@@ -1,0 +1,30 @@
+{
+    "id": "hythex",
+    "name": "Hythex",
+    "description": "Home of Minecraft Prison",
+    "addresses": [
+        "hythex.net"
+    ],
+    "primaryAddress": "hythex.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ecb845",
+    "secondaryColor": "#522e23",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "Prison",
+        "PvP"
+    ],
+    "website": "https://www.hythex.net/",
+    "store": "https://www.hythex.net/store",
+    "socials": {
+        "twitter": "HythexStudios",
+        "discord": "https://discord.gg/hythex"
+    }
+}

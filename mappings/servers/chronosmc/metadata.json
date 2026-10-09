@@ -1,0 +1,29 @@
+{
+    "id": "chronosmc",
+    "name": "ChronosMC",
+    "addresses": [
+        "chronosmc.es"
+    ],
+    "primaryAddress": "chronosmc.es",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#DF00FF",
+    "secondaryColor": "#9100FF",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Adventure",
+        "Open World"
+    ],
+    "website": "https://chronosmc.es/",
+    "store": "https://tienda.chronosmc.es/",
+    "socials": {
+        "twitter": "ChronosMC",
+        "discord": "https://discord.com/invite/zT26Gw4h5x"
+    }
+}

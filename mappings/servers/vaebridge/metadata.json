@@ -1,0 +1,35 @@
+{
+    "id": "vaebridge",
+    "name": "VaeBridge",
+    "description": "the best server for pvp from latinoamerica",
+    "addresses": [
+        "vaebridge.com"
+    ],
+    "primaryAddress": "vaebridge.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#2EDFFF",
+    "secondaryColor": "#9D3DFF",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "pt-BR"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "SA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://vaebridge.com/",
+    "store": "https://vaebridge-shop.tebex.io/",
+    "socials": {
+        "discord": "https://discord.gg/upCC5yHfuW",
+        "tiktok": "@vaebridge"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": "skydinse",
+    "name": "Skydinse",
+    "addresses": [
+        "skydinse.net"
+    ],
+    "primaryAddress": "skydinse.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#4A0A13",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "de",
+        "pt-BR",
+        "es-EN",
+        "fr",
+        "tr",
+        "ko"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://www.skydinse.net",
+    "socials": {
+        "tiktok": "skydinsenet",
+        "instagram": "skydinse",
+        "discord": "https://discord.gg/cdWsMjfnea",
+        "youtube": "https://www.youtube.com/@skydinse"
+    }
+}

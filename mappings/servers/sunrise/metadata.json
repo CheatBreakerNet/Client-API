@@ -1,0 +1,24 @@
+{
+    "id": "sunrise",
+    "name": "SunriseMC",
+    "description": "Rise through the ranks on SunriseMC.",
+    "addresses": [
+        "sunrisemc.com.br"
+    ],
+    "primaryAddress": "sunrisemc.com.br",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ecb845",
+    "secondaryColor": "#522e23",
+    "gameTypes": [
+        "Prison"
+    ],
+    "website": "https://sunrisemc.squareweb.app/",
+    "store": "https://loja.sunrisemc.com.br/",
+    "socials": {
+        "twitter": "SunriseMC",
+        "discord": "https://discord.gg/TdDsWR45ce"
+    }
+}

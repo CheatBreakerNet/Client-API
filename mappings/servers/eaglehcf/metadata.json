@@ -1,0 +1,30 @@
+{
+    "id": "eaglehcf",
+    "name": "EagleHCF",
+    "description": "Home of Hardcore Factions and Hardcore gamemodes!",
+    "addresses": [
+        "eaglehcf.com"
+    ],
+    "primaryAddress": "eaglehcf.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#33FFFF",
+    "secondaryColor": "#FFFFFF",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "website": "https://www.eaglehcf.com/",
+    "store": "https://store.eaglehcf.com/",
+    "socials": {
+        "twitter": "EagleHCF",
+        "discord": "https://discord.gg/jVrM8tPQwu"
+    }
+}

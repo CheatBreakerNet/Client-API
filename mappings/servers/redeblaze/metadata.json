@@ -1,0 +1,29 @@
+{
+    "id": "redeblaze",
+    "name": "Rede Blaze",
+    "addresses": [
+        "redeblaze.com"
+    ],
+    "primaryAddress": "jogar.redeblaze.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fab90a",
+    "secondaryColor": "#fab90a",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "website": "https://redeblaze.com/",
+    "store": "https://redeblaze.com/loja/",
+    "socials": {
+        "discord": "https://discord.gg/redeblaze",
+        "youtube": "@RedeBlaze",
+        "instagram": "blazerede",
+        "tiktok": "@blazerede"
+    }
+}

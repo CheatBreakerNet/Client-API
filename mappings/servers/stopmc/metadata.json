@@ -1,0 +1,32 @@
+{
+    "id": "stopmc",
+    "name": "StopMC",
+    "addresses": [
+        "stopmc.com.br",
+        "stopmc.com",
+        "dustmc.com.br"
+    ],
+    "primaryAddress": "stopmc.com.br",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff8400",
+    "secondaryColor": "#fffc56",
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "store": "https://loja.stopmc.com",
+    "socials": {
+        "discord": "https://discord.gg/stopmc"
+    }
+}

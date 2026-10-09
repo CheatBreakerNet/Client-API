@@ -1,0 +1,32 @@
+{
+    "id": "minewarsmc",
+    "name": "MineWarsMC",
+    "addresses": [
+        "minewarsmc.it"
+    ],
+    "primaryAddress": "play.minewarsmc.it",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#1387ca",
+    "secondaryColor": "#262d37",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Survival"
+    ],
+    "website": "https://www.minewarsmc.it/",
+    "socials": {
+        "discord": "https://discord.com/invite/7bJeFtt8Vq",
+        "youtube": "@MinewarsMc884"
+    }
+}

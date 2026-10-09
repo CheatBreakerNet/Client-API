@@ -1,0 +1,27 @@
+{
+    "id": "luckynetwork",
+    "name": "Lucky Network",
+    "description": "Play Minigames and PvP on Lucky Network.",
+    "addresses": [
+        "luckynetwork.net",
+        "luckynetwork.id"
+    ],
+    "primaryAddress": "play.luckynetwork.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#cf9541",
+    "secondaryColor": "#1a0524",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://www.luckynetwork.net/",
+    "store": "https://store.luckynetwork.net/",
+    "socials": {
+        "discord": "https://discord.com/invite/luckynetwork",
+        "youtube": "UCmQk50LLBSeLDe6RA8SpEcA",
+        "instagram": "luckynetwork"
+    }
+}

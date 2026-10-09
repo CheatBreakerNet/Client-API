@@ -1,0 +1,28 @@
+{
+    "id": "candypvp",
+    "name": "CandyPvP",
+    "description": "Play HCF, PvP, and more on CandyPvP.",
+    "addresses": [
+        "candypvp.com"
+    ],
+    "primaryAddress": "candypvp.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#df0cc6",
+    "secondaryColor": "#ffffff",
+    "gameTypes": [
+        "HCF",
+        "PvP",
+        "SkyBlock"
+    ],
+    "website": "https://candypvp.com/",
+    "store": "https://store.candypvp.com/",
+    "socials": {
+        "twitter": "CandyPvp",
+        "discord": "https://discord.gg/GPdurEzJGY",
+        "telegram": "candypvp",
+        "tiktok": "@candypvp"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "id": "canndymc",
+    "name": "canndymc",
+    "description": "A Spanish Minecraft Java Network",
+    "addresses": [
+        "canndymc.club"
+    ],
+    "primaryAddress": "canndymc.club",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#df0cc6",
+    "secondaryColor": "#ffffff",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "store": "https://canndymc.tebex.io/",
+    "socials": {
+        "twitter": "Canndymc",
+        "discord": "https://discord.com/invite/QfC3ZZvCtw"
+    }
+}

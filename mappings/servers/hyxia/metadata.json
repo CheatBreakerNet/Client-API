@@ -1,0 +1,30 @@
+{
+    "id": "hyxia",
+    "name": "Hyxia Network",
+    "addresses": [
+        "hyxiamc.com"
+    ],
+    "primaryAddress": "hyxiamc.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#D100D1",
+    "secondaryColor": "#000000",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "SA"
+    ],
+    "gameTypes": [
+        "Prison",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/hyxiamc"
+    }
+}

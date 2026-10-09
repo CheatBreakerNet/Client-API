@@ -1,0 +1,31 @@
+{
+    "id": "baltiamc",
+    "name": "BaltiaMC",
+    "description": "Spanish Minecraft server with multiple gamemodes",
+    "addresses": [
+        "baltiamc.net"
+    ],
+    "primaryAddress": "baltiamc.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#3498db",
+    "secondaryColor": "#2ecc71",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "store": "https://tienda.baltiamc.net",
+    "socials": {
+        "discord": "https://discord.gg/baltiamc"
+    }
+}

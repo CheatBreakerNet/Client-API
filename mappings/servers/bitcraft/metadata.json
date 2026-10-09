@@ -1,0 +1,28 @@
+{
+    "id": "bitcraft",
+    "name": "BitCraft",
+    "description": "Play Factions, Survival, and more on BitCraft.",
+    "addresses": [
+        "bitonetop.com"
+    ],
+    "primaryAddress": "play.bitonetop.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#4e00f5",
+    "secondaryColor": "#ae00ff",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Factions",
+        "Survival",
+        "Roleplay"
+    ],
+    "website": "https://bitonetop.com/",
+    "socials": {
+        "discord": "https://discord.gg/bitonetop"
+    }
+}

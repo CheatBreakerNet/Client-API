@@ -1,0 +1,28 @@
+{
+    "id": "minerux",
+    "name": "Minerux Network",
+    "description": "Play Minigames, PvP, and more on Minerux Network.",
+    "addresses": [
+        "minerux.net"
+    ],
+    "primaryAddress": "minerux.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#1BFFFF",
+    "secondaryColor": "#FFFFFF",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "store": "https://mineruxnw.tebex.io",
+    "socials": {
+        "discord": "https://discord.gg/N6WCcEPZ83"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "id": "nordichub",
+    "name": "NordicHub",
+    "description": "Play PvP and Prison on NordicHub.",
+    "addresses": [
+        "nordichub.dk"
+    ],
+    "primaryAddress": "nordichub.dk",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#d9d19e",
+    "secondaryColor": "#4d311e",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Prison"
+    ],
+    "website": "https://portal.nordichub/",
+    "store": "https://nordichubdk.tebex.io/",
+    "socials": {
+        "discord": "https://discord.com/invite/t8Wwzmu67Y"
+    }
+}

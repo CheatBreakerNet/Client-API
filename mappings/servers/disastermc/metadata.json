@@ -1,0 +1,29 @@
+{
+    "id": "disastermc",
+    "name": "DisasterMC Network",
+    "addresses": [
+        "disastermc.com"
+    ],
+    "primaryAddress": "disastermc.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00F8FF",
+    "secondaryColor": "#6ACDB8",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "SkyBlock",
+        "PvP"
+    ],
+    "website": "https://disastermc.com/",
+    "store": "https://tienda.disastermc.com/",
+    "socials": {
+        "discord": "https://discord.com/invite/kXdFpJYgFe"
+    }
+}

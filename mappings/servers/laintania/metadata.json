@@ -1,0 +1,28 @@
+{
+    "id": "laintania",
+    "name": "LAINTANIA",
+    "addresses": [
+        "laintania.net"
+    ],
+    "primaryAddress": "laintania.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#A2612B",
+    "secondaryColor": "#FFFFFF",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://laintania.net",
+    "store": "https://shop.laintania.net",
+    "socials": {
+        "discord": "https://discord.gg/H4DdTkvB3d",
+        "youtube": "https://www.youtube.com/channel/UCt3W7cjvyC2FCC6dtmOvR7g"
+    }
+}

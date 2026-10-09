@@ -1,0 +1,27 @@
+{
+    "id": "buildoria",
+    "name": "Buildoria",
+    "addresses": [
+        "buildoria.de"
+    ],
+    "primaryAddress": "buildoria.de",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#E9760E",
+    "secondaryColor": "#521600",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://buildoria.de"
+}

@@ -1,0 +1,31 @@
+{
+    "id": "mccade",
+    "name": "MCCade Games",
+    "addresses": [
+        "mccade.net"
+    ],
+    "primaryAddress": "play.mccade.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#E6A900",
+    "secondaryColor": "#495bb3",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames"
+    ],
+    "website": "https://www.mccade.net",
+    "store": "https://store.mccade.net",
+    "socials": {
+        "twitter": "playmccade",
+        "discord": "https://discord.com/invite/playmccade"
+    }
+}

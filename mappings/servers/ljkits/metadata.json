@@ -1,0 +1,30 @@
+{
+    "id": "ljkits",
+    "name": "LJKITS",
+    "addresses": [
+        "ljkits.eu"
+    ],
+    "primaryAddress": "mc.ljkits.eu",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FDC003",
+    "secondaryColor": "#FE9301",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://ljkits.eu",
+    "store": "https://ljkits.eu/boutique",
+    "socials": {
+        "discord": "https://discord.gg/ljkits"
+    }
+}

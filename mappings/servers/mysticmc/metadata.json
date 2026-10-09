@@ -1,0 +1,32 @@
+{
+    "id": "mysticmc",
+    "name": "MysticMC",
+    "addresses": [
+        "mysticmc.it"
+    ],
+    "primaryAddress": "play.mysticmc.it",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#C77D3E",
+    "secondaryColor": "#D4A574",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "website": "https://www.mysticmc.it/",
+    "store": "https://store.mysticmc.it/",
+    "socials": {
+        "discord": "https://discord.gg/RfqM9mXHzJ",
+        "tiktok": "@mysticmcofficial_",
+        "youtube": "@MysticMCOfficialServer"
+    }
+}

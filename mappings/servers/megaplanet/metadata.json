@@ -1,0 +1,28 @@
+{
+    "id": "megaplanet",
+    "name": "MEGA Planet",
+    "addresses": [
+        "megaplanet.net"
+    ],
+    "primaryAddress": "mc.megaplanet.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fdfdfb",
+    "secondaryColor": "#0f3935",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://megaplanet.net/",
+    "store": "https://tienda.megaplanet.net/",
+    "socials": {
+        "twitter": "ServeMegaPlanet",
+        "discord": "https://discord.com/invite/2jRDxt6YcT",
+        "youtube": "servidormegaplanet",
+        "instagram": "megaplanetsv",
+        "twitch": "svmegaplanet",
+        "facebook": "serverMEGAPlanet"
+    }
+}

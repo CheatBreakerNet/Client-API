@@ -1,0 +1,24 @@
+{
+    "id": "varamc",
+    "name": "VaraMC",
+    "description": "Play BoxPvP and Survival on Varamc Network!",
+    "addresses": [
+        "varamc.xyz"
+    ],
+    "primaryAddress": "varamc.xyz",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#F861FF",
+    "secondaryColor": "#9B59B6",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "website": "https://www.varamc.xyz/"
+}

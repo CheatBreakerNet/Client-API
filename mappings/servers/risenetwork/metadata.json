@@ -1,0 +1,30 @@
+{
+    "id": "risenetwork",
+    "name": "RiseNetwork",
+    "description": "Play Survival, Skyblock, and more on RiseNetwork.",
+    "addresses": [
+        "risenetwork.ir"
+    ],
+    "primaryAddress": "play.risenetwork.ir",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#F39C12",
+    "secondaryColor": "#F9E79F",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "SkyBlock",
+        "PvP"
+    ],
+    "website": "https://www.risenetwork.ir/",
+    "socials": {
+        "discord": "https://discord.com/invite/2RxeSUy32N",
+        "instagram": "RiseN.etwork",
+        "telegram": "RiseNetworkMC"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "mineplus",
+    "name": "MinePlus",
+    "addresses": [
+        "mineplus.network"
+    ],
+    "primaryAddress": "mc.mineplus.network",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFFFFF",
+    "secondaryColor": "#000000",
+    "primaryLanguage": "tr",
+    "languages": [
+        "tr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Parkour"
+    ],
+    "website": "https://mineplus.network/",
+    "store": "https://mineplus.network/store"
+}

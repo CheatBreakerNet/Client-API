@@ -1,0 +1,29 @@
+{
+    "id": "eytril",
+    "name": "Eytril",
+    "description": "Play PvP and HCF on Eytril.",
+    "addresses": [
+        "eytril.org"
+    ],
+    "primaryAddress": "eytril.org",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FF55FF",
+    "secondaryColor": "#AA00AA",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "HCF"
+    ],
+    "website": "https://eytril.org/",
+    "socials": {
+        "twitter": "EytrilMC",
+        "discord": "https://discord.com/invite/rbNJ7sKyEP"
+    }
+}

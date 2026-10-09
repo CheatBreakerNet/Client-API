@@ -1,0 +1,25 @@
+{
+    "id": "uhcworld",
+    "name": "UHC World",
+    "description": "Compete in Ultra Hardcore on UHC World.",
+    "addresses": [
+        "uhcworld.fr"
+    ],
+    "primaryAddress": "play.uhcworld.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#103844",
+    "secondaryColor": "#4ea8c7",
+    "gameTypes": [
+        "UHC",
+        "PvP",
+        "PvE"
+    ],
+    "website": "https://uhcworld.fr/",
+    "socials": {
+        "twitter": "UHCWorld",
+        "discord": "https://discord.com/invite/uhcworld"
+    }
+}

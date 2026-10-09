@@ -5,7 +5,9 @@
     "addresses": [
         "ezpvp.org",
         "play.ezpvp.org",
-        "juega.ezpvp.org"
+        "juega.ezpvp.org",
+        "ezpvp.lol",
+        "jamals.lol"
     ],
     "primaryAddress": "ezpvp.org",
     "minecraftVersions": [
@@ -28,6 +30,8 @@
         "PvP"
     ],
     "socials": {
-        "telegram": "EzPvPPractice"
+        "telegram": "EzPvPPractice",
+        "discord": "https://discord.gg/hkNkNJRSqb",
+        "youtube": "@abhimaanst"
     }
 }

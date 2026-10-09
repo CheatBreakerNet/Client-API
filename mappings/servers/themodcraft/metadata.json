@@ -1,0 +1,28 @@
+{
+    "id": "themodcraft",
+    "name": "TheModCraft Network",
+    "addresses": [
+        "themodcraft.net"
+    ],
+    "primaryAddress": "themodcraft.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#1f2937",
+    "secondaryColor": "#38bdf8",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvE",
+        "Survival",
+        "Creative"
+    ],
+    "website": "https://themodcraft.net/",
+    "socials": {
+        "discord": "https://discord.gg/zDEjckjqC6"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "bosshub",
+    "name": "BossHub",
+    "description": "Play Skyblock and Survival on BossHub.",
+    "addresses": [
+        "bosshub.net"
+    ],
+    "primaryAddress": "play.bosshub.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#bd0d0d",
+    "secondaryColor": "#6a7274",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "SkyBlock",
+        "Survival"
+    ],
+    "store": "https://store.bosshub.net/",
+    "socials": {
+        "twitter": "goosetheboy",
+        "discord": "https://discord.com/invite/boss-hub",
+        "tiktok": "@goosetheboyy",
+        "youtube": "goosetheboy"
+    }
+}

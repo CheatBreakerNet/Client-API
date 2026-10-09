@@ -1,0 +1,30 @@
+{
+    "id": "havenmc",
+    "name": "HavenMC",
+    "addresses": [
+        "havenmc.cc"
+    ],
+    "primaryAddress": "play.havenmc.cc",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#2f00c5",
+    "secondaryColor": "#3d85c6",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "HCF"
+    ],
+    "store": "https://store.havenmc.cc",
+    "socials": {
+        "discord": "https://discord.gg/havenmc"
+    }
+}

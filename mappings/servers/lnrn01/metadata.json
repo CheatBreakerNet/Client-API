@@ -1,0 +1,20 @@
+{
+    "id": "lnrn01",
+    "name": "LNRN Network",
+    "addresses": [
+        "lnrn.lol"
+    ],
+    "primaryAddress": "lnrn.lol",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#15f00e",
+    "secondaryColor": "#090b1a",
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ]
+}

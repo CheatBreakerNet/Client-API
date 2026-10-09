@@ -1,0 +1,39 @@
+{
+    "id": "meltdownpvpnetwork",
+    "name": "MeltdownPvP Network",
+    "description": "Join MeltdownPvP on Lunar Client!",
+    "addresses": [
+        "meltdownpvp.com"
+    ],
+    "primaryAddress": "mc.meltdownpvp.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#8A2BE2",
+    "secondaryColor": "#8A2BE2",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Factions",
+        "Survival"
+    ],
+    "store": "https://meltdownpvp.buycraft.net/",
+    "socials": {
+        "discord": "https://discord.gg/M3D9RCekjJ",
+        "twitter": "MeltdownPvP",
+        "youtube": "meltdownpvpnetwork",
+        "instagram": "meltdownpvpnetwork",
+        "twitch": "meltdownpvpnetwork",
+        "tiktok": "@meltdownnetwork"
+    }
+}

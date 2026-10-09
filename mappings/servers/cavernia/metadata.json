@@ -1,0 +1,29 @@
+{
+    "id": "cavernia",
+    "name": "Cavernia",
+    "description": "Minecraft HCF & Other",
+    "addresses": [
+        "cavernia.org"
+    ],
+    "primaryAddress": "cavernia.org",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e137d7",
+    "secondaryColor": "#ffffff",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "HCF"
+    ],
+    "store": "https://store.cavernia.org",
+    "socials": {
+        "telegram": "caverniagames",
+        "discord": "https://discord.gg/cdJJGnaHE3"
+    }
+}

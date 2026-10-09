@@ -1,0 +1,27 @@
+{
+    "id": "hypixelpl",
+    "name": "Hypixel.pl",
+    "description": "Play Minigames, PvP, and more on Hypixel.pl.",
+    "addresses": [
+        "hypixel.pl"
+    ],
+    "primaryAddress": "hypixel.pl",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ecb94f",
+    "secondaryColor": "#372826",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "SkyBlock"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/36j8DEYdHf"
+    }
+}

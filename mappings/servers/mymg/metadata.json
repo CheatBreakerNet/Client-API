@@ -1,0 +1,35 @@
+{
+    "id": "mymg",
+    "name": "MyMg Network",
+    "description": "Join the best Minecraft server network in Poland!",
+    "addresses": [
+        "mymg.pl",
+        "lecraft.pl"
+    ],
+    "primaryAddress": "lecraft.pl",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#9370e7",
+    "secondaryColor": "#6432dc",
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "SkyBlock",
+        "Minigames",
+        "Creative"
+    ],
+    "website": "https://mymg.pl/",
+    "store": "https://mymg.pl/sklep/",
+    "socials": {
+        "discord": "https://discord.com/invite/EzXCeaj68k",
+        "facebook": "mckingpl"
+    }
+}

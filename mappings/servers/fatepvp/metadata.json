@@ -1,0 +1,32 @@
+{
+    "id": "fatepvp",
+    "name": "FatePvP",
+    "description": "A Competitive Factions Server",
+    "addresses": [
+        "fatepvp.com"
+    ],
+    "primaryAddress": "fatepvp.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#421864",
+    "secondaryColor": "#cf66f0",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Factions"
+    ],
+    "website": "https://fatepvp.com",
+    "store": "https://store.fatepvp.com",
+    "socials": {
+        "twitter": "FatePvP",
+        "discord": "https://discord.gg/fatepvp"
+    }
+}

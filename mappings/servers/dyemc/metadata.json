@@ -1,0 +1,29 @@
+{
+    "id": "dyemc",
+    "name": "DYEMC",
+    "addresses": [
+        "dyemc.eu"
+    ],
+    "primaryAddress": "dyemc.eu",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#4caf50",
+    "secondaryColor": "#0b0f0c",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/MrZbxD4f43"
+    }
+}

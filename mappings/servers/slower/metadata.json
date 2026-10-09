@@ -1,0 +1,32 @@
+{
+    "id": "slower",
+    "name": "Slower",
+    "description": "KitPvP, HG, Bedwars e Rankup Mediaval",
+    "addresses": [
+        "slower.com.br"
+    ],
+    "primaryAddress": "slower.com.br",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#345EEB",
+    "secondaryColor": "#363791",
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Prison"
+    ],
+    "website": "http://slower.com.br",
+    "socials": {
+        "discord": "https://discord.gg/gz9SvKKSNt"
+    }
+}

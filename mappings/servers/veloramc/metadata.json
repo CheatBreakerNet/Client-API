@@ -1,0 +1,35 @@
+{
+    "id": "veloramc",
+    "name": "VeloraMC",
+    "addresses": [
+        "veloramc.xyz"
+    ],
+    "primaryAddress": "play.veloramc.xyz",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#800080",
+    "secondaryColor": "#E4A0F7",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "EU",
+        "NA",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "store": "https://veloramc-store.tebex.store/",
+    "socials": {
+        "discord": "https://discord.gg/PQ5sKKpRh"
+    }
+}

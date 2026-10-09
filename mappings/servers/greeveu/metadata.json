@@ -1,0 +1,28 @@
+{
+    "id": "greeveu",
+    "name": "Greev.eu",
+    "addresses": [
+        "greev.eu"
+    ],
+    "primaryAddress": "greev.eu",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#65AC67",
+    "secondaryColor": "#5F8A60",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://greev.eu/",
+    "socials": {
+        "twitter": "Greeveu",
+        "discord": "https://discord.com/invite/taAbPpq",
+        "instagram": "greev.eu"
+    }
+}

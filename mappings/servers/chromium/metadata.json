@@ -1,0 +1,26 @@
+{
+    "id": "chromium",
+    "name": "Chromium Network",
+    "description": "Test your combat skills on Chromium Network.",
+    "addresses": [
+        "chromium.lol"
+    ],
+    "primaryAddress": "play.chromium.lol",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fb6000",
+    "secondaryColor": "#FBC100",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://chromium.lol/",
+    "socials": {
+        "discord": "https://discord.gg/5a3Nbcwcnd"
+    }
+}

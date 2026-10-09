@@ -1,0 +1,30 @@
+{
+    "id": "nordicraft",
+    "name": "Nordicraft Network",
+    "description": "Join our great Survival Custom community.",
+    "addresses": [
+        "nordicraft.us"
+    ],
+    "primaryAddress": "mc.nordicraft.us",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff9900",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "store": "https://tienda.nordicraft.us",
+    "socials": {
+        "discord": "https://discord.com/invite/UBeWrguUXg"
+    }
+}

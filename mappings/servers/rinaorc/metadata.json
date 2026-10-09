@@ -1,0 +1,34 @@
+{
+    "id": "rinaorc",
+    "name": "Rinaorc",
+    "description": "Rinaorc - French Minecraft server since 2014.",
+    "addresses": [
+        "rinaorc.com"
+    ],
+    "primaryAddress": "rinaorc.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e9bb12",
+    "secondaryColor": "#8c4b24",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Prison"
+    ],
+    "website": "https://rinaorc.com/",
+    "store": "https://store.rinaorc.com/",
+    "socials": {
+        "twitter": "rinaorc",
+        "discord": "https://discord.gg/rinaorc",
+        "youtube": "@RinaorcStudios",
+        "tiktok": "@rinaorc.studios",
+        "facebook": "rinaorc.mc",
+        "instagram": "rinaorcstudios"
+    }
+}

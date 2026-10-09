@@ -1,0 +1,28 @@
+{
+    "id": "razercraftnetwork",
+    "name": "RazerCraft Network",
+    "addresses": [
+        "razercraft.me"
+    ],
+    "primaryAddress": "razercraft.me",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#564fed",
+    "secondaryColor": "#c4b9ff",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "store": "https://tienda.razercraft.me",
+    "socials": {
+        "tiktok": "@razercraft1",
+        "instagram": "razercraft_mc",
+        "discord": "https://discord.gg/razercraft"
+    }
+}

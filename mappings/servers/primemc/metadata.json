@@ -1,0 +1,34 @@
+{
+    "id": "primemc",
+    "name": "PrimeMC",
+    "description": "Home of Survival Games",
+    "addresses": [
+        "primemc.eu",
+        "fynnland.net"
+    ],
+    "primaryAddress": "primemc.eu",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e8a000",
+    "secondaryColor": "#662802",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://primemc.eu/",
+    "store": "https://store.primemc.eu/",
+    "socials": {
+        "discord": "https://discord.gg/primemc"
+    }
+}

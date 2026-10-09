@@ -1,0 +1,39 @@
+{
+    "id": "legionnetwork",
+    "name": "Legion Network",
+    "description": "Come play with us in our survival!",
+    "addresses": [
+        "legion.ac"
+    ],
+    "primaryAddress": "legion.ac",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#8d34ff",
+    "secondaryColor": "#d734ff",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "SkyBlock"
+    ],
+    "store": "https://tienda.legion.ac",
+    "socials": {
+        "twitter": "Legion_Network3",
+        "tiktok": "@legionnetwork_",
+        "discord": "https://discord.gg/jsMtGwn7tu"
+    }
+}

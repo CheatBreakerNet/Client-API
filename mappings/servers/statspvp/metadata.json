@@ -1,0 +1,36 @@
+{
+    "id": "statspvp",
+    "name": "Statspvp Network",
+    "description": "Play UHC and PvP on Statspvp Network.",
+    "addresses": [
+        "statspvp.gg",
+        "spreen.world"
+    ],
+    "primaryAddress": "statspvp.gg",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#cece91",
+    "secondaryColor": "#91cec9",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "UHC",
+        "PvP"
+    ],
+    "website": "https://statspvp.gg/",
+    "store": "https://store.statspvp.gg/",
+    "socials": {
+        "twitter": "StatsPvPGG",
+        "discord": "https://discord.gg/hNy9M5ybmf"
+    }
+}

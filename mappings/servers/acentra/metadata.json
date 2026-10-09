@@ -1,0 +1,28 @@
+{
+    "id": "acentra",
+    "name": "AcentraMC",
+    "description": "Play PvP, Prison, and more on AcentraMC.",
+    "addresses": [
+        "acentramc.com",
+        "glance.top"
+    ],
+    "primaryAddress": "play.acentramc.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fba41e",
+    "secondaryColor": "#393335",
+    "gameTypes": [
+        "PvP",
+        "Prison",
+        "Minigames"
+    ],
+    "website": "https://acentramc.com/",
+    "store": "https://store.acentramc.com/",
+    "socials": {
+        "discord": "https://discord.com/invite/4vPVeNdekf",
+        "youtube": "UCndobW90gOlBP2dSxBBfMkg",
+        "tiktok": "@acentramc"
+    }
+}

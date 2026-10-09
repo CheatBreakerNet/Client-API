@@ -1,0 +1,30 @@
+{
+    "id": "lowasia",
+    "name": "Lowasia",
+    "description": "Play PvP and Factions on Lowasia.",
+    "addresses": [
+        "lowasia.fr"
+    ],
+    "primaryAddress": "play.lowasia.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f2b41c",
+    "secondaryColor": "#372826",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Factions"
+    ],
+    "website": "https://lowasia.fr/",
+    "store": "https://boutique.lowasia.fr/",
+    "socials": {
+        "twitter": "McWorldof",
+        "discord": "https://discord.com/invite/9WyVv9zjMk",
+        "youtube": "UCvwVubglX67GOADdGHVbVJQ"
+    }
+}

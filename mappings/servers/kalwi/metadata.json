@@ -1,0 +1,37 @@
+{
+    "id": "kalwi",
+    "name": "Kandang Alwi",
+    "description": "Survival server with a variety of features.",
+    "addresses": [
+        "kalwi.id",
+        "kalwi.cc"
+    ],
+    "primaryAddress": "kalwi.id",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#4180F4",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Adventure",
+        "Survival",
+        "Minigames"
+    ],
+    "website": "https://kalwi.net",
+    "store": "https://store.kalwi.net",
+    "socials": {
+        "discord": "https://discord.gg/kalwi",
+        "tiktok": "@kalwi.net",
+        "instagram": "kandangalwi.me",
+        "youtube": "kandangalwi"
+    }
+}

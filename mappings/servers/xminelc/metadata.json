@@ -1,0 +1,32 @@
+{
+    "id": "xminelc",
+    "name": "xMineLC Network",
+    "description": "Play Skyblock, PvP, and more on xMineLC Network.",
+    "addresses": [
+        "mine.lc",
+        "xminelc.com"
+    ],
+    "primaryAddress": "play.xminelc.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#15bdd5",
+    "secondaryColor": "#c4e5e5",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "SkyBlock",
+        "PvP",
+        "Survival"
+    ],
+    "website": "https://xminelc.com/",
+    "store": "https://store.xminelc.com/",
+    "socials": {
+        "twitter": "xMineLC",
+        "discord": "https://discord.gg/HeenYWz233",
+        "instagram": "xMineLC"
+    }
+}

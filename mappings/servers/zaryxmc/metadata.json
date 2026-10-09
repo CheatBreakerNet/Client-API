@@ -1,0 +1,32 @@
+{
+    "id": "zaryxmc",
+    "name": "ZaryxMC Network",
+    "description": "Spanish speaking PvP and PvE server",
+    "addresses": [
+        "zaryxmc.us"
+    ],
+    "primaryAddress": "play.zaryxmc.us",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#9600FF",
+    "secondaryColor": "#FF00FF",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "SkyBlock",
+        "Prison"
+    ],
+    "store": "https://tienda.zaryxmc.us/",
+    "socials": {
+        "twitter": "zaryxmcnw",
+        "discord": "https://discord.com/invite/Sbd4nBmSSN"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "syuu",
+    "name": "Syuu",
+    "description": "Play PvP and Minigames on Syuu.",
+    "addresses": [
+        "syuu.net"
+    ],
+    "primaryAddress": "syuu.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "primaryColor": "#f0a40e",
+    "secondaryColor": "#080502",
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://www.syuu.net/",
+    "store": "https://store.syuu.io/",
+    "socials": {
+        "twitter": "_SyuuNet",
+        "discord": "https://discord.com/invite/fCcsqHe"
+    }
+}

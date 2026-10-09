@@ -1,0 +1,29 @@
+{
+    "id": "cookieclickerv2",
+    "name": "Cookie Clicker V2",
+    "addresses": [
+        "cookieclickermc.fr"
+    ],
+    "primaryAddress": "play.cookieclickermc.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#D2691E",
+    "secondaryColor": "#FFD700",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Creative"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/BdZf2YVW4w"
+    }
+}

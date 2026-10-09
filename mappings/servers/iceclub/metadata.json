@@ -1,0 +1,33 @@
+{
+    "id": "iceclub",
+    "name": "IceClub",
+    "description": "Server to have fun and earn money!",
+    "addresses": [
+        "iceclub.live"
+    ],
+    "primaryAddress": "iceclub.live",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#08ACFB",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Prison",
+        "Survival",
+        "PvP"
+    ],
+    "website": "https://tienda.iceclub.live/",
+    "socials": {
+        "discord": "https://discord.gg/iceclub"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "starnetwork",
+    "name": "StarNetwork",
+    "description": "French Minecraft minigames server",
+    "addresses": [
+        "starnetwork.fr"
+    ],
+    "primaryAddress": "mc.starnetwork.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFE000",
+    "secondaryColor": "#FFB40E",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr",
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://starnetwork.fr/",
+    "store": "https://store.starnetwork.fr/",
+    "socials": {
+        "twitter": "StarNetworkFR",
+        "discord": "https://discord.com/invite/JUz6hTbPUc",
+        "youtube": "StarNetwork",
+        "instagram": "StarNetworkFR",
+        "tiktok": "@starnetworkfr"
+    }
+}

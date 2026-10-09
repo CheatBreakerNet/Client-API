@@ -1,0 +1,29 @@
+{
+    "id": "atlascraft",
+    "name": "AtlasCraft",
+    "description": "Play Minigames, PvP, and more on AtlasCraft.",
+    "addresses": [
+        "atlascraft.ma"
+    ],
+    "primaryAddress": "mc.atlascraft.ma",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#33e9ff",
+    "secondaryColor": "#ffffff",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "website": "https://atlascraft.ma//",
+    "store": "https://store.atlascraft.ma",
+    "socials": {
+        "discord": "https://discord.gg/invite/E4v485RGM6"
+    }
+}

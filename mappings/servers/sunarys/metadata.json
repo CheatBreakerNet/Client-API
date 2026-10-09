@@ -1,0 +1,28 @@
+{
+    "id": "sunarys",
+    "name": "Sunarys",
+    "description": "Play Factions and PvP on Sunarys.",
+    "addresses": [
+        "sunarys.fr"
+    ],
+    "primaryAddress": "play.sunarys.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFEE3D",
+    "secondaryColor": "#297345",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "website": "https://sunarys.fr/",
+    "store": "https://boutique.sunarys.fr",
+    "socials": {
+        "discord": "https://discord.gg/sunarys"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "hybox",
+    "name": "Hybox",
+    "description": "Play Survival and PvP on Hybox.",
+    "addresses": [
+        "hybox.gg"
+    ],
+    "primaryAddress": "mc.hybox.gg",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#79E1E7",
+    "secondaryColor": "#E6D125",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "EU",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "website": "https://hybox.gg/",
+    "store": "https://tienda.hybox.gg/",
+    "socials": {
+        "twitter": "hyboxnetwork",
+        "discord": "https://discord.com/invite/sBp5PuTV3J"
+    }
+}

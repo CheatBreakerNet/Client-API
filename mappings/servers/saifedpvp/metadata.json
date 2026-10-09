@@ -1,0 +1,31 @@
+{
+    "id": "saifedpvp",
+    "name": "SaifedPvP Network",
+    "addresses": [
+        "saifedpvp.club"
+    ],
+    "primaryAddress": "saifedpvp.club",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFFF55",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "store": "https://saifedpvp.tebex.io",
+    "socials": {
+        "discord": "https://discord.com/invite/Jrtg7TdxQN",
+        "youtube": "@SaifedPvPNetwork"
+    }
+}

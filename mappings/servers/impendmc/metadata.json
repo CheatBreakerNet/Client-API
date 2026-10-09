@@ -1,0 +1,27 @@
+{
+    "id": "impendmc",
+    "name": "ImpendMC",
+    "description": "Play PvP and Minigames on ImpendMC.",
+    "addresses": [
+        "impendmc.net"
+    ],
+    "primaryAddress": "play.impendmc.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#51aeff",
+    "secondaryColor": "#3fdcfc",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "store": "https://store.impendmc.net/",
+    "socials": {
+        "discord": "https://discord.com/invite/randomkits"
+    }
+}

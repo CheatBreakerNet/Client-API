@@ -1,0 +1,30 @@
+{
+    "id": "applemc",
+    "name": "AppleMC",
+    "description": "Play Minigames, Survival, and more on AppleMC.",
+    "addresses": [
+        "applemc.fun"
+    ],
+    "primaryAddress": "play.applemc.fun",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#de1313",
+    "secondaryColor": "#290000",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://applemc.fun/",
+    "store": "https://store.applemc.fun/",
+    "socials": {
+        "twitter": "AppleMCSMP",
+        "discord": "https://discord.com/invite/applemc"
+    }
+}

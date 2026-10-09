@@ -1,0 +1,28 @@
+{
+    "id": "widowmc",
+    "name": "WidowMC Network",
+    "description": "Play PvP and Survival on WidowMC Network.",
+    "addresses": [
+        "widowmc.net"
+    ],
+    "primaryAddress": "widowmc.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#d50101",
+    "secondaryColor": "#FFFFFF",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "store": "https://store.widowmc.net",
+    "socials": {
+        "discord": "https://discord.gg/widow-network-1100958998531940368"
+    },
+    "website": "https://widowmc.net"
+}

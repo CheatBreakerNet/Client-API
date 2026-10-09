@@ -1,0 +1,25 @@
+{
+    "id": "masedworld",
+    "name": "MasedWorld",
+    "description": "Play Survival, Minigames, and more on MasedWorld.",
+    "addresses": [
+        "masedworld.net"
+    ],
+    "primaryAddress": "mc.masedworld.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#80bae5",
+    "secondaryColor": "#6c1122",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://masedworld.net/"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "pixelmc",
+    "name": "PixelMC",
+    "description": "Play Survival, PvP, and more on PixelMC.",
+    "addresses": [
+        "pixelmc.ir"
+    ],
+    "primaryAddress": "play.pixelmc.ir",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#28C2FB",
+    "secondaryColor": "#9BDEFF",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Roleplay"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/9qWAkYr6s2",
+        "telegram": "PixelMC_Ir"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "etercube",
+    "name": "Etercube",
+    "description": "Play PvP and Factions on Etercube.",
+    "addresses": [
+        "etercube.fr",
+        "etercrash.fr"
+    ],
+    "primaryAddress": "mc.etercube.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#0090ff",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Factions"
+    ],
+    "website": "https://etercube.fr",
+    "socials": {
+        "discord": "https://discord.gg/cAWNkX5Am5",
+        "twitter": "etercube",
+        "youtube": "@etercube",
+        "tiktok": "@etercube"
+    }
+}

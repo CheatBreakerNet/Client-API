@@ -1,0 +1,27 @@
+{
+    "id": "dupemc",
+    "name": "DupeMC",
+    "description": "Build your faction and conquer on DupeMC.",
+    "addresses": [
+        "dupemc.net"
+    ],
+    "primaryAddress": "play.dupemc.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#16bdf5",
+    "secondaryColor": "#55FF55",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Factions"
+    ],
+    "website": "https://dupemc.net/",
+    "store": "https://store.dupemc.net/",
+    "socials": {
+        "discord": "https://discord.com/invite/Xvn7Ab3c48"
+    }
+}

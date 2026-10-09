@@ -1,0 +1,24 @@
+{
+    "id": "ragemc",
+    "name": "RageMC",
+    "addresses": [
+        "ragemc.rip"
+    ],
+    "primaryAddress": "ragemc.rip",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#D10000",
+    "secondaryColor": "#1A1A1A",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "website": "https://ragemc.rip"
+}

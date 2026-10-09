@@ -1,0 +1,33 @@
+{
+    "id": "craftportal",
+    "name": "Craftportal",
+    "addresses": [
+        "craftportal.net"
+    ],
+    "primaryAddress": "craftportal.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#000000",
+    "secondaryColor": "#00bf00",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Creative"
+    ],
+    "website": "https://craftportal.net",
+    "socials": {
+        "discord": "https://discord.gg/JNgaGA6Wgv",
+        "youtube": "https://youtube.com/@craftportal_net",
+        "tiktok": "craftportal_net",
+        "twitter": "craftportal_net"
+    }
+}

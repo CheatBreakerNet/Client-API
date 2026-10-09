@@ -1,0 +1,29 @@
+{
+    "id": "relicmc",
+    "name": "Relicmc",
+    "description": "Forge your legacy on RelicMC.",
+    "addresses": [
+        "relicmc.net"
+    ],
+    "primaryAddress": "play.relicmc.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#6a329f",
+    "secondaryColor": "#4d2275",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "website": "https://relicmc.net/",
+    "store": "https://relicmc.net/store/",
+    "socials": {
+        "discord": "https://discord.com/invite/relicmc"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": "terramc",
+    "name": "TerraMC",
+    "addresses": [
+        "terramc.net"
+    ],
+    "primaryAddress": "terramc.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#153F15",
+    "secondaryColor": "#2A2A2A",
+    "primaryLanguage": "de",
+    "languages": [
+        "de",
+        "en"
+    ],
+    "gameTypes": [
+        "Creative",
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://terramc.net",
+    "socials": {
+        "twitter": "TerraMCnet",
+        "tiktok": "terramcnet",
+        "instagram": "terramcnet",
+        "discord": "https://discord.gg/tbNaSWN",
+        "youtube": "https://www.youtube.com/channel/UC76wAuVoucTxtJeZIjeOupw"
+    }
+}

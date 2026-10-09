@@ -1,0 +1,26 @@
+{
+    "id": "rededark",
+    "name": "Rede Dark",
+    "description": "Play Minigames and Prison on Rede Dark.",
+    "addresses": [
+        "rededark.com"
+    ],
+    "primaryAddress": "rededark.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#df3802",
+    "secondaryColor": "#080807",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Prison"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/ttdX6CxeHr"
+    }
+}

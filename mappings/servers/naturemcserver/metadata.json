@@ -1,0 +1,23 @@
+{
+    "id": "naturemcserver",
+    "name": "NatureMC",
+    "description": "Play Minigames and PvP on NatureMC.",
+    "addresses": [
+        "naturemc.site"
+    ],
+    "primaryAddress": "play.naturemc.site",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#b51e1b",
+    "secondaryColor": "#251715",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "store": "https://tienda.naturemc.site/",
+    "socials": {
+        "discord": "https://discord.com/invite/ET27KFPbt"
+    }
+}

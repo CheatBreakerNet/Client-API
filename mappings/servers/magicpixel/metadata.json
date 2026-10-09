@@ -1,0 +1,33 @@
+{
+    "id": "magicpixel",
+    "name": "MagicPixel",
+    "addresses": [
+        "magicpixel.ir"
+    ],
+    "primaryAddress": "play.magicpixel.ir",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#893bf6",
+    "secondaryColor": "#cd3bf6",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Roleplay",
+        "Survival",
+        "SkyBlock"
+    ],
+    "website": "https://magicpixel.ir",
+    "store": "https://www.magicpixel.ir/dashboard/store",
+    "socials": {
+        "discord": "https://discord.gg/pzCmCKtv95",
+        "instagram": "magicpixel.ir"
+    }
+}

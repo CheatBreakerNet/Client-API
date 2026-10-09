@@ -1,0 +1,24 @@
+{
+    "id": "pulsemc",
+    "name": "PulseMC",
+    "description": "Play Skyblock and Prison on PulseMC.",
+    "addresses": [
+        "pulsemc.org"
+    ],
+    "primaryAddress": "play.pulsemc.org",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFD700",
+    "secondaryColor": "#FFFFFF",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "SkyBlock",
+        "Prison"
+    ],
+    "store": "https://store.pulsemc.org/"
+}

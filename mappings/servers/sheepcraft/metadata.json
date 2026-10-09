@@ -1,0 +1,30 @@
+{
+    "id": "sheepcraft",
+    "name": "SheepCraft",
+    "description": "The home of Survival PVP for clans, since 2020",
+    "addresses": [
+        "sheepcraft.org"
+    ],
+    "primaryAddress": "mc.sheepcraft.org",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#9900ff",
+    "secondaryColor": "#ffffff",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "SA",
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Prison"
+    ],
+    "store": "https://store.sheepcraft.org",
+    "socials": {
+        "discord": "https://discord.gg/sheepcraft"
+    }
+}

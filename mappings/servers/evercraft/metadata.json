@@ -1,0 +1,32 @@
+{
+    "id": "evercraft",
+    "name": "EverCraft",
+    "addresses": [
+        "evercraft.it"
+    ],
+    "primaryAddress": "mc.evercraft.it",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00ffff",
+    "secondaryColor": "#336699",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "SkyBlock",
+        "Factions"
+    ],
+    "website": "https://evercraft.it/",
+    "store": "https://buy.evercraft.it/",
+    "socials": {
+        "discord": "https://discord.com/invite/3Yp6kt6C7X"
+    }
+}

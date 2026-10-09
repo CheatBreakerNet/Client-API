@@ -1,0 +1,36 @@
+{
+    "id": "overpvp",
+    "name": "OverPvP",
+    "description": "Play HCF, PvP, and more on OverPvP.",
+    "addresses": [
+        "overpvp.com"
+    ],
+    "primaryAddress": "play.overpvp.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#008f39",
+    "secondaryColor": "#89ac76",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "HCF",
+        "PvP",
+        "UHC"
+    ],
+    "website": "https://overpvp.com",
+    "store": "https://store.overpvp.com/",
+    "socials": {
+        "twitter": "PlayOverPvP",
+        "discord": "https://discord.gg/4Bec2DST29"
+    }
+}

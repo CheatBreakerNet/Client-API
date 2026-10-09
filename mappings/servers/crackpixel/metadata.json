@@ -1,0 +1,28 @@
+{
+    "id": "crackpixel",
+    "name": "Crackpixel Network",
+    "addresses": [
+        "crackpixel.net"
+    ],
+    "primaryAddress": "mc.crackpixel.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f7bf20",
+    "secondaryColor": "#232a28",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "SkyBlock",
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://crackpixel.net/",
+    "store": "https://store.crackpixel.net/",
+    "socials": {
+        "discord": "https://discord.com/invite/tHy5uyKc35"
+    }
+}

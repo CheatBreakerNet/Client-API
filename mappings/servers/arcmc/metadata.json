@@ -1,0 +1,25 @@
+{
+    "id": "arcmc",
+    "name": "ArcMC",
+    "description": "ArcMC is a danish, revolutionary OPPrison.",
+    "addresses": [
+        "arcmc.dk",
+        "sqmmer.dk"
+    ],
+    "primaryAddress": "arcmc.dk",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e430f7",
+    "secondaryColor": "#0f0f0f",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Prison"
+    ],
+    "website": "https://arcmc.dk/",
+    "store": "https://butik.arcmc.dk/"
+}

@@ -1,0 +1,29 @@
+{
+    "id": "firstmc",
+    "name": "FirstMC.de",
+    "addresses": [
+        "firstmc.de"
+    ],
+    "primaryAddress": "firstmc.de",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#B9CDB1",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "de",
+    "languages": [
+        "de",
+        "en"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "store": "https://shop.firstmc.de",
+    "socials": {
+        "tiktok": "firstmc.de",
+        "youtube": "https://www.youtube.com/@FirstMC_de",
+        "discord": "https://discord.gg/firstmc-de-minecraft-973753366326939658"
+    }
+}

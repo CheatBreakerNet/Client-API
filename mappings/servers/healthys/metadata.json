@@ -1,0 +1,28 @@
+{
+    "id": "healthys",
+    "name": "Healthys Network",
+    "description": "Play PvP, PvE, and more on Healthys Network.",
+    "addresses": [
+        "healthys.cc"
+    ],
+    "primaryAddress": "healthys.cc",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#db213a",
+    "secondaryColor": "#3f3e4c",
+    "gameTypes": [
+        "PvP",
+        "PvE",
+        "Adventure"
+    ],
+    "website": "https://healthys.cc/",
+    "store": "https://tienda.healthys.cc/",
+    "socials": {
+        "twitter": "Healthys",
+        "discord": "https://discord.com/invite/healthys",
+        "telegram": "healthys",
+        "tiktok": "@healthysnetwork"
+    }
+}

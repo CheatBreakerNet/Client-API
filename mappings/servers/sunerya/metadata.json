@@ -1,0 +1,32 @@
+{
+    "id": "sunerya",
+    "name": "Sunerya",
+    "description": "The best French PVP Faction server",
+    "addresses": [
+        "sunerya.fr"
+    ],
+    "primaryAddress": "play.sunerya.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFC747",
+    "secondaryColor": "#EB892D",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Factions"
+    ],
+    "website": "https://sunerya.fr/",
+    "store": "https://boutique.sunerya.fr/",
+    "socials": {
+        "discord": "https://discord.com/invite/sunerya"
+    }
+}

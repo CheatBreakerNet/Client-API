@@ -1,0 +1,35 @@
+{
+    "id": "slycenetwork",
+    "name": "SlyceNetwork",
+    "addresses": [
+        "slyce.network"
+    ],
+    "primaryAddress": "slyce.network",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#2b9bfb",
+    "secondaryColor": "#fb692b",
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR",
+        "pt-PT"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Roleplay"
+    ],
+    "website": "https://www.slyce.network/",
+    "store": "https://www.slyce.network/loja",
+    "socials": {
+        "discord": "https://discord.gg/aWCMtDwW68",
+        "youtube": "@SlyceNetwork",
+        "instagram": "slycenetworkbr"
+    }
+}

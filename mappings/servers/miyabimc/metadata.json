@@ -1,0 +1,28 @@
+{
+    "id": "miyabimc",
+    "name": "Miyabimc",
+    "description": "Miyabimc is a japanese pvp server",
+    "addresses": [
+        "miyabimc.net"
+    ],
+    "primaryAddress": "miyabimc.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#65318e",
+    "secondaryColor": "#ffffff",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/aHdjnxRpaw",
+        "twitter": "onudonn",
+        "youtube": "@onudon"
+    }
+}

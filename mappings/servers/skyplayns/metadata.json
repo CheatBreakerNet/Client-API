@@ -1,0 +1,28 @@
+{
+    "id": "skyplayns",
+    "name": "SkyPlayns.de",
+    "addresses": [
+        "skyplayns.de"
+    ],
+    "primaryAddress": "skyplayns.de",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#396290",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "de"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://SkyPlayns.de",
+    "socials": {
+        "twitter": "SkyPlayns",
+        "discord": "https://discord.gg/WSdKtNyzxc"
+    }
+}

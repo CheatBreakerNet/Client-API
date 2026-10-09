@@ -1,0 +1,36 @@
+{
+    "id": "craftymc",
+    "name": "CraftyMC",
+    "description": "French FFA Game Server",
+    "addresses": [
+        "craftymc.fr"
+    ],
+    "primaryAddress": "craftymc.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fdd24d",
+    "secondaryColor": "#fffeff",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr",
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://craftymc.fr",
+    "socials": {
+        "twitter": "craftymc",
+        "discord": "https://discord.gg/PRjY7bv6nt",
+        "youtube": "craftymc",
+        "instagram": "craftymc",
+        "tiktok": "@craftymc"
+    }
+}

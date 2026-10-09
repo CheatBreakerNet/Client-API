@@ -1,0 +1,33 @@
+{
+    "id": "zorlynetwork",
+    "name": "Zorly Network",
+    "addresses": [
+        "zorly.it"
+    ],
+    "primaryAddress": "play.zorly.it",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FF0000",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "it",
+    "languages": [
+        "en",
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Hardcore",
+        "Adventure"
+    ],
+    "website": "https://www.zorly.it",
+    "store": "https://store.zorly.it",
+    "socials": {
+        "discord": "https://discord.gg/neAeKyCufu"
+    }
+}

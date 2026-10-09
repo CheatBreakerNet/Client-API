@@ -1,0 +1,28 @@
+{
+    "id": "velnoxclub",
+    "name": "Velnox Network",
+    "description": "Play Survival and PvP on Velnox Network.",
+    "addresses": [
+        "velnox.club"
+    ],
+    "primaryAddress": "velnox.club",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#610B0B",
+    "secondaryColor": "#8A0808",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "store": "https://store.velnox.club/",
+    "socials": {
+        "discord": "https://discord.gg/BGtxZVpyR9",
+        "facebook": "velnoxclub"
+    }
+}

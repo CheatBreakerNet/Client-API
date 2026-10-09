@@ -1,0 +1,29 @@
+{
+    "id": "palaguidebot",
+    "name": "PalaGuideBot",
+    "description": "PalaGuideBot Official Server",
+    "addresses": [
+        "palaguidebot.fr"
+    ],
+    "primaryAddress": "play.palaguidebot.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFB702",
+    "secondaryColor": "#139595",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Adventure"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/fUHeR46udr"
+    }
+}

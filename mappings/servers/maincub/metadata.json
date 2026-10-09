@@ -1,0 +1,29 @@
+{
+    "id": "maincub",
+    "name": "MainCub",
+    "description": "Play Survival, Gens, and more on Vealy.",
+    "addresses": [
+        "maincub.us"
+    ],
+    "primaryAddress": "maincub.us",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#279cd6",
+    "secondaryColor": "#dc7eed",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "store": "https://store.maincub.us/",
+    "socials": {
+        "twitter": "maincubnw",
+        "discord": "https://discord.com/invite/5PJJUPzaSK"
+    }
+}

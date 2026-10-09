@@ -1,0 +1,32 @@
+{
+    "id": "easypvp",
+    "name": "EasyPvP",
+    "addresses": [
+        "easypvp.fr"
+    ],
+    "primaryAddress": "play.easypvp.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00F0F0",
+    "secondaryColor": "#080789",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "UHC",
+        "PvP",
+        "SkyBlock"
+    ],
+    "website": "https://easypvp.fr",
+    "store": "https://easypvp.tebex.store",
+    "socials": {
+        "discord": "https://discord.gg/8E5PF7N"
+    }
+}

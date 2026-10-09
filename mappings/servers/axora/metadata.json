@@ -1,0 +1,28 @@
+{
+    "id": "axora",
+    "name": "Axora Network",
+    "addresses": [
+        "axoramc.com",
+        "rankedbw.com"
+    ],
+    "primaryAddress": "play.axoramc.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#c30003",
+    "secondaryColor": "#ffffff",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://rankedbw.com",
+    "socials": {
+        "youtube": "Axora Network",
+        "discord": "https://discord.gg/arbw"
+    }
+}

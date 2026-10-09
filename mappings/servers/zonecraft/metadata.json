@@ -1,0 +1,40 @@
+{
+    "id": "zonecraft",
+    "name": "ZoneCraft",
+    "description": "We host fun and unique games",
+    "addresses": [
+        "zonecraft.es",
+        "zonecn.es",
+        "hypixel.es",
+        "amamarla.com"
+    ],
+    "primaryAddress": "zonecraft.es",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff3344",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Survival"
+    ],
+    "website": "https://www.zonecraft.es",
+    "store": "https://tienda.zonecraft.es",
+    "socials": {
+        "twitter": "zonecraftES",
+        "discord": "https://discord.com/invite/mvZkgAM",
+        "youtube": "@ZoneCraftES",
+        "instagram": "zonecraftes",
+        "tiktok": "@zonecraftes"
+    }
+}

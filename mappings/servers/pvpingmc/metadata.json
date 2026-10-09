@@ -1,0 +1,33 @@
+{
+    "id": "pvpingmc",
+    "name": "PvPingMC",
+    "addresses": [
+        "pvpingmc.com",
+        "pvpingmc.net",
+        "pvpingmc.org"
+    ],
+    "primaryAddress": "lunar.pvpingmc.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffaa00",
+    "secondaryColor": "#ffff55",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "SkyBlock",
+        "Factions",
+        "Prison"
+    ],
+    "website": "https://pvpingmc.net",
+    "store": "https://pvpingmc.net/store",
+    "socials": {
+        "discord": "https://discord.com/invite/uBfKAxYc5v",
+        "twitter": "PvPingMC",
+        "tiktok": "@pvpingmc",
+        "youtube": "PvPingMC"
+    }
+}

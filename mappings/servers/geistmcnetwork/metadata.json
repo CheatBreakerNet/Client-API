@@ -1,0 +1,32 @@
+{
+    "id": "geistmcnetwork",
+    "name": "GeistMC Network",
+    "addresses": [
+        "geistmc.cc",
+        "wihar.cyou"
+    ],
+    "primaryAddress": "geistmc.cc",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FF00FF",
+    "secondaryColor": "#8B008B",
+    "primaryLanguage": "en",
+    "languages": [
+        "zh-CN",
+        "en",
+        "ja"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS",
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Parkour"
+    ]
+}

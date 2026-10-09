@@ -1,0 +1,22 @@
+{
+    "id": "mytheriamc",
+    "name": "MytheriaMC",
+    "addresses": [
+        "mytheriamc.net"
+    ],
+    "primaryAddress": "play.mytheriamc.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FF55FF",
+    "secondaryColor": "#AA00AA",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "SkyBlock"
+    ],
+    "store": "https://mytheriamc.net"
+}

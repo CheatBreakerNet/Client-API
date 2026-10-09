@@ -1,0 +1,30 @@
+{
+    "id": "maghrebsmp",
+    "name": "MaghrebSMP",
+    "description": "Play SMP, Minigames, PvP, and more on MaghrebSMP.",
+    "addresses": [
+        "maghrebsmp.fun",
+        "hax.ma"
+    ],
+    "primaryAddress": "maghrebsmp.fun",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#50c878",
+    "secondaryColor": "#ffffff",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "website": "https://maghrebsmp.fun/",
+    "store": "https://store.maghrebsmp.fun",
+    "socials": {
+        "discord": "https://discord.gg/msmp"
+    }
+}

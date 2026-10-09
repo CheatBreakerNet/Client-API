@@ -1,0 +1,29 @@
+{
+    "id": "arcuno",
+    "name": "Arcuno",
+    "description": "Test your combat skills on Arcuno.",
+    "addresses": [
+        "arcuno.net"
+    ],
+    "primaryAddress": "arcuno.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#7abfe8",
+    "secondaryColor": "#000000",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA",
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://arcuno.net/",
+    "socials": {
+        "discord": "https://discord.gg/JFpbjZpRQf"
+    }
+}

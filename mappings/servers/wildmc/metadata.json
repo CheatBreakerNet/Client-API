@@ -1,0 +1,32 @@
+{
+    "id": "wildmc",
+    "name": "WildMc",
+    "description": "WildMc is a server born to continue to improve.",
+    "addresses": [
+        "wildmc.live"
+    ],
+    "primaryAddress": "wildmc.live",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00FE38",
+    "secondaryColor": "#F7F8F7",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "website": "https://wildmc.live",
+    "store": "https://wildmc.live/store",
+    "socials": {
+        "discord": "https://discord.gg/swrdZPUxDU"
+    }
+}

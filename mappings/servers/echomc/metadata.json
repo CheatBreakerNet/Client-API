@@ -3,7 +3,8 @@
     "name": "EchoMC",
     "description": "The best KitPVP server in Italy",
     "addresses": [
-        "echomc.it"
+        "echomc.it",
+        "prolandmc.com"
     ],
     "primaryAddress": "play.echomc.it",
     "minecraftVersions": [
@@ -28,6 +29,9 @@
     "website": "https://www.echomc.it/",
     "store": "https://store.echomc.it/",
     "socials": {
-        "discord": "https://discord.echomc.it"
+        "discord": "https://discord.echomc.it",
+        "instagram": "echomc.it",
+        "telegram": "echomc",
+        "tiktok": "@echomc.it"
     }
 }

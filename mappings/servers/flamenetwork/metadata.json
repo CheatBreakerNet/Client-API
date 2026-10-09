@@ -1,0 +1,29 @@
+{
+    "id": "flamenetwork",
+    "name": "Flame Network",
+    "description": "Play PvP, Survival, and more on Flame Network.",
+    "addresses": [
+        "flamenetwork.ir"
+    ],
+    "primaryAddress": "mc.flamenetwork.ir",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fb9409",
+    "secondaryColor": "#463f3a",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "SkyBlock"
+    ],
+    "website": "https://flamenetwork.ir/",
+    "socials": {
+        "discord": "https://discord.gg/fRk56VzCRM",
+        "telegram": "flamenetwork_0"
+    }
+}

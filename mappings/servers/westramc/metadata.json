@@ -1,0 +1,33 @@
+{
+    "id": "westramc",
+    "name": "WestraMC",
+    "description": "WestraMC its a Faction Server",
+    "addresses": [
+        "westramc.fr"
+    ],
+    "primaryAddress": "play.westramc.fr",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff7e07",
+    "secondaryColor": "#f4ca16",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Factions"
+    ],
+    "website": "https://westramc.fr/",
+    "store": "https://westramc.fr/shop/categories/faction",
+    "socials": {
+        "discord": "https://discord.gg/westramc"
+    }
+}

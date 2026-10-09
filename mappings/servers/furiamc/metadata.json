@@ -1,0 +1,29 @@
+{
+    "id": "furiamc",
+    "name": "FuriaMC Network",
+    "description": "Play Survival, PvP, and more on FuriaMC Network.",
+    "addresses": [
+        "furiamc.net"
+    ],
+    "primaryAddress": "furiamc.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fe1717",
+    "secondaryColor": "#000000",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "PvE"
+    ],
+    "store": "https://furiamc.tip4serv.com/",
+    "socials": {
+        "discord": "https://discord.gg/zhC3JatK8b",
+        "youtube": "FuriaMC"
+    }
+}

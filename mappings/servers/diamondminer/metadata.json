@@ -1,0 +1,28 @@
+{
+    "id": "diamondminer",
+    "name": "DiamondMiner",
+    "description": "Play PvP and Survival on DiamondMiner.",
+    "addresses": [
+        "diamondminer.vip"
+    ],
+    "primaryAddress": "diamondminer.vip",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#32a852",
+    "secondaryColor": "#a3d9a5",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA",
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/wrmSmPcSDz"
+    }
+}

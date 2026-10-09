@@ -1,0 +1,37 @@
+{
+    "id": "battleadventure",
+    "name": "Battle Adventure",
+    "description": "Farm2Win Faction PvP server on the theme of Wakfu!",
+    "addresses": [
+        "battle-adventure.eu",
+        "eliacube.eu"
+    ],
+    "primaryAddress": "play.battle-adventure.eu",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#028acc",
+    "secondaryColor": "#449d44",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Factions",
+        "Minigames"
+    ],
+    "website": "https://www.battle-adventure.eu/",
+    "store": "https://store.battle-adventure.eu/",
+    "socials": {
+        "discord": "https://discord.com/invite/7TcBMcU",
+        "youtube": "battleadventure4053",
+        "instagram": "battleadventure_mc",
+        "tiktok": "@battleadventure_mc"
+    }
+}

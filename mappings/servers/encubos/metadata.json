@@ -1,0 +1,27 @@
+{
+    "id": "encubos",
+    "name": "ENCUBOS",
+    "description": "ENCUBOS | The new era of MC!",
+    "addresses": [
+        "encubos.eu"
+    ],
+    "primaryAddress": "mc.encubos.eu",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#5CBBFC",
+    "secondaryColor": "#C6DEF1",
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "PvE"
+    ],
+    "store": "https://store.encubos.eu",
+    "socials": {
+        "twitter": "encubosnt",
+        "discord": "https://discord.gg/jJ6h7cZ3pF",
+        "youtube": "https://www.youtube.com/@encubosnt"
+    },
+    "website": "https://encubos.eu"
+}

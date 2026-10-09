@@ -35,5 +35,8 @@
     "Minigames"
   ],
   "website": "https://www.hellcore.net",
-  "store": "https://store.hellcore.net"
+  "store": "https://store.hellcore.net",
+  "socials": {
+    "discord": "https://discord.gg/z4Yc7EMr4e"
+  }
 }

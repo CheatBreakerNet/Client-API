@@ -1,0 +1,35 @@
+{
+    "id": "pvpninja",
+    "name": "PvP Ninja",
+    "addresses": [
+        "pvp.ninja"
+    ],
+    "primaryAddress": "pvp.ninja",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#000000",
+    "primaryRegion": "AS",
+    "regions": [
+        "NA",
+        "AS",
+        "EU",
+        "SA",
+        "OC",
+        "AF"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC"
+    ],
+    "website": "http://pvp.ninja",
+    "socials": {
+        "discord": "https://discord.gg/pvpninja",
+        "twitter": "PvPNinjaNetwork",
+        "youtube": "@PvPNinjaNetwork",
+        "instagram": "pvpninjanetwork"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "id": "mineplex",
+    "name": "Mineplex",
+    "addresses": [
+        "mineplex.com",
+        "critz.gg"
+    ],
+    "primaryAddress": "mineplex.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f38910",
+    "secondaryColor": "#38b1dc",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "website": "http://mineplex.com/",
+    "store": "https://mineplex.com/store",
+    "socials": {
+        "twitter": "mineplex",
+        "discord": "https://discord.com/invite/mineplex",
+        "youtube": "MineplexGamesOfficial",
+        "instagram": "mineplexofficial",
+        "tiktok": "@playmineplex"
+    }
+}

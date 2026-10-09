@@ -1,0 +1,35 @@
+{
+    "id": "skylymc",
+    "name": "Skyly",
+    "description": "Large French FFA Game server",
+    "addresses": [
+        "skyly.fr"
+    ],
+    "primaryAddress": "skyly.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fdd24d",
+    "secondaryColor": "#fffeff",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr",
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://skyly.fr/",
+    "socials": {
+        "twitter": "skylymc",
+        "discord": "https://discord.gg/uTRDp4ZyZ9",
+        "youtube": "skylymc",
+        "instagram": "skylymc",
+        "tiktok": "@skylymc"
+    }
+}

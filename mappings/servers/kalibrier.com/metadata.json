@@ -1,0 +1,22 @@
+{
+    "id": "kalibrier.com",
+    "name": "kalibrier.com",
+    "description": "Test your combat skills on kalibrier.com.",
+    "addresses": [
+        "kalibrier.com"
+    ],
+    "primaryAddress": "kalibrier.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffaa00",
+    "secondaryColor": "#ffaa00",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ]
+}

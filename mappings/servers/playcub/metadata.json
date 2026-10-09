@@ -1,0 +1,40 @@
+{
+    "id": "playcub",
+    "name": "PlayCub",
+    "description": "Join PlayCub on Lunar Client!",
+    "addresses": [
+        "playcub.net"
+    ],
+    "primaryAddress": "mc.playcub.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#65e0dd",
+    "secondaryColor": "#319401",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Factions",
+        "Survival"
+    ],
+    "website": "https://playcub.net",
+    "store": "https://tienda.playcub.net",
+    "socials": {
+        "discord": "https://discord.gg/XSJ32wfsc5",
+        "twitter": "PlayCubNetwork",
+        "youtube": "@PlayCubNetwork",
+        "instagram": "playcubnetwork",
+        "twitch": "playcubnetwork",
+        "tiktok": "@playcubnetwork"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": "gameup",
+    "name": "GameUP",
+    "description": "Play PvP, Survival, and more on GameUP.",
+    "addresses": [
+        "gameup.ir",
+        "voidpixel.ir"
+    ],
+    "primaryAddress": "mc.gameup.ir",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e0152d",
+    "secondaryColor": "#ff5d52",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Roleplay"
+    ],
+    "website": "https://mc.gameup.ir/",
+    "socials": {
+        "discord": "https://discord.gg/hfDwaVkPkH",
+        "twitter": "GameUP_ir",
+        "telegram": "GameUPir",
+        "instagram": "GameUPir"
+    }
+}

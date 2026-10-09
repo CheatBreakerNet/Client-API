@@ -1,0 +1,28 @@
+{
+    "id": "planetpvp",
+    "name": "PlanetPvP",
+    "addresses": [
+        "planetpvp.fr"
+    ],
+    "primaryAddress": "play.planetpvp.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e5b543",
+    "secondaryColor": "#372826",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Factions"
+    ],
+    "website": "https://planetpvp.fr/",
+    "store": "https://boutique.planetpvp.fr/",
+    "socials": {
+        "discord": "https://discord.com/invite/3RBK7sr8Gw",
+        "youtube": "UCvwVubglX67GOADdGHVbVJQ"
+    }
+}

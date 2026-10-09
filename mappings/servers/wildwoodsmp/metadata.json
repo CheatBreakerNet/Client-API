@@ -1,0 +1,30 @@
+{
+    "id": "wildwoodsmp",
+    "name": "WildWood SMP",
+    "description": "The Best One-Stop SMP Network!",
+    "addresses": [
+        "wildwoodsmp.com"
+    ],
+    "primaryAddress": "play.wildwoodsmp.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#97ce46",
+    "secondaryColor": "#bdcbd4",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "store": "https://store.wildwoodsmp.com/",
+    "socials": {
+        "discord": "https://discord.com/invite/wildwoodsmp"
+    }
+}

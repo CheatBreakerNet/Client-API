@@ -1,0 +1,29 @@
+{
+    "id": "voltyum",
+    "name": "Voltyum Network",
+    "description": "Play Survival and Skyblock on Voltyum Network.",
+    "addresses": [
+        "voltyum.net"
+    ],
+    "primaryAddress": "mc.voltyum.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e4cc33",
+    "secondaryColor": "#2b1301",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "SkyBlock"
+    ],
+    "website": "https://voltyum.net/",
+    "store": "https://tienda.voltyum.net/",
+    "socials": {
+        "twitter": "voltyum",
+        "discord": "https://discord.com/invite/U3EwyX6Fmr"
+    }
+}

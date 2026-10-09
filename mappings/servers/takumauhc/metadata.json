@@ -1,0 +1,36 @@
+{
+    "id": "takumauhc",
+    "name": "TakumaUHC",
+    "addresses": [
+        "takumauhc.fr"
+    ],
+    "primaryAddress": "takumauhc.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#55aaff",
+    "secondaryColor": "#004991",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "UHC",
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://takumauhc.fr/",
+    "store": "https://store.takumauhc.fr/",
+    "socials": {
+        "instagram": "takumauhc",
+        "tiktok": "@takumauhc",
+        "twitter": "takumauhcfr",
+        "youtube": "takumauhc",
+        "discord": "https://discord.gg/twvvpC94aP"
+    }
+}

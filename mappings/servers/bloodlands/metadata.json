@@ -1,0 +1,24 @@
+{
+    "id": "bloodlands",
+    "name": "BloodLands",
+    "description": "Upcoming HCF Server",
+    "addresses": [
+        "bloodlands.org"
+    ],
+    "primaryAddress": "play.bloodlands.org",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#8B0000",
+    "secondaryColor": "#ffffff",
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "website": "https://bloodlands.org/",
+    "store": "https://store.bloodlands.org/",
+    "socials": {
+        "discord": "https://discord.com/invite/t7jZZvmEY8"
+    }
+}

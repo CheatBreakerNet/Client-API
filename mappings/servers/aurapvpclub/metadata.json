@@ -1,0 +1,27 @@
+{
+    "id": "aurapvpclub",
+    "name": "AuraPvP",
+    "description": "Test your combat skills on AuraPvP.",
+    "addresses": [
+        "aurapvp.club"
+    ],
+    "primaryAddress": "aurapvp.club",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00FFFF",
+    "secondaryColor": "#FFFFFF",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "store": "https://store.aurapvp.club",
+    "socials": {
+        "discord": "https://discord.gg/aurapvpnetwork"
+    }
+}

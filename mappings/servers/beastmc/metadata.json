@@ -1,0 +1,25 @@
+{
+    "id": "beastmc",
+    "name": "BeastMC Network",
+    "description": "Test your combat skills on BeastMC Network.",
+    "addresses": [
+        "beastmc.xyz"
+    ],
+    "primaryAddress": "beastmc.xyz",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FF0000",
+    "secondaryColor": "#FF6B6B",
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://beastmc.xyz",
+    "store": "https://tienda.beastmc.xyz",
+    "socials": {
+        "twitter": "BeastMCNW",
+        "discord": "https://discord.gg/yA2FdZuAQj"
+    }
+}

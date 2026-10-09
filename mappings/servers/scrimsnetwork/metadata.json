@@ -1,0 +1,32 @@
+{
+    "id": "scrimsnetwork",
+    "name": "Scrims Network",
+    "description": "Competitive Bridge",
+    "addresses": [
+        "scrims.network",
+        "bridgescrims.net"
+    ],
+    "primaryAddress": "na.scrims.network",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00aaaa",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "store": "http://store.scrims.network/",
+    "socials": {
+        "discord": "https://discord.com/invite/PvXZVFqnAh"
+    }
+}

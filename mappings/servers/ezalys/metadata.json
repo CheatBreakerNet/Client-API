@@ -1,0 +1,30 @@
+{
+    "id": "ezalys",
+    "name": "Ezalys UHC",
+    "addresses": [
+        "ezalys.fr"
+    ],
+    "primaryAddress": "mc.ezalys.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#241d3e",
+    "secondaryColor": "#ee648e",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC"
+    ],
+    "store": "https://boutique.ezalys.fr",
+    "socials": {
+        "discord": "https://discord.com/invite/hQk6eHUKw3"
+    }
+}

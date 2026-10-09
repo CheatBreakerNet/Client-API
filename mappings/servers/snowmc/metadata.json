@@ -1,0 +1,35 @@
+{
+    "id": "snowmc",
+    "name": "SnowMC",
+    "description": "The best SA Practice server!",
+    "addresses": [
+        "snowmc.com.br"
+    ],
+    "primaryAddress": "jogar.snowmc.com.br",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#20b8e0",
+    "secondaryColor": "#274e72",
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "store": "https://loja.snowmc.com.br",
+    "socials": {
+        "twitter": "snowmc_2025",
+        "discord": "https://discord.com/invite/REt88E5tpN",
+        "youtube": "snowmcofc",
+        "instagram": "snowmcoficial",
+        "tiktok": "@snowmc_oficial"
+    }
+}

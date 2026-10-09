@@ -1,0 +1,27 @@
+{
+    "id": "speedmc",
+    "name": "SpeedMC Network",
+    "description": "Play Survival and Prison on SpeedMC Network.",
+    "addresses": [
+        "mc-speed.com"
+    ],
+    "primaryAddress": "play.mc-speed.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffbd00",
+    "secondaryColor": "#565656",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Prison"
+    ],
+    "store": "https://store.mc-speed.com/",
+    "socials": {
+        "discord": "https://discord.com/invite/speedmc"
+    }
+}

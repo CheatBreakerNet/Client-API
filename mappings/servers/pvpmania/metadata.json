@@ -1,0 +1,31 @@
+{
+    "id": "pvpmania",
+    "name": "PvPMania.eu",
+    "description": "PvPMania.eu CZ/SK #1 1.8 PVP SERVER",
+    "addresses": [
+        "pvpmania.eu"
+    ],
+    "primaryAddress": "mc.pvpmania.eu",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff173d",
+    "secondaryColor": "#ffffff",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://pvpmania.eu/",
+    "store": "https://pvpmania.eu/store",
+    "socials": {
+        "instagram": "pvpmaniaeu",
+        "tiktok": "@pvpmania",
+        "discord": "https://discord.com/invite/gmy6GvX",
+        "youtube": "@pvpmania"
+    }
+}

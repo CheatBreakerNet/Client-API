@@ -1,0 +1,28 @@
+{
+    "id": "bedlessmc",
+    "name": "BedlessMC Network",
+    "description": "Play PvP, Skyblock, and more on BedlessMC Network.",
+    "addresses": [
+        "bedlessmc.com"
+    ],
+    "primaryAddress": "mc.bedlessmc.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FF55FF",
+    "secondaryColor": "#AA00AA",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "SkyBlock",
+        "Minigames"
+    ],
+    "store": "https://bedlessmc.com/store",
+    "socials": {
+        "discord": "https://discord.com/invite/dssSUZQ7Ee"
+    }
+}

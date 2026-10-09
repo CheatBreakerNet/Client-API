@@ -1,0 +1,30 @@
+{
+    "id": "outoftimesmp",
+    "name": "Out of Time SMP",
+    "description": "Where every second counts. Literally.",
+    "addresses": [
+        "outoftime.fun"
+    ],
+    "primaryAddress": "play.outoftime.fun",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#805020",
+    "secondaryColor": "#df34fb",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "website": "https://outoftime.fun/",
+    "socials": {
+        "discord": "https://discord.gg/SR6ExzeYrh"
+    }
+}

@@ -27,6 +27,7 @@
     ],
     "socials": {
         "twitter": "vanicfeed",
-        "discord:": "https://discord.gg/vanicmc"
-    }
+        "discord": "https://discord.gg/vanicmc"
+    },
+    "store": "https://store.vanic.gg/"
 }

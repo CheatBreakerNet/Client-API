@@ -1,0 +1,32 @@
+{
+    "id": "forestmc",
+    "name": "ForestMC",
+    "description": "Minecraft's best mining experience.",
+    "addresses": [
+        "forestmc.us"
+    ],
+    "primaryAddress": "forestmc.us",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#64A758",
+    "secondaryColor": "#EBE5CD",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Prison",
+        "Survival"
+    ],
+    "store": "https://forest-mc.tebex.io/",
+    "socials": {
+        "discord": "https://discord.gg/72DtPgAq"
+    }
+}

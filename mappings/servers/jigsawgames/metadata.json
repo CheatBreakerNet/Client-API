@@ -1,0 +1,26 @@
+{
+    "id": "jigsawgames",
+    "name": "JigsawGames Network",
+    "description": "Test your combat skills on JigsawGames Network.",
+    "addresses": [
+        "jigsawgames.ir"
+    ],
+    "primaryAddress": "play.jigsawgames.ir",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fb6000",
+    "secondaryColor": "#FBC100",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://jigsawgames.ir/",
+    "socials": {
+        "discord": "https://discord.gg/w3urzc5Gnx"
+    }
+}

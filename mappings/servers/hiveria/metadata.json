@@ -1,0 +1,28 @@
+{
+    "id": "hiveria",
+    "name": "hiveria",
+    "description": "Play Factions and PvP on hiveria.",
+    "addresses": [
+        "hiveria.fr"
+    ],
+    "primaryAddress": "play.hiveria.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#43c9d1",
+    "secondaryColor": "#61e3ce",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "website": "https://hiveria.fr/",
+    "store": "https://hiveria.fr/shop",
+    "socials": {
+        "discord": "https://discord.gg/hsfEvs5T5r"
+    }
+}

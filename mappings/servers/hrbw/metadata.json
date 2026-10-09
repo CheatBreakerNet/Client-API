@@ -1,0 +1,31 @@
+{
+    "id": "hrbw",
+    "name": "HellCoreRBW",
+    "description": "An Indian competitive PvP and minigames.",
+    "addresses": [
+        "bloodmc.net"
+    ],
+    "primaryAddress": "play.bloodmc.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#1a1a1a",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://bloodmc.net/",
+    "socials": {
+        "discord": "https://discord.gg/hrbw"
+    }
+}

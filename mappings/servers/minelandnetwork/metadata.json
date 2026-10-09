@@ -4,7 +4,10 @@
     "description": "The real excitement starts here",
     "primaryAddress": "mc.mineland.net",
     "addresses": [
-        "mineland.net"
+        "mineland.net",
+        "batyacraft-join.online",
+        "mineland.pro",
+        "add-ml.online"
     ],
     "minecraftVersions": [
         "1.8.*",
@@ -42,6 +45,9 @@
         "tiktok": "https://www.tiktok.com/@minelandnetwork",
         "instagram": "https://www.instagram.com/minelandnetwork",
         "discord": "https://discord.gg/mineland",
-        "youtube": "https://www.youtube.com/@mineland_network"
-    }
+        "youtube": "https://www.youtube.com/@mineland_network",
+        "twitter": "MinelandMV",
+        "reddit": "Mineland_MetaVerse"
+    },
+    "store": "https://mineland.net/index.php/store"
 }

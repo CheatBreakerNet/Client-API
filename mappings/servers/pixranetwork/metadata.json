@@ -1,0 +1,30 @@
+{
+    "id": "pixranetwork",
+    "name": "PixraNetwork",
+    "description": "Play PvP and Minigames on PixraNetwork.",
+    "addresses": [
+        "pixranetwork.asia"
+    ],
+    "primaryAddress": "pixranetwork.asia",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#519913",
+    "secondaryColor": "#abe024",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://www.pixranetwork.asia/",
+    "store": "https://store.pixranetwork.asia/",
+    "socials": {
+        "tiktok": "@pixranetwork.asia",
+        "discord": "https://discord.gg/cxZuaSz8Sq",
+        "instagram": "pixranetwork.asia"
+    }
+}

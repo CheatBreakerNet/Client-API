@@ -1,0 +1,32 @@
+{
+    "id": "minebox",
+    "name": "MineBox Network",
+    "description": "Play Minigames, PvP, and more on MineBox Network.",
+    "addresses": [
+        "minebox.es",
+        "minelc.com"
+    ],
+    "primaryAddress": "mc.minebox.es",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#15bdd5",
+    "secondaryColor": "#c4e5e5",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "website": "https://minebox.es/",
+    "store": "https://tienda.minebox.es/",
+    "socials": {
+        "twitter": "MineBoxNetwork",
+        "discord": "https://discord.com/invite/minebox",
+        "instagram": "MineBoxNT"
+    }
+}

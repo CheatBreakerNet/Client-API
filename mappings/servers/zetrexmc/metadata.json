@@ -1,0 +1,30 @@
+{
+    "id": "zetrexmc",
+    "name": "ZetrexMC",
+    "description": "Play PvP and Survival on ZetrexMC.",
+    "addresses": [
+        "zetrex.net"
+    ],
+    "primaryAddress": "zetrex.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#32a852",
+    "secondaryColor": "#a3d9a5",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "website": "https://zetrex.net/",
+    "store": "https://store.zetrex.net/",
+    "socials": {
+        "discord": "https://discord.com/invite/zetrexmc"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "redesaint",
+    "name": "Rede Saint",
+    "addresses": [
+        "redesaint.com"
+    ],
+    "primaryAddress": "redesaint.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffe60e",
+    "secondaryColor": "#4afeff",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "SkyBlock",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/redesaint",
+        "tiktok": "@redesaintoficial",
+        "youtube": "UCEH_3rFrll6GP7SItzPZ-wg",
+        "instagram": "serversaint",
+        "facebook": "redesaint",
+        "reddit": "RedeSaint",
+        "twitter": "RedeSaint"
+    }
+}

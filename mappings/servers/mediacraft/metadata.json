@@ -1,0 +1,28 @@
+{
+    "id": "mediacraft",
+    "name": "MediaCraft Network",
+    "description": "Play PvP and Survival on MediaCraft Network.",
+    "addresses": [
+        "mediacraft.es",
+        "mediacraft.live"
+    ],
+    "primaryAddress": "mediacraft.es",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#9B41F5",
+    "secondaryColor": "#7618C6",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "store": "https://store.mediacraft.es",
+    "socials": {
+        "discord": "https://discord.gg/9XadvxYQgm"
+    }
+}

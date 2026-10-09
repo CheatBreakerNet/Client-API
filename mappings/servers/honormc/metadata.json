@@ -1,0 +1,28 @@
+{
+    "id": "honormc",
+    "name": "HonorMC",
+    "description": "Play Factions and PvP on HonorMC.",
+    "addresses": [
+        "honormc.fr"
+    ],
+    "primaryAddress": "play.honormc.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#0c60c6",
+    "secondaryColor": "#4cecff",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "website": "https://honormc.fr/",
+    "store": "https://boutique.honormc.fr",
+    "socials": {
+        "discord": "https://discord.com/invite/NGAAfkXA"
+    }
+}

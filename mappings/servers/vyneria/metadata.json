@@ -1,0 +1,28 @@
+{
+    "id": "vyneria",
+    "name": "Vyneria",
+    "description": "Play Factions and PvP on Vyneria.",
+    "addresses": [
+        "vyneria.fr"
+    ],
+    "primaryAddress": "play.vyneria.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#006400",
+    "secondaryColor": "#90ee90",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "website": "https://vyneria.fr/",
+    "store": "https://vyneria.fr/shop",
+    "socials": {
+        "discord": "https://discord.gg/RBKJdhvKjk"
+    }
+}

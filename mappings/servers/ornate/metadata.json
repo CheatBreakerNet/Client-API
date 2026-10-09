@@ -1,0 +1,28 @@
+{
+    "id": "ornate",
+    "name": "Ornate",
+    "description": "Play Minigames and PvP on Ornate.",
+    "addresses": [
+        "ornate.fr"
+    ],
+    "primaryAddress": "play.ornate.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#0ba644",
+    "secondaryColor": "#9d7b4e",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "store": "https://store.ornate.fr/",
+    "socials": {
+        "twitter": "PlayOrnate",
+        "discord": "https://discord.com/invite/ornate"
+    }
+}

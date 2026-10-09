@@ -1,0 +1,31 @@
+{
+    "id": "redepro",
+    "name": "RedePro",
+    "description": "Test your combat skills on RedePro.",
+    "addresses": [
+        "redepro.xyz"
+    ],
+    "primaryAddress": "jogar.redepro.xyz",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#140BFC",
+    "secondaryColor": "#FBFAFA",
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://loja.redepro.xyz/",
+    "socials": {
+        "discord": "https://discord.com/invite/HcK24BHYEx"
+    }
+}

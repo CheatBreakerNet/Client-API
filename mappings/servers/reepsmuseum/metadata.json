@@ -1,0 +1,23 @@
+{
+    "id": "reepsmuseum",
+    "name": "Reep's Museum",
+    "addresses": [
+        "reep.no"
+    ],
+    "primaryAddress": "reep.no",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFDD88",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "no"
+    ],
+    "gameTypes": [
+        "PvP"
+    ]
+}

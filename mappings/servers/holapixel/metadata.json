@@ -1,0 +1,35 @@
+{
+    "id": "holapixel",
+    "name": "HolaPixel",
+    "description": "Play Minecraft minigames for free and have fun!",
+    "addresses": [
+        "holapixel.ir"
+    ],
+    "primaryAddress": "mc.holapixel.ir",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#1E90FF",
+    "secondaryColor": "#9378ff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "SkyBlock"
+    ],
+    "website": "https://www.holapixel.ir",
+    "store": "https://store.holapixel.ir",
+    "socials": {
+        "discord": "https://discord.gg/r9ucPHyv4P",
+        "youtube": "HolaPixel-IR",
+        "instagram": "HolaPixelOfficial"
+    }
+}

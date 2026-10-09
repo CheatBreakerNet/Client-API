@@ -1,0 +1,39 @@
+{
+    "id": "historiamc",
+    "name": "HistoriaMC",
+    "description": "An innovative french minigames Minecraft server.",
+    "addresses": [
+        "historiamc.fr"
+    ],
+    "primaryAddress": "play.historiamc.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e9bb12",
+    "secondaryColor": "#ec7731",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://historiamc.fr",
+    "store": "https://www.historiamc.fr/store",
+    "socials": {
+        "discord": "https://discord.gg/M6FHh3GtHk",
+        "youtube": "HistoriaMC_",
+        "tiktok": "@historiamc_",
+        "twitter": "historiamc_"
+    }
+}

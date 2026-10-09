@@ -1,0 +1,33 @@
+{
+    "id": "primeblocks",
+    "name": "PrimeBlocks",
+    "addresses": [
+        "besterserverderwelt.net",
+        "besterserverderwelt.de"
+    ],
+    "primaryAddress": "primeblocks.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#F6BA2E",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Creative"
+    ],
+    "store": "https://store.primeblocks.net",
+    "socials": {
+        "discord": "https://discord.gg/primeblocks",
+        "instagram": "primeblocksnet",
+        "youtube": "https://www.youtube.com/@primeblocks_net"
+    }
+}

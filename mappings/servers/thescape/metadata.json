@@ -1,0 +1,31 @@
+{
+    "id": "thescape",
+    "name": "TheScape.de",
+    "addresses": [
+        "thescape.de"
+    ],
+    "primaryAddress": "thescape.de",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#008FE8",
+    "secondaryColor": "#0A56A5",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://thescape.de",
+    "socials": {
+        "tiktok": "thescapemc",
+        "discord": "https://discord.com/invite/2zjPvq2Bvy"
+    }
+}

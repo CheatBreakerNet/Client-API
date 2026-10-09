@@ -1,0 +1,33 @@
+{
+    "id": "hexaterra",
+    "name": "Hexaterra Network",
+    "addresses": [
+        "hexaterra.net"
+    ],
+    "primaryAddress": "mc.hexaterra.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#113FB8",
+    "secondaryColor": "#5C0069",
+    "primaryRegion": "SA",
+    "regions": [
+        "NA",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "SkyBlock",
+        "PvP"
+    ],
+    "store": "https://hexaterra.tebex.io/",
+    "socials": {
+        "twitter": "Hexaterra",
+        "discord": "https://discord.gg/r3VMhGbzT4",
+        "youtube": "UC1234567890abcdef",
+        "instagram": "Hexaterra",
+        "tiktok": "@Hexaterra",
+        "facebook": "Hexaterra"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "ethicbuilds",
+    "name": "EthicBuilds.de",
+    "addresses": [
+        "ethicbuilds.de"
+    ],
+    "primaryAddress": "ethicbuilds.de",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#12C5CB",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://www.ethicbuilds.de",
+    "socials": {
+        "discord": "https://discord.gg/qDbJ8dMx45"
+    }
+}

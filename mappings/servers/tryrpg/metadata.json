@@ -1,0 +1,31 @@
+{
+    "id": "tryrpg",
+    "name": "TryRPG",
+    "description": "Polish MMORPG Server with open world",
+    "addresses": [
+        "tryrpg.pl"
+    ],
+    "primaryAddress": "tryrpg.pl",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffc9ee",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Roleplay",
+        "PvE"
+    ],
+    "store": "https://tryrpg.pl/",
+    "socials": {
+        "discord": "https://discord.gg/yWrmxkAf5Z"
+    }
+}

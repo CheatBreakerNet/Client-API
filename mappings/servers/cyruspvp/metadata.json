@@ -1,0 +1,24 @@
+{
+    "id": "cyruspvp",
+    "name": "CyrusPvP Network",
+    "description": "Network dedicated to competitive PvP gamemodes!",
+    "addresses": [
+        "cyruspvp.net"
+    ],
+    "primaryAddress": "cyruspvp.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#d958ed",
+    "secondaryColor": "#ffffff",
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "store": "https://store.cyruspvp.net/",
+    "socials": {
+        "twitter": "CyrusPvPnet",
+        "discord": "https://discord.com/invite/4E3dvpftJa"
+    }
+}

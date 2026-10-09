@@ -1,0 +1,37 @@
+{
+    "id": "voided",
+    "name": "Voided Network",
+    "description": "Australian PvP & Minigames Network",
+    "addresses": [
+        "voided.gg"
+    ],
+    "primaryAddress": "voided.gg",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#7414D7",
+    "secondaryColor": "#4307AB",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "OC",
+    "regions": [
+        "OC",
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Parkour"
+    ],
+    "website": "https://voided.gg",
+    "store": "https://voided.store",
+    "socials": {
+        "twitter": "voided_gg",
+        "discord": "https://discord.com/invite/f6k7mnzxXK",
+        "youtube": "VoidedNetwork",
+        "tiktok": "@voidednetwork"
+    }
+}

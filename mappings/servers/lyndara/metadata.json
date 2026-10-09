@@ -1,0 +1,33 @@
+{
+    "id": "lyndara",
+    "name": "Lyndara",
+    "addresses": [
+        "lyndara.net"
+    ],
+    "primaryAddress": "lyndara.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#5adaa0",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "de",
+    "languages": [
+        "de",
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Creative"
+    ],
+    "website": "https://lyndara.net",
+    "socials": {
+        "discord": "https://discord.gg/lyndara",
+        "tiktok": "lyndaranet",
+        "youtube": "https://www.youtube.com/@lyndaranet"
+    }
+}

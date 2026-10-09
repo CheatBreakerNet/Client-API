@@ -1,0 +1,33 @@
+{
+    "id": "redestory",
+    "name": "Rede Story",
+    "description": "Play Survival, Skyblock, and more on Rede Story.",
+    "addresses": [
+        "redestory.com"
+    ],
+    "primaryAddress": "redestory.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e66f11",
+    "secondaryColor": "#efb315",
+    "primaryLanguage": "pt-PT",
+    "languages": [
+        "pt-PT"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "SkyBlock",
+        "Minigames"
+    ],
+    "store": "https://loja.redestory.com/",
+    "socials": {
+        "discord": "https://discord.com/invite/redestory",
+        "tiktok": "@redestory"
+    }
+}

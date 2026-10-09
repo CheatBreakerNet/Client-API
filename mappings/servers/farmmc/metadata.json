@@ -1,0 +1,33 @@
+{
+    "id": "farmmc",
+    "name": "FarmMC",
+    "addresses": [
+        "farmmc.de"
+    ],
+    "primaryAddress": "farmmc.de",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#9833FF",
+    "secondaryColor": "#2B1160",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Creative",
+        "Prison"
+    ],
+    "website": "https://farmmc.de",
+    "store": "https://shop.farmmc.de",
+    "socials": {
+        "discord": "https://discord.gg/farmmc",
+        "youtube": "https://www.youtube.com/@farmmc_de",
+        "tiktok": "farmmc_de"
+    }
+}

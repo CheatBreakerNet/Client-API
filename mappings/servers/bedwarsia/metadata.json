@@ -1,0 +1,35 @@
+{
+    "id": "bedwarsia",
+    "name": "Bedwarsia",
+    "description": "A Minecraft Bedwars server, for European players.",
+    "addresses": [
+        "bedwarsia.eu"
+    ],
+    "primaryAddress": "play.bedwarsia.eu",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#F7BB3B",
+    "secondaryColor": "#492012",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://bedwarsia.eu/",
+    "store": "https://store.bedwarsia.eu",
+    "socials": {
+        "twitter": "Bedwarsia",
+        "discord": "https://discord.gg/ChrwjUvWVN",
+        "youtube": "Bedwarsia"
+    }
+}

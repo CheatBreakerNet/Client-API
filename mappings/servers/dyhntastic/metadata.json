@@ -1,0 +1,44 @@
+{
+    "id": "dyhntastic",
+    "name": "Dyhntastic.net",
+    "addresses": [
+        "dyhntastic.net",
+        "dyhntastic.com",
+        "dyhntastic.de",
+        "dyhntastic.eu",
+        "dyhntastic.org",
+        "dyhntastic.us",
+        "dyhntastic.uk",
+        "dyhntastic.at",
+        "dyhntastic.ch"
+    ],
+    "primaryAddress": "dyhntastic.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#670647",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "de",
+    "languages": [
+        "de",
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Creative",
+        "Survival",
+        "PvP"
+    ],
+    "website": "https://dyhntastic.net",
+    "socials": {
+        "twitter": "Dyhntastic",
+        "tiktok": "Dyhntastic",
+        "instagram": "dyhntastic",
+        "discord": "https://discord.com/invite/xaN9DV9jAm"
+    }
+}

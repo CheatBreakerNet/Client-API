@@ -1,0 +1,31 @@
+{
+    "id": "leftypvp",
+    "name": "LeftyPvP",
+    "addresses": [
+        "leftypvp.net"
+    ],
+    "primaryAddress": "leftypvp.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFFF00",
+    "secondaryColor": "#FFA500",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "SkyBlock",
+        "PvP",
+        "Parkour"
+    ],
+    "store": "https://store.leftypvp.net",
+    "socials": {
+        "discord": "https://discord.gg/leftypvp-tm-559660275184304129"
+    }
+}

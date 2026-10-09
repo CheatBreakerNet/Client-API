@@ -1,0 +1,29 @@
+{
+    "id": "unicmc",
+    "name": "UnicMC",
+    "description": "Play UHC and Prison on UnicMC.",
+    "addresses": [
+        "unicmc.net"
+    ],
+    "primaryAddress": "unicmc.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#0a8aee",
+    "secondaryColor": "#799557",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "UHC",
+        "Prison"
+    ],
+    "website": "https://unicmc.net/",
+    "store": "https://butik.unicmc.net/",
+    "socials": {
+        "discord": "https://discord.com/invite/UETmqhccq7",
+        "tiktok": "@unicmc.net"
+    }
+}

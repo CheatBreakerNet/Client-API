@@ -1,0 +1,32 @@
+{
+    "id": "darkup",
+    "name": "Darkup",
+    "description": "Join 360,000+ players on Darkup.cz!",
+    "addresses": [
+        "darkup.cz"
+    ],
+    "primaryAddress": "mc.darkup.cz",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00c6ff",
+    "secondaryColor": "#007cff",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://darkup.cz/",
+    "store": "https://darkup.cz/obchod",
+    "socials": {
+        "discord": "https://discord.com/invite/UjDGaTm7yp",
+        "instagram": "darkup.cz",
+        "tiktok": "@darkup.cz",
+        "facebook": "darkup.cz"
+    }
+}

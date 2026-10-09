@@ -1,0 +1,36 @@
+{
+    "id": "nautilusmc",
+    "name": "NautilusMC",
+    "addresses": [
+        "nautilusmc.it"
+    ],
+    "primaryAddress": "play.nautilusmc.it",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFB741",
+    "secondaryColor": "#FFDC41",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA",
+        "SA"
+    ],
+    "gameTypes": [
+        "Creative",
+        "Minigames",
+        "Survival"
+    ],
+    "website": "https://nautilus.tebex.io/",
+    "store": "https://nautilus.tebex.io/",
+    "socials": {
+        "discord": "https://discord.gg/g9K4ZwGrBX",
+        "tiktok": "@play.nautilusmc.it",
+        "instagram": "play.nautilusmc.it"
+    }
+}

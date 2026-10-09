@@ -1,0 +1,32 @@
+{
+    "id": "skysurge",
+    "name": "SkySurge",
+    "description": "Play Survival, Factions, and more on SkySurge.",
+    "addresses": [
+        "skysurge.us"
+    ],
+    "primaryAddress": "play.skysurge.us",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#dedede",
+    "secondaryColor": "#454545",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Factions",
+        "SkyBlock"
+    ],
+    "store": "https://store.skysurge.us/",
+    "socials": {
+        "discord": "https://discord.gg/aezqnNDP4W"
+    }
+}

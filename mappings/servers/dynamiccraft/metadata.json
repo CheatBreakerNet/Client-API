@@ -1,0 +1,30 @@
+{
+    "id": "dynamiccraft",
+    "name": "DynamicCraft",
+    "description": "Official website of DynamicCraft Bangladesh.",
+    "addresses": [
+        "dynamiccraft.xyz"
+    ],
+    "primaryAddress": "play.dynamiccraft.xyz",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#0039ff",
+    "secondaryColor": "#7b31b3",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Survival"
+    ],
+    "website": "https://dynamiccraft.xyz",
+    "store": "https://dynamiccraft.xyz/ranks",
+    "socials": {
+        "facebook": "DynamiccraftBD",
+        "discord": "https://discord.gg/mH4FCxSpN6"
+    }
+}

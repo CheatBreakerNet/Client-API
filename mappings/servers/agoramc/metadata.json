@@ -1,0 +1,36 @@
+{
+    "id": "agoramc",
+    "name": "AgoraMC",
+    "addresses": [
+        "agoramc.fr"
+    ],
+    "primaryAddress": "agoramc.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f7b801",
+    "secondaryColor": "#1C2541",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "UHC",
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://agoramc.fr/",
+    "store": "https://store.agoramc.fr/",
+    "socials": {
+        "instagram": "agoramc.fr",
+        "tiktok": "@agoramc.fr",
+        "twitter": "agoramc",
+        "youtube": "AgoraMC-s5x",
+        "discord": "https://discord.gg/Dm8mBSzJrH"
+    }
+}

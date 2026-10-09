@@ -1,0 +1,28 @@
+{
+    "id": "craftsy",
+    "name": "Craftsy",
+    "description": "Experience survival gameplay on Craftsy.",
+    "addresses": [
+        "craftsy.io"
+    ],
+    "primaryAddress": "craftsy.io",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ebbf52",
+    "secondaryColor": "#fa8d39",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "website": "https://craftsy.io/",
+    "store": "https://store.craftsy.io/",
+    "socials": {
+        "twitter": "Craftsyio",
+        "discord": "https://discord.com/invite/craftsy"
+    }
+}

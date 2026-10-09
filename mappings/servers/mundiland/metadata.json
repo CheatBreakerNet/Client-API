@@ -1,0 +1,32 @@
+{
+    "id": "mundiland",
+    "name": "mundiland network",
+    "description": "Play Survival and Open World on mundiland network.",
+    "addresses": [
+        "mundiland.net"
+    ],
+    "primaryAddress": "mundiland.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#43D9E3",
+    "secondaryColor": "#e9aa65",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Open World"
+    ],
+    "website": "https://mundiland.net/",
+    "store": "https://tienda.mundiland.net/",
+    "socials": {
+        "twitter": "ServerMundiLand",
+        "discord": "https://discord.gg/a89nk4DHm7",
+        "youtube": "Tamalero",
+        "twitch": "Tamalero"
+    }
+}

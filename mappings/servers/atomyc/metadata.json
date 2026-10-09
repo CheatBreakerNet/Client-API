@@ -1,0 +1,31 @@
+{
+    "id": "atomyc",
+    "name": "Atomyc",
+    "description": "Competitive PrisonOP Minecraft server",
+    "addresses": [
+        "atomyc.pro"
+    ],
+    "primaryAddress": "atomyc.pro",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#17e605",
+    "secondaryColor": "#0e8a03",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "Prison"
+    ],
+    "store": "https://atomyc.tebex.io/",
+    "socials": {
+        "discord": "https://discord.gg/SMbZVkmcdW"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "alchemynetwork",
+    "name": "Alchemy Network",
+    "description": "Fun you find here!",
+    "addresses": [
+        "alchemynetwork.net"
+    ],
+    "primaryAddress": "alchemynetwork.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FF55FF",
+    "secondaryColor": "#FFFFFF",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "Prison"
+    ],
+    "website": "https://www.alchemynetwork.net",
+    "socials": {
+        "discord": "https://discord.gg/QmegrkypzZ"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "id": "hight",
+    "name": "Hight",
+    "description": "Play Minigames and PvP on Hight.",
+    "addresses": [
+        "hightmc.com"
+    ],
+    "primaryAddress": "hightmc.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f99e00",
+    "secondaryColor": "#d1ab24",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/UDyYE46mDF",
+        "youtube": "HightMC.oficial"
+    }
+}

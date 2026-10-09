@@ -1,0 +1,35 @@
+{
+    "id": "complex",
+    "name": "Complex Gaming",
+    "addresses": [
+        "mc-complex.com"
+    ],
+    "primaryAddress": "hub.mc-complex.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ecebed",
+    "secondaryColor": "#000000",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS"
+    ],
+    "gameTypes": [
+        "SkyBlock",
+        "Survival",
+        "Factions"
+    ],
+    "website": "https://www.mc-complex.com/",
+    "store": "https://store.mc-complex.com/",
+    "socials": {
+        "discord": "https://discord.gg/ComplexVanilla"
+    }
+}

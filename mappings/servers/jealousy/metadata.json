@@ -1,0 +1,33 @@
+{
+    "id": "jealousy",
+    "name": "Jealousy Network",
+    "description": "The Best China PotPvP Server",
+    "addresses": [
+        "jealousy.cc"
+    ],
+    "primaryAddress": "jealousy.cc",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#df0029",
+    "secondaryColor": "#808080",
+    "primaryLanguage": "zh-CN",
+    "languages": [
+        "zh-CN",
+        "en"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "store": "https://store.jealousy.cc",
+    "socials": {
+        "discord": "https://discord.gg/QarkksCN"
+    }
+}

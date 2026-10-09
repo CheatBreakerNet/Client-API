@@ -1,0 +1,34 @@
+{
+    "id": "surnex",
+    "name": "SurnexNET",
+    "addresses": [
+        "surnex.net"
+    ],
+    "primaryAddress": "surnex.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00FF3B",
+    "secondaryColor": "#00FF3B",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Creative",
+        "PvP"
+    ],
+    "website": "https://surnex.net",
+    "socials": {
+        "tiktok": "surnex.net",
+        "instagram": "surnex.net",
+        "discord": "https://discord.gg/Y9VcUbqsxS",
+        "youtube": "https://www.youtube.com/@SurnexNET"
+    }
+}

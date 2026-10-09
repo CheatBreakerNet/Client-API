@@ -1,0 +1,33 @@
+{
+    "id": "wek",
+    "name": "Wek Network",
+    "description": "A mysterious Server",
+    "addresses": [
+        "wek.gg"
+    ],
+    "primaryAddress": "wek.gg",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00FFFF",
+    "secondaryColor": "#808080",
+    "primaryLanguage": "zh-CN",
+    "languages": [
+        "zh-CN",
+        "en"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "store": "https://store.wek.gg",
+    "socials": {
+        "discord": "https://discord.gg/JZ6pTARAK"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "wildya",
+    "name": "Wildya",
+    "description": "Play PvP and Minigames on Wildya.",
+    "addresses": [
+        "wildya.fr"
+    ],
+    "primaryAddress": "play.wildya.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#65bed9",
+    "secondaryColor": "#215795",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/8Ffujtcxj7"
+    }
+}

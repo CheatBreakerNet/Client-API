@@ -1,0 +1,33 @@
+{
+    "id": "celestialpvp",
+    "name": "CelestialPvP",
+    "description": "Custom Minecraft Factions, Prisons, & Skyblock!",
+    "addresses": [
+        "celestialpvp.net"
+    ],
+    "primaryAddress": "play.celestialpvp.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#40CFD6",
+    "secondaryColor": "#1D868A",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Factions",
+        "Prison",
+        "SkyBlock"
+    ],
+    "store": "https://store.celestialpvp.net",
+    "socials": {
+        "discord": "https://discord.gg/celestialpvp"
+    }
+}

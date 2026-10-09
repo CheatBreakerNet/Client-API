@@ -2,7 +2,8 @@
     "id": "strafepvp",
     "name": "StrafePvP",
     "addresses": [
-        "strafepvp.cc"
+        "strafepvp.cc",
+        "strafe.rip"
     ],
     "primaryAddress": "strafepvp.cc",
     "primaryColor": "#e67e26",
@@ -32,5 +33,6 @@
         "discord": "https://discord.gg/jh636CGwCQ",
         "youtube": "https://www.youtube.com/@StrafePvPNetwork",
         "tiktok": "https://www.tiktok.com/@strafepvpnetwork"
-    }
+    },
+    "description": "Magical world of both HCFactions."
 }

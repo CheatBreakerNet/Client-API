@@ -1,0 +1,27 @@
+{
+    "id": "mcplayhd",
+    "name": "McPlayHD Network",
+    "description": "Play Minigames and PvP on McPlayHD Network.",
+    "addresses": [
+        "mcplayhd.net"
+    ],
+    "primaryAddress": "mcplayhd.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fe7303",
+    "secondaryColor": "#7a756f",
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "PvE"
+    ],
+    "website": "https://mcplayhd.net/",
+    "store": "https://store.mcplayhd.net/",
+    "socials": {
+        "twitter": "mcplayhdnet",
+        "discord": "https://discord.com/invite/fk2C5XEYJs",
+        "reddit": "McPlayHD"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "minepeaks",
+    "name": "MinePeaks",
+    "description": "Play HCF, Survival, and more on MinePeaks.",
+    "addresses": [
+        "minepeaks.com"
+    ],
+    "primaryAddress": "play.minepeaks.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#2993C4",
+    "secondaryColor": "#00a3a5",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "HCF",
+        "Survival",
+        "PvP"
+    ],
+    "store": "https://store.minepeaks.com/",
+    "socials": {
+        "twitter": "MinePeaks",
+        "discord": "https://discord.gg/KXwhR59SAZ"
+    }
+}

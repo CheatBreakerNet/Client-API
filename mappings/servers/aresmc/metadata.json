@@ -1,0 +1,25 @@
+{
+    "id": "aresmc",
+    "name": "AresMC",
+    "description": "Play PvP, Minigames, and more on AresMC.",
+    "addresses": [
+        "aresmc.eu"
+    ],
+    "primaryAddress": "play.aresmc.eu",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FF5555",
+    "secondaryColor": "#FFFFFF",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Survival"
+    ],
+    "store": "https://aresmc.eu/"
+}

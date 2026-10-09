@@ -1,0 +1,35 @@
+{
+    "id": "donutnetwork",
+    "name": "DonutNetwork",
+    "description": "Best Clutching and PvP Server!",
+    "addresses": [
+        "donutnetwork.eu",
+        "donutnetwork.xyz"
+    ],
+    "primaryAddress": "donutnetwork.eu",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff7b00",
+    "secondaryColor": "#00F4FF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://donutnetwork.eu/",
+    "socials": {
+        "discord": "https://discord.com/invite/PtuvcrD77w",
+        "youtube": "@DonutNetwork_eu"
+    }
+}

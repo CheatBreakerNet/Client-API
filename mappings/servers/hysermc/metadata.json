@@ -1,0 +1,29 @@
+{
+    "id": "hysermc",
+    "name": "HyserMC Network",
+    "description": "Minecraft Prison & Others",
+    "addresses": [
+        "hysermc.pro"
+    ],
+    "primaryAddress": "hysermc.pro",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fc03ec",
+    "secondaryColor": "#ba03fc",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Minigames"
+    ],
+    "website": "https://web.hysermc.pro",
+    "store": "https://store.hysermc.pro",
+    "socials": {
+        "discord": "https://discord.gg/8bUs6UuX79"
+    }
+}

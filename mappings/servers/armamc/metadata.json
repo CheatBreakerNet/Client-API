@@ -1,0 +1,34 @@
+{
+    "id": "armamc",
+    "name": "Armageddon",
+    "addresses": [
+        "armamc.com"
+    ],
+    "primaryAddress": "armamc.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FAB90A",
+    "secondaryColor": "#FAB90A",
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "website": "https://armamc.net",
+    "store": "https://loja.armamc.com",
+    "socials": {
+        "discord": "https://discord.gg/armamc",
+        "youtube": "https://www.youtube.com/@armarealms",
+        "instagram": "armarealms",
+        "tiktok": "armarealms"
+    }
+}

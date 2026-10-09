@@ -7,7 +7,9 @@
         "twerion.de",
         "twerion.com",
         "twerion.eu",
-        "twerion.org"
+        "twerion.org",
+        "totking.de",
+        "totking.dev"
     ],
     "primaryAddress": "twerion.net",
     "minecraftVersions": [
@@ -58,6 +60,7 @@
         "instagram": "twerion_network",
         "tiktok": "twerionnetwork",
         "discord": "https://discord.gg/twerion",
-        "youtube": "https://www.youtube.com/@twerion"
+        "youtube": "https://www.youtube.com/@twerion",
+        "facebook": "twerionnetwork"
     }
 }

@@ -1,0 +1,27 @@
+{
+    "id": "flowerrealms",
+    "name": "FlowerRealms",
+    "addresses": [
+        "flowerrealms.com"
+    ],
+    "primaryAddress": "flowerrealms.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#F8BC14",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://flowerrealms.com",
+    "store": "https://store.flowerrealms.com",
+    "socials": {
+        "discord": "https://discord.gg/flowerrealms"
+    }
+}

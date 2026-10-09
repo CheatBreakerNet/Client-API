@@ -1,0 +1,30 @@
+{
+    "id": "curve",
+    "name": "Curve Network",
+    "description": "Play UHC and PvP on Curve Network.",
+    "addresses": [
+        "curve.rip"
+    ],
+    "primaryAddress": "curve.rip",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#acacac",
+    "secondaryColor": "#0c0b10",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "UHC",
+        "PvP"
+    ],
+    "website": "https://curve.rip/",
+    "store": "https://curve.rip/store",
+    "socials": {
+        "twitter": "CurveUHC",
+        "discord": "https://discord.com/invite/pN3xFBZ7Dq"
+    }
+}

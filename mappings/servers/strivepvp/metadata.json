@@ -1,0 +1,35 @@
+{
+    "id": "strivepvp",
+    "name": "StrivePvP",
+    "description": "Play HCF, practice and much more at StrivePvP.",
+    "addresses": [
+        "strivepvp.top"
+    ],
+    "primaryAddress": "strivepvp.top",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#c11d1d",
+    "secondaryColor": "#252121",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "HCF",
+        "Hardcore",
+        "Factions"
+    ],
+    "website": "https://strivepvp.top/",
+    "store": "https://store.strivepvp.top/",
+    "socials": {
+        "twitter": "StrivePvPNT",
+        "discord": "https://discord.com/invite/strivepvp"
+    }
+}

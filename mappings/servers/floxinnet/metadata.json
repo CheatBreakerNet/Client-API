@@ -1,0 +1,24 @@
+{
+    "id": "floxinnet",
+    "name": "FloxinNet",
+    "description": "Play Survival and PvP on FloxinNet.",
+    "addresses": [
+        "floxinnet.online"
+    ],
+    "primaryAddress": "floxinnet.online",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#b87d00",
+    "secondaryColor": "#0a0700",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "store": "https://store.floxinnet.online"
+}

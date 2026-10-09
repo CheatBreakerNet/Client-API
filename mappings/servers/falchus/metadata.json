@@ -1,0 +1,33 @@
+{
+    "id": "falchus",
+    "name": "Falchus",
+    "description": "creating awesome stuff",
+    "addresses": [
+        "falchus.com"
+    ],
+    "primaryAddress": "falchus.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFFFFF",
+    "secondaryColor": "#000000",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "UHC"
+    ],
+    "website": "https://falchus.com",
+    "socials": {
+        "discord": "https://discord.gg/xnmnrbJrt6"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "vantagames",
+    "name": "Vanta Games",
+    "description": "Play PvP and UHC on Vanta Games.",
+    "addresses": [
+        "vantagames.com"
+    ],
+    "primaryAddress": "vantagames.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#800080",
+    "secondaryColor": "#FF55FF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC"
+    ],
+    "store": "https://store.vantagames.com/",
+    "socials": {
+        "twitter": "VantaGames",
+        "discord": "http://discord.gg/vantagames"
+    }
+}

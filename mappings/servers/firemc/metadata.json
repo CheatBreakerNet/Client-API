@@ -1,0 +1,32 @@
+{
+    "id": "firemc",
+    "name": "FireMC Network",
+    "description": "Play HCF and PvP on FireMC Network.",
+    "addresses": [
+        "firemc.us"
+    ],
+    "primaryAddress": "firemc.us",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e8282a",
+    "secondaryColor": "#fb7104",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "store": "https://store.firemc.us/",
+    "socials": {
+        "discord": "https://discord.com/invite/XXt8ksWPHG"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "shieldbreak",
+    "name": "Shield Break",
+    "addresses": [
+        "sbmc.dev",
+        "shield-break.net"
+    ],
+    "primaryAddress": "shield-break.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#447eaf",
+    "secondaryColor": "#1b2138",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://sbmc.dev",
+    "socials": {
+        "discord": "https://discord.gg/xQrCe23B7E",
+        "youtube": "https://www.youtube.com/@ShieldBreakNetwork"
+    }
+}

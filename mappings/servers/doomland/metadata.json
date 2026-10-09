@@ -1,0 +1,29 @@
+{
+    "id": "doomland",
+    "name": "Doomland",
+    "description": "Play Survival, PvP, and more on Doomland.",
+    "addresses": [
+        "doomland.xyz"
+    ],
+    "primaryAddress": "play.doomland.xyz",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fefefe",
+    "secondaryColor": "#f1b903",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Prison"
+    ],
+    "store": "https://tienda.doomland.xyz/",
+    "socials": {
+        "discord": "https://discord.com/invite/KFEMDGN2Kc",
+        "tiktok": "@doomlandd"
+    }
+}

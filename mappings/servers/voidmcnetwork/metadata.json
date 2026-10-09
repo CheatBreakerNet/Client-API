@@ -1,0 +1,34 @@
+{
+    "id": "voidmcnetwork",
+    "name": "VoidMC",
+    "description": "KitPvP, Practice, SMP & Lifesteal!",
+    "addresses": [
+        "voidmc.it"
+    ],
+    "primaryAddress": "play.voidmc.it",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#8a2be2",
+    "secondaryColor": "#b57edc",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Minigames"
+    ],
+    "website": "https://www.voidmc.it/",
+    "store": "https://store.voidmc.it/",
+    "socials": {
+        "discord": "https://discord.gg/voidmc"
+    }
+}

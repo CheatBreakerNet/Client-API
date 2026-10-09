@@ -1,0 +1,28 @@
+{
+    "id": "crystalmc",
+    "name": "CrystalMC",
+    "description": "Play Factions and PvP on CrystalMC.",
+    "addresses": [
+        "crystalmc.fr"
+    ],
+    "primaryAddress": "play.crystalmc.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#55FFFF",
+    "secondaryColor": "#00AAAA",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "website": "https://crystalmc.fr/",
+    "store": "https://boutique.crystalmc.fr",
+    "socials": {
+        "discord": "https://discord.gg/XvvGErGM4u"
+    }
+}

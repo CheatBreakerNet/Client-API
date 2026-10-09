@@ -1,0 +1,33 @@
+{
+    "id": "minelandia",
+    "name": "Minelandia",
+    "addresses": [
+        "minelandia.es"
+    ],
+    "primaryAddress": "mc.minelandia.es",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e894da",
+    "secondaryColor": "#fc00cb",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvE"
+    ],
+    "store": "https://tienda.minelandia.es/",
+    "socials": {
+        "twitter": "MinelandiaES",
+        "discord": "https://discord.com/invite/ZHnXdCmC5W",
+        "youtube": "UCDRi3jq8H-O6b022nFp7BxA",
+        "tiktok": "@minelandiaoficial"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "madcraft",
+    "name": "MadCraft Network",
+    "description": "Play PvP, Survival, and more on MadCraft Network.",
+    "addresses": [
+        "madcraft.ir",
+        "madgames.ir"
+    ],
+    "primaryAddress": "play.madcraft.ir",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fb9409",
+    "secondaryColor": "#463f3a",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Prison"
+    ],
+    "website": "https://madcraft.ir/",
+    "socials": {
+        "discord": "https://discord.gg/hRjhTkVPq9",
+        "telegram": "madcraft",
+        "instagram": "madcraft.ir"
+    }
+}

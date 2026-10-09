@@ -1,0 +1,29 @@
+{
+    "id": "stratusnetwork",
+    "name": "Stratus Network",
+    "description": "Play PvP and Minigames on Stratus Network.",
+    "addresses": [
+        "stratus.network"
+    ],
+    "primaryAddress": "play.stratus.network",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#6389cb",
+    "secondaryColor": "#3246a2",
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://stratus.network/",
+    "store": "https://stratus.network/shop/",
+    "socials": {
+        "twitter": "stratusmc",
+        "discord": "https://discord.com/invite/Aaf9hTr",
+        "youtube": "StratusNetworkmc",
+        "twitch": "stratusmc",
+        "tiktok": "@stratusnetwork"
+    }
+}

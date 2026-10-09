@@ -1,0 +1,32 @@
+{
+    "id": "tagfeuds",
+    "name": "Tag Feuds",
+    "description": "Play custom TNT Tag Gamemodes!",
+    "addresses": [
+        "tagfeuds.com"
+    ],
+    "primaryAddress": "play.tagfeuds.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FF55FF",
+    "secondaryColor": "#7F00FF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Parkour"
+    ],
+    "store": "https://store.tagfeuds.com",
+    "socials": {
+        "discord": "https://discord.gg/tagfeuds"
+    }
+}

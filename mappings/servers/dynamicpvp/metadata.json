@@ -1,0 +1,29 @@
+{
+    "id": "dynamicpvp",
+    "name": "Dynamic Network",
+    "description": "Play HCF and PvP on Dynamic Network.",
+    "addresses": [
+        "dynamicpvp.net"
+    ],
+    "primaryAddress": "dynamicpvp.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#9c34b8",
+    "secondaryColor": "#17151c",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "store": "https://store.dynamicpvp.net/",
+    "socials": {
+        "twitter": "dynamicpvpnet",
+        "discord": "https://discord.com/invite/XpGVDZ49GP"
+    }
+}

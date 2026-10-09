@@ -1,0 +1,29 @@
+{
+    "id": "unitysmp",
+    "name": "Unity SMP",
+    "addresses": [
+        "unity-smp.com"
+    ],
+    "primaryAddress": "unity-smp.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#B72AFF",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Open World"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/scpynJpByU"
+    }
+}

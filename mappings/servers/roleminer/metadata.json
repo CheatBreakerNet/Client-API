@@ -1,0 +1,27 @@
+{
+    "id": "roleminer",
+    "name": "RoleMiner MC",
+    "addresses": [
+        "roleminer.it"
+    ],
+    "primaryAddress": "mc.roleminer.it",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00BFFF",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "SkyBlock",
+        "Minigames"
+    ]
+}

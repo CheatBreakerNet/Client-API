@@ -1,0 +1,34 @@
+{
+    "id": "munchymc",
+    "name": "MunchyMC",
+    "addresses": [
+        "munchymc.com",
+        "kitpvp.us"
+    ],
+    "primaryAddress": "munchymc.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#b65606",
+    "secondaryColor": "#779970",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Prison",
+        "Survival"
+    ],
+    "website": "https://www.munchymc.com/",
+    "store": "https://shop.munchymc.com/",
+    "socials": {
+        "twitter": "munchy_mc",
+        "discord": "https://discord.com/invite/munchymc",
+        "youtube": "UCN4LdcieqEuK8P3S_qyJgjQ",
+        "reddit": "MunchyMC",
+        "tiktok": "@munchy_mc"
+    }
+}

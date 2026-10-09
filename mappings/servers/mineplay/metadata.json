@@ -1,0 +1,30 @@
+{
+    "id": "mineplay",
+    "name": "Mineplay",
+    "addresses": [
+        "mineplay.pl",
+        "ljaymc.pl"
+    ],
+    "primaryAddress": "mineplay.pl",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f69908",
+    "secondaryColor": "#b3c5d1",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "SkyBlock"
+    ],
+    "website": "https://mineplay.pl/",
+    "store": "https://mineplay.pl/sklep",
+    "socials": {
+        "youtube": "mateulusz",
+        "instagram": "mateulusz"
+    }
+}

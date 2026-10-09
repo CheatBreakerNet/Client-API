@@ -1,0 +1,32 @@
+{
+    "id": "bencraft",
+    "name": "Bencraft",
+    "addresses": [
+        "bencraft.xyz"
+    ],
+    "primaryAddress": "play.bencraft.xyz",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#300F0F",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames"
+    ],
+    "website": "https://bencraft.xyz",
+    "store": "https://shop.bencraft.xyz",
+    "socials": {
+        "discord": "https://discord.com/invite/mdWBX7whUG",
+        "youtube": "https://www.youtube.com/channel/UCZ_4IvaHjkJuKjP6FJSeb8Q"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "swland",
+    "name": "SWLand",
+    "description": "Best SkyWars Practice Server!",
+    "addresses": [
+        "swland.de"
+    ],
+    "primaryAddress": "swland.de",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff7b00",
+    "secondaryColor": "#00ff00",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://www.swland.de",
+    "store": "https://store.swland.de",
+    "socials": {
+        "twitter": "SWLandDE",
+        "discord": "https://discord.gg/QxkpRb4f8v"
+    }
+}

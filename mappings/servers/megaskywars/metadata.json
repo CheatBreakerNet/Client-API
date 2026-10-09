@@ -1,0 +1,28 @@
+{
+    "id": "megaskywars",
+    "name": "megaskywars.com",
+    "addresses": [
+        "megaskywars.com"
+    ],
+    "primaryAddress": "megaskywars.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00FFFF",
+    "secondaryColor": "#00AAAA",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Roleplay"
+    ]
+}

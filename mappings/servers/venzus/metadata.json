@@ -1,0 +1,25 @@
+{
+    "id": "venzus",
+    "name": "Venzus",
+    "description": "Venzus is a danish, revolutionary Prison.",
+    "addresses": [
+        "venzus.net"
+    ],
+    "primaryAddress": "venzus.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFBB50",
+    "secondaryColor": "#0C0C0C",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Prison",
+        "PvP"
+    ],
+    "website": "https://venzus.net/",
+    "store": "https://shop.venzus.net/"
+}

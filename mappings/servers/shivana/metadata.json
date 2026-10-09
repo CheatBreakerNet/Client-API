@@ -1,0 +1,29 @@
+{
+    "id": "shivana",
+    "name": "Shivana",
+    "description": "Play Factions and PvP on Shivana.",
+    "addresses": [
+        "shivana.fr"
+    ],
+    "primaryAddress": "play.shivana.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffe100",
+    "secondaryColor": "#e6711e",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "website": "https://shivana.fr/",
+    "store": "https://shivana.fr/shop",
+    "socials": {
+        "discord": "https://discord.com/invite/shivana",
+        "youtube": "@Shivana-pvpfaction"
+    }
+}

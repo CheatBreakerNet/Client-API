@@ -1,0 +1,36 @@
+{
+    "id": "skillwarsmc",
+    "name": "BlinkTC",
+    "description": "The house of Destroy the Nexus",
+    "addresses": [
+        "blinktc.cc"
+    ],
+    "primaryAddress": "blinktc.cc",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#75d32c",
+    "secondaryColor": "#979c96",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "website": "https://wiki.blinktc.cc/",
+    "store": "https://store.blinktc.cc",
+    "socials": {
+        "discord": "https://discord.gg/RC3KPk29uE",
+        "tiktok": "@blinktcnet",
+        "youtube": "@blinktcnet",
+        "twitter": "@blinktcnet"
+    }
+}

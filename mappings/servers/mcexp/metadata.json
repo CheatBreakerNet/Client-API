@@ -1,0 +1,30 @@
+{
+    "id": "mcexp",
+    "name": "MCEXP",
+    "description": "Play Skyblock and Roleplay on MCEXP.",
+    "addresses": [
+        "minecraftexperience.it"
+    ],
+    "primaryAddress": "mc.minecraftexperience.it",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fbe135",
+    "secondaryColor": "#000000",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "SkyBlock",
+        "Roleplay"
+    ],
+    "website": "https://minecraftexperience.it/",
+    "store": "https://shop.minecraftexperience.it/",
+    "socials": {
+        "discord": "https://discord.com/invite/XPqSg7SKRg",
+        "instagram": "minecraftexperience.it",
+        "tiktok": "@minecraftexperience.it"
+    }
+}

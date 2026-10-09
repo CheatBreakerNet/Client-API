@@ -1,0 +1,32 @@
+{
+    "id": "forcide",
+    "name": "Forcide",
+    "description": "Play HCF and PvP on Forcide.",
+    "addresses": [
+        "forcide.org"
+    ],
+    "primaryAddress": "forcide.org",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00ff40",
+    "secondaryColor": "#00fbff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "ForcideMC",
+        "discord": "https://discord.com/invite/Forcide"
+    }
+}

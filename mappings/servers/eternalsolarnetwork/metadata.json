@@ -1,0 +1,35 @@
+{
+    "id": "eternalsolarnetwork",
+    "name": "EternalSolar Network",
+    "description": "Survival, Practice and Bedwars minigame server!",
+    "addresses": [
+        "eternalsolar.xyz"
+    ],
+    "primaryAddress": "play.eternalsolar.xyz",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#4dff00",
+    "secondaryColor": "#4dff00",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA",
+        "AS"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/r5XNp9NfU5",
+        "twitter": "EternalSolarXYZ"
+    }
+}

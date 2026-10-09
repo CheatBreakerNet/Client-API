@@ -1,0 +1,37 @@
+{
+    "id": "gommehd",
+    "name": "GommeHD",
+    "description": "Play Minigames and PvP on GommeHD.",
+    "addresses": [
+        "gommehd.net",
+        "gommehd.de"
+    ],
+    "primaryAddress": "mc.gommehd.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f7d63f",
+    "secondaryColor": "#5d3220",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Creative",
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://www.gommehd.net/",
+    "store": "https://shop.gommehd.net/",
+    "socials": {
+        "twitter": "GommeHDnet",
+        "discord": "https://discord.com/invite/GommeHDnet",
+        "youtube": "GommeHDnet",
+        "instagram": "gommehdnetwork",
+        "twitch": "GommeHDnet",
+        "reddit": "gommehdnet",
+        "tiktok": "@gommehdnetwork",
+        "facebook": "gommehdnet"
+    }
+}

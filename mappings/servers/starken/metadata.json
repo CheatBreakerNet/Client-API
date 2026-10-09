@@ -1,0 +1,33 @@
+{
+    "id": "starken",
+    "name": "StarkeN Development",
+    "description": "An open and reliable gaming server for everyone",
+    "addresses": [
+        "starken.dev"
+    ],
+    "primaryAddress": "mc.starken.dev",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#2D7E00",
+    "secondaryColor": "#08BCC7",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Prison"
+    ],
+    "website": "https://mc.starken.dev/",
+    "store": "https://mc.starken.dev/store/",
+    "socials": {
+        "discord": "https://discord.gg/d9ecm97nc7"
+    }
+}

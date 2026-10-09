@@ -1,0 +1,24 @@
+{
+    "id": "lookcraft",
+    "name": "LookCraft",
+    "description": "Play PvP, Survival, and more on LookCraft.",
+    "addresses": [
+        "lookcraft.es"
+    ],
+    "primaryAddress": "play.lookcraft.es",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#969696",
+    "secondaryColor": "#383838",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Adventure"
+    ]
+}

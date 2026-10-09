@@ -1,0 +1,30 @@
+{
+    "id": "clicgauche",
+    "name": "Clic-Gauche",
+    "description": "Left-Click Gang Minecraft Server",
+    "addresses": [
+        "clic-gauche.fr"
+    ],
+    "primaryAddress": "play.clic-gauche.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#000000",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://clic-gauche.fr/",
+    "socials": {
+        "discord": "https://discord.gg/kEdN2dDMYT"
+    }
+}

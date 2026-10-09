@@ -1,0 +1,28 @@
+{
+    "id": "minexo",
+    "name": "MineXO",
+    "description": "Experience survival gameplay on MineXO.",
+    "addresses": [
+        "minexo.net"
+    ],
+    "primaryAddress": "minexo.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fdd8e2",
+    "secondaryColor": "#d1353f",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "website": "https://minexo.net/",
+    "store": "https://store.minexo.net/",
+    "socials": {
+        "twitter": "MineXONetwork",
+        "discord": "https://discord.com/invite/minexo"
+    }
+}

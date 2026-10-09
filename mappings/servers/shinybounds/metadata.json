@@ -1,0 +1,32 @@
+{
+    "id": "shinybounds",
+    "name": "Shinybounds",
+    "description": "Test your combat skills on Shinybounds.",
+    "addresses": [
+        "shinybounds.net"
+    ],
+    "primaryAddress": "shinybounds.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#6fdde7",
+    "secondaryColor": "#72f12e",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://shinybounds.net/forum/",
+    "store": "https://store.shinybounds.net/",
+    "socials": {
+        "discord": "https://discord.com/invite/kyDH5XF"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "ectoria",
+    "name": "Ectoria",
+    "description": "Minecraft PvP server.",
+    "addresses": [
+        "ectoria.net"
+    ],
+    "primaryAddress": "mc.ectoria.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00AEEF",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "fr",
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/yXrY2fcb2n"
+    }
+}

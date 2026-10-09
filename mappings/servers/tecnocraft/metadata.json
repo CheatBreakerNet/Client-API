@@ -1,0 +1,26 @@
+{
+    "id": "tecnocraft",
+    "name": "TecnoCraft.net",
+    "description": "Play Roleplay and Creative on TecnoCraft.net.",
+    "addresses": [
+        "tecnocraft.net",
+        "tecnocraft.it"
+    ],
+    "primaryAddress": "play.tecnocraft.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#067438",
+    "secondaryColor": "#53a178",
+    "gameTypes": [
+        "Roleplay",
+        "Creative"
+    ],
+    "website": "https://www.tecnocraft.net/",
+    "store": "https://store.tecnocraft.net/",
+    "socials": {
+        "discord": "https://discord.com/invite/TecnoRoleplay",
+        "telegram": "TecnoRoleplay"
+    }
+}

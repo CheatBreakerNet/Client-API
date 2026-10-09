@@ -1,0 +1,35 @@
+{
+    "id": "redefantasy",
+    "name": "RedeFantasy",
+    "addresses": [
+        "redefantasy.com"
+    ],
+    "primaryAddress": "redefantasy.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#1e647d",
+    "secondaryColor": "#e7cd2b",
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR",
+        "pt-PT"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "Prison",
+        "Factions",
+        "PvP"
+    ],
+    "website": "https://redefantasy.com/",
+    "store": "https://redefantasy.com/loja",
+    "socials": {
+        "twitter": "redefantasy",
+        "discord": "https://discord.gg/yMJX4uaKsC",
+        "tiktok": "@redefantasyoficial"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "minelatino",
+    "name": "MineLatino Network",
+    "addresses": [
+        "minelatino.com",
+        "minelatino.net"
+    ],
+    "primaryAddress": "play.minelatino.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fa8c16",
+    "secondaryColor": "#f5eb81",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "SkyBlock"
+    ],
+    "website": "https://minelatino.com/",
+    "store": "https://tienda.minelatino.com/",
+    "socials": {
+        "twitter": "MineLatServer",
+        "discord": "https://discord.com/invite/krSnVsK",
+        "instagram": "minelatinonetwork",
+        "tiktok": "@play.minelatino.com",
+        "facebook": "MineLatino.oficial"
+    }
+}

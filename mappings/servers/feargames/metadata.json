@@ -1,0 +1,28 @@
+{
+    "id": "feargames",
+    "name": "FearGames",
+    "description": "The official portal of FearGames Network",
+    "addresses": [
+        "feargames.it"
+    ],
+    "primaryAddress": "mc.feargames.it",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e3e5e5",
+    "secondaryColor": "#492b28",
+    "gameTypes": [
+        "Minigames",
+        "Survival"
+    ],
+    "website": "https://feargames.it/",
+    "store": "https://shop.feargames.it/",
+    "socials": {
+        "discord": "https://discord.com/invite/yZ6FnK8",
+        "youtube": "UCcS-t5V9TP0tM01fzwFebzg",
+        "instagram": "feargames.it",
+        "telegram": "FearGames",
+        "facebook": "FearGames.it"
+    }
+}

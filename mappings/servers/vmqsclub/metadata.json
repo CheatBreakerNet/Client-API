@@ -1,0 +1,29 @@
+{
+    "id": "vmqsclub",
+    "name": "vmqs.club",
+    "addresses": [
+        "vmqs.club"
+    ],
+    "primaryAddress": "vmqs.club",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#55ffff",
+    "secondaryColor": "#00aaaa",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "SkyBlock",
+        "Survival"
+    ],
+    "website": "https://vmqs.club",
+    "store": "https://store.vmqs.club",
+    "socials": {
+        "discord": "https://discord.gg/HNB9XPzP4J"
+    }
+}

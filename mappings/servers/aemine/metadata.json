@@ -1,0 +1,29 @@
+{
+    "id": "aemine",
+    "name": "Aemine",
+    "description": "Play Survival, Skyblock, and more on Aemine.",
+    "addresses": [
+        "aemine.vn"
+    ],
+    "primaryAddress": "aemine.vn",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#4bd2db",
+    "secondaryColor": "#ecb046",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Survival",
+        "SkyBlock",
+        "Roleplay"
+    ],
+    "website": "https://aemine.vn/",
+    "socials": {
+        "discord": "https://discord.com/invite/cgJe6azKRs",
+        "facebook": "aeminevn"
+    }
+}

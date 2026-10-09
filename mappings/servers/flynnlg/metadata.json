@@ -1,0 +1,25 @@
+{
+    "id": "flynnlg",
+    "name": "FlynnLG",
+    "addresses": [
+        "flynnlg.de"
+    ],
+    "primaryAddress": "flynnlg.de",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ebf6ff",
+    "secondaryColor": "#292929",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://www.flynnlg.de",
+    "socials": {
+        "discord": "https://discord.com/invite/KgPKpEp"
+    }
+}

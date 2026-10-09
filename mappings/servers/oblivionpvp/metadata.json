@@ -1,0 +1,27 @@
+{
+    "id": "oblivionpvp",
+    "name": "OblivionPvP",
+    "addresses": [
+        "oblivionpvp.net"
+    ],
+    "primaryAddress": "play.oblivionpvp.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#7F3AE5",
+    "secondaryColor": "#9863E7",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "HCF",
+        "Factions"
+    ],
+    "store": "https://store.oblivionpvp.net/",
+    "socials": {
+        "discord": "https://discord.gg/oblivionpvp"
+    }
+}

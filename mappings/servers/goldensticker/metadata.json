@@ -1,0 +1,32 @@
+{
+    "id": "goldensticker",
+    "name": "Golden Stickers",
+    "addresses": [
+        "goldensticker.xyz"
+    ],
+    "primaryAddress": "goldensticker.xyz",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFA600",
+    "secondaryColor": "#1188FF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "website": "https://www.goldensticker.xyz",
+    "socials": {
+        "discord": "https://discord.gg/txJ7EwyJcz",
+        "youtube": "@GoldenStickersxyz"
+    }
+}

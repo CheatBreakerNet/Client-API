@@ -1,0 +1,33 @@
+{
+    "id": "gamesmadeinpola",
+    "name": "GamesMadeInPola",
+    "addresses": [
+        "gamesmadeinpola.com"
+    ],
+    "primaryAddress": "gamesmadeinpola.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f59842",
+    "secondaryColor": "#ffc363",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "website": "https://gamesmadeinpola.com",
+    "store": "https://tienda.gamesmadeinpola.com",
+    "socials": {
+        "instagram": "gamesmadeinpola.com",
+        "discord": "https://discord.com/invite/gmip"
+    }
+}

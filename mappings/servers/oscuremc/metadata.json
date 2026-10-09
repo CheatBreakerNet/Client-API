@@ -1,0 +1,29 @@
+{
+    "id": "oscuremc",
+    "name": "OscureMC",
+    "addresses": [
+        "oscuremc.net"
+    ],
+    "primaryAddress": "play.oscuremc.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#800080",
+    "secondaryColor": "#FFC0CB",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Adventure",
+        "Open World"
+    ],
+    "website": "https://oscuremc.net/",
+    "store": "https://tienda.oscuremc.net/",
+    "socials": {
+        "twitter": "oscuremc",
+        "discord": "https://discord.com/invite/oscuremc"
+    }
+}

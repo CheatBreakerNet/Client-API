@@ -1,0 +1,33 @@
+{
+    "id": "tidal",
+    "name": "Tidal Network",
+    "description": "A 1.7.10 and 1.8.9 UHC and Practice server.",
+    "addresses": [
+        "tidal.rip"
+    ],
+    "primaryAddress": "tidal.rip",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#55ffff",
+    "secondaryColor": "#000000",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "UHC",
+        "PvP",
+        "Hardcore"
+    ],
+    "store": "https://store.tidal.rip/",
+    "socials": {
+        "discord": "https://discord.gg/2uGDZvXUtD"
+    }
+}

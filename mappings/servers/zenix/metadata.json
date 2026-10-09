@@ -1,0 +1,27 @@
+{
+    "id": "zenix",
+    "name": "Zenix",
+    "description": "Experience survival gameplay on Zenix.",
+    "addresses": [
+        "zenix.top"
+    ],
+    "primaryAddress": "zenix.top",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#31AFF8",
+    "secondaryColor": "#1B5FC6",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "website": "https://zenix.top/",
+    "store": "https://store.zenix.top/",
+    "socials": {
+        "discord": "https://discord.gg/zenixpit"
+    }
+}

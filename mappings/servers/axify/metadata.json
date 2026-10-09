@@ -1,0 +1,30 @@
+{
+    "id": "axify",
+    "name": "Axify Network",
+    "description": "Play Prison, Factions, and more on Axify Network.",
+    "addresses": [
+        "axifynetwork.xyz",
+        "axifynetwork.com"
+    ],
+    "primaryAddress": "play.axifynetwork.xyz",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#5555FF",
+    "secondaryColor": "#55FFFF",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Prison",
+        "Factions",
+        "PvP"
+    ],
+    "website": "https://www.axifynetwork.xyz/",
+    "store": "https://store.axifynetwork.xyz/",
+    "socials": {
+        "discord": "https://discord.com/invite/axify"
+    }
+}

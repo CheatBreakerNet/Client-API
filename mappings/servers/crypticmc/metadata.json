@@ -1,0 +1,33 @@
+{
+    "id": "crypticmc",
+    "name": "CrypticMC",
+    "addresses": [
+        "crypticmc.it"
+    ],
+    "primaryAddress": "play.crypticmc.it",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#9D38FB",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "website": "https://www.crypticmc.it",
+    "store": "https://store.crypticmc.it",
+    "socials": {
+        "tiktok": "@crypticmc_server",
+        "discord": "https://discord.gg/4eeUutCrtB"
+    }
+}

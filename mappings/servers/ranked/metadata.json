@@ -1,0 +1,24 @@
+{
+    "id": "ranked",
+    "name": "Ranked Games",
+    "description": "Play PvP and Factions on Ranked Games.",
+    "addresses": [
+        "ranked.rip"
+    ],
+    "primaryAddress": "ranked.rip",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f62c22",
+    "secondaryColor": "#f7f3f2",
+    "gameTypes": [
+        "PvP",
+        "Factions"
+    ],
+    "store": "https://store.ranked.rip/",
+    "socials": {
+        "discord": "https://discord.gg/rankedrip"
+    }
+}

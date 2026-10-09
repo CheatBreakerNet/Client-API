@@ -1,0 +1,31 @@
+{
+    "id": "mineepic",
+    "name": "MineEpic",
+    "description": "Minecraft server PrisonOP competitive.",
+    "addresses": [
+        "mineepic.lat"
+    ],
+    "primaryAddress": "play.mineepic.lat",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#23c0e3",
+    "secondaryColor": "#0b5394",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Prison"
+    ],
+    "store": "https://tienda.mineepic.lat",
+    "socials": {
+        "discord": "https://discord.gg/GcG3D2AAve"
+    }
+}

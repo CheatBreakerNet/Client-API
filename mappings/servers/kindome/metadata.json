@@ -1,0 +1,39 @@
+{
+    "id": "kindome",
+    "name": "Kindome",
+    "addresses": [
+        "kindo.me",
+        "kindome.com.br"
+    ],
+    "primaryAddress": "kindo.me",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#822aac",
+    "secondaryColor": "#3f0d57",
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR",
+        "pt-PT"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Creative"
+    ],
+    "website": "https://kindome.com.br/",
+    "store": "https://kindome.com.br/loja",
+    "socials": {
+        "twitter": "KindomeNetwork",
+        "discord": "https://discord.com/invite/7egjH9B9B5",
+        "youtube": "KindomeNetwork",
+        "tiktok": "@kindomenetwork",
+        "instagram": "KindomeNetwork"
+    }
+}

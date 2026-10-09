@@ -1,0 +1,27 @@
+{
+    "id": "ember",
+    "name": "Ember",
+    "description": "Play PvP and Factions on Ember.",
+    "addresses": [
+        "emberpvp.es",
+        "emberpvp.club",
+        "pvpsurge.com",
+        "varant.es"
+    ],
+    "primaryAddress": "emberpvp.es",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f62c22",
+    "secondaryColor": "#fa5e12",
+    "gameTypes": [
+        "PvP",
+        "Factions"
+    ],
+    "store": "https://store.emberpvp.es/",
+    "socials": {
+        "discord": "https://discord.gg/hcfactions"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "id": "minebow",
+    "name": "MineBow Network",
+    "description": "MineBow Network server page.",
+    "addresses": [
+        "minebow.net"
+    ],
+    "primaryAddress": "minebow.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#db213a",
+    "secondaryColor": "#3f3e4c",
+    "gameTypes": [
+        "PvP",
+        "PvE",
+        "Adventure"
+    ],
+    "website": "https://minebow.net/",
+    "store": "https://tienda.minebow.net/",
+    "socials": {
+        "twitter": "minebow",
+        "discord": "https://discord.com/invite/minebow",
+        "telegram": "minebow",
+        "tiktok": "@minebownetwork"
+    }
+}

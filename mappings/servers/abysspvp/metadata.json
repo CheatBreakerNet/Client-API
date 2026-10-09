@@ -1,0 +1,30 @@
+{
+    "id": "abysspvp",
+    "name": "AbyssPvP Network",
+    "description": "An PrisonOP competitive server.",
+    "addresses": [
+        "abysspvp.com"
+    ],
+    "primaryAddress": "abysspvp.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#990000",
+    "secondaryColor": "#e60000",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Prison"
+    ],
+    "store": "https://tienda.abysspvp.com/",
+    "socials": {
+        "discord": "https://discord.gg/abysspvp"
+    }
+}

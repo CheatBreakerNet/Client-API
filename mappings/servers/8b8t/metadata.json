@@ -1,0 +1,24 @@
+{
+    "id": "8b8t",
+    "name": "8b8t",
+    "description": "Experience survival gameplay on 8b8t.",
+    "addresses": [
+        "8b8t.me"
+    ],
+    "primaryAddress": "8b8t.me",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#0000AA",
+    "secondaryColor": "#5555FF",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "store": "https://donate.8b8t.me"
+}

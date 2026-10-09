@@ -1,0 +1,39 @@
+{
+    "id": "mirelandnetwork",
+    "name": "Mireland Network",
+    "description": "Come enjoy with us!",
+    "addresses": [
+        "mireland.net"
+    ],
+    "primaryAddress": "play.mireland.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffaa29",
+    "secondaryColor": "#ffbe55",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "SkyBlock",
+        "Factions"
+    ],
+    "store": "https://tienda.mireland.net",
+    "socials": {
+        "twitter": "MireLandNet",
+        "tiktok": "@mirelandnetwork",
+        "discord": "https://discord.gg/VmEaqYYwq7"
+    }
+}

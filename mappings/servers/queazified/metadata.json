@@ -1,0 +1,22 @@
+{
+    "id": "queazified",
+    "name": "Queazified Network",
+    "addresses": [
+        "queazified.co.uk"
+    ],
+    "primaryAddress": "join.queazified.co.uk",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#db6314",
+    "secondaryColor": "#cc0808",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "website": "https://www.queazified.co.uk"
+}

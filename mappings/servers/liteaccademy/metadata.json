@@ -1,0 +1,31 @@
+{
+    "id": "liteaccademy",
+    "name": "Liteaccademy Network",
+    "addresses": [
+        "liteaccademy.it"
+    ],
+    "primaryAddress": "play.liteaccademy.it",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#383838",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Roleplay"
+    ],
+    "website": "https://www.liteaccademy.it",
+    "store": "https://www.liteaccademy.it/store/",
+    "socials": {
+        "discord": "https://discord.gg/BJbcTsbRuj",
+        "telegram": "liteaccademy"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "redestar",
+    "name": "RedeStar",
+    "addresses": [
+        "redestars.com"
+    ],
+    "primaryAddress": "jogar.redestars.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#2BE4F8",
+    "secondaryColor": "#0B1026",
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "website": "https://loja.redestars.com",
+    "store": "https://loja.redestars.com/shop",
+    "socials": {
+        "tiktok": "RedeStar_",
+        "instagram": "RedeStar",
+        "discord": "https://discord.gg/C7xzp4CkDH"
+    }
+}

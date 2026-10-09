@@ -1,0 +1,34 @@
+{
+    "id": "craftmc",
+    "name": "CraftMC",
+    "addresses": [
+        "craftmc.pl"
+    ],
+    "primaryAddress": "craftmc.pl",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffd541",
+    "secondaryColor": "#efeff0",
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://craftmc.pl/index.php/",
+    "store": "https://craftmc.pl/index.php/page/index/Patnoci",
+    "socials": {
+        "discord": "https://discord.com/invite/CSpsZbX",
+        "youtube": "kawa_1996",
+        "facebook": "CraftPLMC"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "kalomc",
+    "name": "KaloMC",
+    "description": "Play HCF and PvP on KaloMC.",
+    "addresses": [
+        "kalomc.org"
+    ],
+    "primaryAddress": "kalomc.org",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#faf206",
+    "secondaryColor": "#ffffff",
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "website": "https://kalomc.org/",
+    "store": "https://store.kalomc.org/",
+    "socials": {
+        "twitter": "KaloNetworkOrg",
+        "discord": "https://discord.com/invite/EnKTgauS24/",
+        "telegram": "kalonetworkorg"
+    }
+}

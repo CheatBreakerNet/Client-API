@@ -1,0 +1,30 @@
+{
+    "id": "playcookie",
+    "name": "PlayCookie - Network",
+    "addresses": [
+        "schnur.net"
+    ],
+    "primaryAddress": "mc.schnur.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00FF3B",
+    "secondaryColor": "#00FF3B",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/U3BddyqVpq"
+    }
+}

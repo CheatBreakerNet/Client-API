@@ -1,0 +1,30 @@
+{
+    "id": "redeforce",
+    "name": "Force Network",
+    "description": "Rise through the ranks on Force Network.",
+    "addresses": [
+        "redeforce.net"
+    ],
+    "primaryAddress": "redeforce.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f12500",
+    "secondaryColor": "#ffb500",
+    "primaryLanguage": "pt-PT",
+    "languages": [
+        "pt-PT"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Prison"
+    ],
+    "store": "http://loja.redeforce.net",
+    "socials": {
+        "discord": "https://discord.com/invite/redeforce"
+    }
+}

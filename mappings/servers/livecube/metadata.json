@@ -1,0 +1,30 @@
+{
+    "id": "livecube",
+    "name": "Livecube",
+    "description": "Play PvP like in old French servers!",
+    "addresses": [
+        "livecube.fr"
+    ],
+    "primaryAddress": "play.livecube.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff8900",
+    "secondaryColor": "#ffdbb1",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames"
+    ],
+    "website": "https://www.livecube.fr/",
+    "socials": {
+        "discord": "https://discord.gg/livecube"
+    }
+}

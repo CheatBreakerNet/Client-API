@@ -1,0 +1,33 @@
+{
+    "id": "survivaldub",
+    "name": "SurvivalDub",
+    "description": "Play Minigames, PvP, and more on SurvivalDub.",
+    "addresses": [
+        "survivaldub.com"
+    ],
+    "primaryAddress": "mc.survivaldub.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#b58a6e",
+    "secondaryColor": "#0abf13",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "website": "https://www.survivaldub.com/",
+    "store": "https://tienda.survivaldub.com/",
+    "socials": {
+        "twitter": "Survivaldub",
+        "discord": "https://discord.com/invite/Pw9vuWGzJe",
+        "youtube": "CazmonSurvivaldubMC",
+        "instagram": "survivaldubmc",
+        "facebook": "Survivaldub"
+    }
+}

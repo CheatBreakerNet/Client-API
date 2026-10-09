@@ -1,0 +1,43 @@
+{
+    "id": "blitzmcnetwork",
+    "name": "BlitzMC Network",
+    "description": "The premium experience, in non-premium! Est. 2017",
+    "addresses": [
+        "blitzmc.us",
+        "obsterland.net",
+        "lospapus.lol"
+    ],
+    "primaryAddress": "blitzmc.us",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#52d7f7",
+    "secondaryColor": "#f3f3f3",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Survival"
+    ],
+    "website": "https://www.blitzmc.us",
+    "store": "https://tienda.blitzmc.us",
+    "socials": {
+        "twitter": "BlitzMCNT",
+        "telegram": "blitzmcnetwork",
+        "discord": "https://discord.gg/eGeDVEF9TA",
+        "instagram": "blitzmcnetwork",
+        "youtube": "blitzmcnetwork"
+    }
+}

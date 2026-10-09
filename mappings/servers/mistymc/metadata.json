@@ -1,0 +1,29 @@
+{
+    "id": "mistymc",
+    "name": "MistyMC Network",
+    "description": "Play Minigames, PvP, and more on MistyMC Network.",
+    "addresses": [
+        "mistymc.xyz"
+    ],
+    "primaryAddress": "play.mistymc.xyz",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#33e9ff",
+    "secondaryColor": "#ffffff",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "website": "https://mistymc.xyz//",
+    "store": "https://store.mistymc.xyz/",
+    "socials": {
+        "discord": "https://discord.com/invite/WcGXdfnqHG"
+    }
+}

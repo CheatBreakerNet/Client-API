@@ -1,0 +1,30 @@
+{
+    "id": "stelarmc",
+    "name": "StelarMC Network",
+    "description": "Play Survival and PvP on StelarMC Network.",
+    "addresses": [
+        "stelarmc.es",
+        "stelarmc.net",
+        "stelarmc.com",
+        "stelarmc.us",
+        "stelarmc.club"
+    ],
+    "primaryAddress": "stelarmc.es",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#5cc5a3",
+    "secondaryColor": "#4f4f3a",
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "store": "https://tienda.stelarmc.net/",
+    "socials": {
+        "twitter": "StelarMcNT",
+        "discord": "https://discord.com/invite/6uPBm4AHJy",
+        "youtube": "UCAszhWeMT9tK66-hxbkJM8w",
+        "tiktok": "@stelarmcnetwork"
+    }
+}

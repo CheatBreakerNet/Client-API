@@ -1,0 +1,31 @@
+{
+    "id": "ecuacraft",
+    "name": "EcuaCraft",
+    "description": "Play Prison, PvP, and more on EcuaCraft.",
+    "addresses": [
+        "ecuacraft.com"
+    ],
+    "primaryAddress": "mc.ecuacraft.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#da1b19",
+    "secondaryColor": "#391300",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Prison",
+        "PvP",
+        "UHC"
+    ],
+    "store": "https://shop.ecuacraft.com/",
+    "socials": {
+        "twitter": "EcuaCraftNT",
+        "discord": "https://discord.com/invite/ecuacraft",
+        "facebook": "ecuacraft"
+    }
+}

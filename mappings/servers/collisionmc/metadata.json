@@ -1,0 +1,31 @@
+{
+    "id": "collisionmc",
+    "name": "CollisionMC",
+    "addresses": [
+        "collisionmc.it"
+    ],
+    "primaryAddress": "play.collisionmc.it",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#1E90FF",
+    "secondaryColor": "#FFD700",
+    "primaryLanguage": "it",
+    "languages": [
+        "it",
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "website": "https://collisionmc.free.nf/",
+    "socials": {
+        "discord": "https://discord.gg/5CnPxwEX2K",
+        "tiktok": "@collisionmc.social"
+    }
+}

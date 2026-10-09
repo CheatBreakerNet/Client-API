@@ -1,0 +1,39 @@
+{
+    "id": "mineaqua",
+    "name": "MineAqua Network",
+    "description": "Premium experience for everyone!",
+    "addresses": [
+        "mineaqua.us",
+        "mineaqua.net",
+        "mineaqua.es"
+    ],
+    "primaryAddress": "mc.mineaqua.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#2196f3",
+    "secondaryColor": "#2F63AB",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "SkyBlock",
+        "PvP"
+    ],
+    "website": "https://mineaqua.net/",
+    "store": "https://tienda.mineaqua.net/",
+    "socials": {
+        "twitter": "MineAquaNetwork",
+        "discord": "https://discord.gg/XvemNRr",
+        "youtube": "mineaquanet",
+        "instagram": "mineaquanetwork",
+        "tiktok": "@mineaquanetwork"
+    }
+}

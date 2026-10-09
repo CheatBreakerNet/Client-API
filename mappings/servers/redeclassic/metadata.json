@@ -1,0 +1,26 @@
+{
+    "id": "redeclassic",
+    "name": "Rede Classic",
+    "description": "Test your combat skills on Rede Classic.",
+    "addresses": [
+        "redeclassic.net"
+    ],
+    "primaryAddress": "redeclassic.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff8c00",
+    "secondaryColor": "#eddb11",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "store": "https://loja.redeclassic.net/",
+    "socials": {
+        "discord": "https://discord.gg/rzTNcNus"
+    }
+}

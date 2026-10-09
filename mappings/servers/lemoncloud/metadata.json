@@ -1,0 +1,28 @@
+{
+    "id": "lemoncloud",
+    "name": "LemonCloud",
+    "addresses": [
+        "lemoncloud.org"
+    ],
+    "primaryAddress": "play.lemoncloud.org",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#feeb17",
+    "secondaryColor": "#f1f7fb",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "SkyBlock",
+        "Factions",
+        "Creative"
+    ],
+    "website": "https://lemoncloud.org/",
+    "store": "https://store.lemoncloud.org/",
+    "socials": {
+        "discord": "https://discord.com/invite/lemoncloud"
+    }
+}

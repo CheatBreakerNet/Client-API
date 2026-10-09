@@ -1,0 +1,29 @@
+{
+    "id": "taliamc",
+    "name": "TaliaMC",
+    "description": "Play Factions and PvP on TaliaMC.",
+    "addresses": [
+        "taliamc.fr"
+    ],
+    "primaryAddress": "play.taliamc.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fecc4c",
+    "secondaryColor": "#f57824",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "website": "https://taliamc.fr/",
+    "store": "https://taliamc.fr/shop/categories/credits",
+    "socials": {
+        "twitter": "TaliaNetwork",
+        "discord": "https://discord.com/invite/crdqzRNDNX"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "commandmc",
+    "name": "Commandmc",
+    "addresses": [
+        "commandmc.eu"
+    ],
+    "primaryAddress": "commandmc.eu",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#E70052",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "gameTypes": [
+        "Minigames"
+    ],
+    "socials": {
+        "youtube": "https://www.youtube.com/@commandmceu",
+        "discord": "https://discord.com/invite/fSN8JMr"
+    }
+}

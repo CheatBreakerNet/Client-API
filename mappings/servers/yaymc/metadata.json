@@ -1,0 +1,28 @@
+{
+    "id": "yaymc",
+    "name": "YayMC",
+    "description": "Unique Factions Experience",
+    "addresses": [
+        "yaymc.com"
+    ],
+    "primaryAddress": "play.yaymc.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffa500",
+    "secondaryColor": "#ffa500",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "store": "https://store.yaymc.com/",
+    "socials": {
+        "twitter": "yaymcsocial",
+        "discord": "https://discord.com/invite/yaymc"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "arkamc",
+    "name": "ArkaMC",
+    "addresses": [
+        "arkamc.fr"
+    ],
+    "primaryAddress": "play.arkamc.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFAA00",
+    "secondaryColor": "#FFFF55",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "website": "https://arkamc.fr",
+    "socials": {
+        "discord": "https://discord.gg/Kf4gjXCDmh",
+        "tiktok": "@arkamc_network"
+    }
+}

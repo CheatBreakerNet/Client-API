@@ -1,0 +1,33 @@
+{
+    "id": "bytesdevelopment",
+    "name": "BytesDevelopment Network",
+    "description": "A Minecraft Prison server.",
+    "addresses": [
+        "bytesdevelopment.xyz"
+    ],
+    "primaryAddress": "mc.bytesdevelopment.xyz",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#2c98b0",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Prison"
+    ],
+    "store": "https://store.bytesdevelopment.xyz",
+    "socials": {
+        "twitter": "iSixyyy",
+        "telegram": "iSixy",
+        "discord": "https://discord.gg/DsZmeR2KfB"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "essencemc",
+    "name": "EssenceMC",
+    "addresses": [
+        "essencemc.net"
+    ],
+    "primaryAddress": "play.essencemc.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#31214F",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://essencemc.net",
+    "store": "https://store.essencemc.net",
+    "socials": {
+        "discord": "https://discord.gg/essencemc"
+    }
+}

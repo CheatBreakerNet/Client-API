@@ -1,0 +1,30 @@
+{
+    "id": "survify",
+    "name": "Survify SurvivalOP",
+    "description": "An SurvivalOP competitive server.",
+    "addresses": [
+        "survify.cc"
+    ],
+    "primaryAddress": "survify.cc",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#AA00AA",
+    "secondaryColor": "#FF55FF",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "store": "https://tienda.survify.cc/",
+    "socials": {
+        "discord": "https://discord.gg/DyTvzpj3mr"
+    }
+}

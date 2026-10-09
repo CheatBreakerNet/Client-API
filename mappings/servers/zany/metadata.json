@@ -1,0 +1,34 @@
+{
+    "id": "zany",
+    "name": "Zany",
+    "addresses": [
+        "zany.rip"
+    ],
+    "primaryAddress": "zany.rip",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#4b1066",
+    "secondaryColor": "#c22dc4",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "EU",
+        "NA"
+    ],
+    "gameTypes": [
+        "UHC",
+        "PvP",
+        "Minigames"
+    ],
+    "store": "https://zany.rip/store",
+    "socials": {
+        "twitter": "ZanyRIP",
+        "discord": "https://discord.gg/zanyuhc"
+    }
+}

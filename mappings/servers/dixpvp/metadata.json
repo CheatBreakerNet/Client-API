@@ -1,0 +1,32 @@
+{
+    "id": "dixpvp",
+    "name": "DixPvP Network",
+    "description": "Play PvP and UHC on DixPvP Network.",
+    "addresses": [
+        "dixpvp.xyz"
+    ],
+    "primaryAddress": "dixpvp.xyz",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFC300",
+    "secondaryColor": "#FF7700",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC"
+    ],
+    "store": "https://store.dixpvp.xyz/",
+    "socials": {
+        "discord": "https://discord.gg/GYGHhUw4"
+    }
+}

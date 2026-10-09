@@ -1,0 +1,28 @@
+{
+    "id": "wonderlands",
+    "name": "Wonderlands",
+    "description": "Minecraft server from Georgia!",
+    "addresses": [
+        "wonderlands.ge"
+    ],
+    "primaryAddress": "play.wonderlands.ge",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fcac04",
+    "secondaryColor": "#fce43c",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Creative",
+        "Minigames"
+    ],
+    "store": "https://store.wonderlands.ge/",
+    "socials": {
+        "discord": "https://discord.gg/FSxptPackB"
+    }
+}

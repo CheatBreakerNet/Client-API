@@ -1,0 +1,31 @@
+{
+    "id": "soledcraft",
+    "name": "SoledCraft Network",
+    "addresses": [
+        "soledcraft.net"
+    ],
+    "primaryAddress": "play.soledcraft.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFFF55",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "store": "https://soledcraft.tebex.io",
+    "socials": {
+        "discord": "https://discord.gg/Jrtg7TdxQN",
+        "youtube": "@SoledCraftNetwork"
+    }
+}

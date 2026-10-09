@@ -1,0 +1,33 @@
+{
+    "id": "performium",
+    "name": "Performium Network",
+    "addresses": [
+        "performium.net",
+        "fluxpvp.net",
+        "skyblocknetwork.com"
+    ],
+    "primaryAddress": "mc.performium.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#bd101b",
+    "secondaryColor": "#77140c",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "UHC"
+    ],
+    "website": "https://performium.net/",
+    "store": "https://store.performium.net/",
+    "socials": {
+        "twitter": "performium",
+        "discord": "https://discord.com/invite/43kJeeqyzr",
+        "youtube": "UCepS4nC_90eBruv_TvXs0sQ",
+        "facebook": "Performium"
+    }
+}

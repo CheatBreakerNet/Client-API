@@ -1,0 +1,34 @@
+{
+    "id": "meltdownpvp",
+    "name": "Meltdown PvP",
+    "addresses": [
+        "meltdownpvp.net"
+    ],
+    "primaryAddress": "mc.meltdownpvp.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#b11dc2",
+    "secondaryColor": "#35073b",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Factions",
+        "Survival"
+    ],
+    "website": "https://meltdownpvp.net",
+    "store": "https://tienda.meltdownpvp.net",
+    "socials": {
+        "discord": "https://discord.gg/YsnuwmabHb"
+    }
+}

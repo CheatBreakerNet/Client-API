@@ -1,0 +1,37 @@
+{
+    "id": "guildcraft",
+    "name": "GuildCraft",
+    "addresses": [
+        "guildcraft.net",
+        "guildcraft.nl"
+    ],
+    "primaryAddress": "play.guildcraft.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#C89A3C",
+    "secondaryColor": "#2F6F73",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "SkyBlock",
+        "Prison"
+    ],
+    "website": "https://guildcraft.net",
+    "store": "https://store.guildcraft.net",
+    "socials": {
+        "discord": "https://discord.com/invite/guildcraft",
+        "tiktok": "@guildcraft",
+        "twitter": "netguildcraft",
+        "instagram": "guildcraftmc",
+        "youtube": "https://www.youtube.com/@guildcraftnetwork"
+    }
+}

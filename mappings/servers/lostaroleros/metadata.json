@@ -1,0 +1,35 @@
+{
+    "id": "lostaroleros",
+    "name": "LosTaroleros Network",
+    "addresses": [
+        "lostaroleros.com",
+        "lostaroleros.net"
+    ],
+    "primaryAddress": "mc.lostaroleros.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00C1FF",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "SkyBlock",
+        "PvP"
+    ],
+    "website": "https://lostaroleros.com",
+    "store": "https://tienda.lostaroleros.com",
+    "socials": {
+        "twitter": "LosTarolerosMC",
+        "discord": "https://discord.gg/comunidad-tarolera-1229817169693511710"
+    }
+}

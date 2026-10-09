@@ -1,0 +1,30 @@
+{
+    "id": "faynl",
+    "name": "Faynl",
+    "description": "A bunch of fun gamemodes to enjoy",
+    "addresses": [
+        "faynl.ru"
+    ],
+    "primaryAddress": "mc.faynl.ru",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#0000FF",
+    "secondaryColor": "#00FFFF",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "website": "https://faynl.ru/",
+    "store": "https://shop.faynl.ru/#shop",
+    "socials": {
+        "discord": "https://discord.gg/KyKGu48UXf",
+        "telegram": "faynlru"
+    }
+}

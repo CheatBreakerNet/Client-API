@@ -1,0 +1,27 @@
+{
+    "id": "minekeo",
+    "name": "MINEKEO",
+    "description": "Play Survival, Skyblock, and more on MINEKEO.",
+    "addresses": [
+        "minekeo.com"
+    ],
+    "primaryAddress": "sv.minekeo.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f2c6de",
+    "secondaryColor": "#ffffff",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Survival",
+        "SkyBlock",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/minekeo"
+    }
+}

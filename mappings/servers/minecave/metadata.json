@@ -1,0 +1,25 @@
+{
+    "id": "minecave",
+    "name": "MineCave",
+    "description": "Play Survival and PvP on MineCave.",
+    "addresses": [
+        "minecave.in",
+        "minecave.org"
+    ],
+    "primaryAddress": "play.minecave.org",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#b87d00",
+    "secondaryColor": "#0a0700",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "store": "https://store.minecave.org"
+}

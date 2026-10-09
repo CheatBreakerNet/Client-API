@@ -1,0 +1,33 @@
+{
+    "id": "chickennw",
+    "name": "chickennw",
+    "description": "Play Skyblock, PvP, and more on chickennw.",
+    "addresses": [
+        "chickennw.com"
+    ],
+    "primaryAddress": "oyna.chickennw.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fe3e29",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "tr",
+    "languages": [
+        "tr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "SkyBlock",
+        "PvP",
+        "Survival"
+    ],
+    "website": "https://chickennw.com/",
+    "store": "https://chickennw.com/magaza",
+    "socials": {
+        "discord": "https://discord.com/invite/3m7kj6Jr6f"
+    }
+}

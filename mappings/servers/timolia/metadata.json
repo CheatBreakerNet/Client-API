@@ -1,0 +1,35 @@
+{
+    "id": "timolia",
+    "name": "Timolia",
+    "description": "Play PvP, UHC, and more on Timolia.",
+    "addresses": [
+        "timolia.de"
+    ],
+    "primaryAddress": "timolia.de",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f4d7b0",
+    "secondaryColor": "#23365b",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC",
+        "Minigames"
+    ],
+    "website": "https://www.timolia.de/",
+    "store": "https://shop.timolia.de/",
+    "socials": {
+        "twitter": "TimoliaTeam",
+        "discord": "https://discord.com/invite/Q55FujN",
+        "youtube": "Timolia",
+        "reddit": "timolia",
+        "tiktok": "@timolianetwork",
+        "facebook": "timoliamc",
+        "instagram": "timolianetwork"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "vitalymc",
+    "name": "VitalyMC",
+    "addresses": [
+        "vitalymc.com.br"
+    ],
+    "primaryAddress": "vitalymc.com.br",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#098F16",
+    "secondaryColor": "#39DB4D",
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "store": "https://loja.vitalymc.com.br",
+    "socials": {
+        "discord": "https://discord.gg/sd9rmYSMZC"
+    }
+}

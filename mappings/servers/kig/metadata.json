@@ -1,0 +1,36 @@
+{
+    "id": "kig",
+    "name": "KIG Network",
+    "addresses": [
+        "playkig.com",
+        "hive.rip",
+        "cai.rip",
+        "timv.rip",
+        "timv.ing",
+        "playkig.net",
+        "troubleinmineville.com"
+    ],
+    "primaryAddress": "mc.playkig.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#0b173d",
+    "secondaryColor": "#d0a003",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Roleplay"
+    ],
+    "website": "https://playkig.com/",
+    "store": "https://store.playkig.com/",
+    "socials": {
+        "twitter": "kignetwork",
+        "discord": "https://discord.com/invite/gYJaRRV",
+        "youtube": "UCvyq5B5hzk0gX_TEzFQ2vjA"
+    }
+}

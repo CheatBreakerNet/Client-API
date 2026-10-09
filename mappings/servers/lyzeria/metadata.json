@@ -1,0 +1,32 @@
+{
+    "id": "lyzeria",
+    "name": "Lyzeria",
+    "description": "Lyzeria PvP-Faction V5 SOON !",
+    "addresses": [
+        "lyzeria.fr"
+    ],
+    "primaryAddress": "play.lyzeria.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#EDEDED",
+    "secondaryColor": "#EE6C13",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Factions"
+    ],
+    "website": "https://lyzeria.net/",
+    "store": "https://lyzeria.fr/shop/categories/credit",
+    "socials": {
+        "discord": "https://discord.gg/invite/5XNG6RB7P8"
+    }
+}

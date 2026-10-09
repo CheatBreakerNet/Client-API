@@ -1,0 +1,27 @@
+{
+    "id": "redmcfr",
+    "name": "REDMC",
+    "description": "Play Minigames and PvP on REDMC.",
+    "addresses": [
+        "redmc.fr"
+    ],
+    "primaryAddress": "play.redmc.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FF0000",
+    "secondaryColor": "#FFFFFF",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "store": "https://redmc.fr/shop",
+    "socials": {
+        "discord": "https://discord.com/invite/26cVtwCjp5"
+    }
+}

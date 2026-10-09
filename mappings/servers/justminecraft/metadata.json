@@ -1,0 +1,26 @@
+{
+    "id": "justminecraft",
+    "name": "JustMinecraft",
+    "addresses": [
+        "justminecraft.net"
+    ],
+    "primaryAddress": "justminecraft.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FEA902",
+    "secondaryColor": "#0b0b0b",
+    "gameTypes": [
+        "Survival",
+        "Creative",
+        "Parkour"
+    ],
+    "website": "https://www.justminecraft.net",
+    "store": "https://justminecraft.buycraft.net",
+    "socials": {
+        "twitter": "JustMCNetwork",
+        "discord": "https://discord.gg/9yVPbah",
+        "youtube": "https://www.youtube.com/@justminecraft5483"
+    }
+}

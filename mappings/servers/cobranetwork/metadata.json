@@ -3,7 +3,8 @@
     "name": "Cobra Network",
     "description": "Home to Cobra Custom Teams",
     "addresses": [
-        "cobra.gg"
+        "cobra.gg",
+        "cobranetwork.net"
     ],
     "primaryAddress": "cobra.gg",
     "minecraftVersions": [

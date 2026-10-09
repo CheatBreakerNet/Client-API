@@ -1,0 +1,25 @@
+{
+    "id": "irisrbw",
+    "name": "iRis Ranked",
+    "addresses": [
+        "irismc.ir"
+    ],
+    "primaryAddress": "play.irismc.ir",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#000000",
+    "secondaryColor": "#1a1a1a",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/n8FrrQJYm6"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "zephiral",
+    "name": "Zephiral",
+    "description": "An Italian Java Edition Minecraft server",
+    "addresses": [
+        "zephiral.net"
+    ],
+    "primaryAddress": "mc.zephiral.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#0047AB",
+    "secondaryColor": "#F7802D",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "store": "https://shop.zephiral.net/",
+    "socials": {
+        "telegram": "zephiralmc"
+    }
+}

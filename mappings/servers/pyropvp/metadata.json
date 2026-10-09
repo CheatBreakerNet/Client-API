@@ -1,0 +1,27 @@
+{
+    "id": "pyropvp",
+    "name": "PyroPvP",
+    "description": "Test your combat skills on PyroPvP.",
+    "addresses": [
+        "pyropvp.com"
+    ],
+    "primaryAddress": "pyropvp.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffaa00",
+    "secondaryColor": "#000000",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://pyropvp.com/",
+    "socials": {
+        "discord": "https://discord.gg/jW9ZzG94fA"
+    }
+}

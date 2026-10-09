@@ -1,0 +1,30 @@
+{
+    "id": "skycraft",
+    "name": "Skycraft",
+    "description": "Play Survival, Minigames, and more on Skycraft.",
+    "addresses": [
+        "skycraft.es"
+    ],
+    "primaryAddress": "skycraft.es",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f7f7f7",
+    "secondaryColor": "#181818",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "PvP"
+    ],
+    "website": "http://skycraft.es/",
+    "store": "https://store.skycraft.es/",
+    "socials": {
+        "twitter": "SkyCraftES",
+        "discord": "https://discord.com/invite/4qAD3fu2"
+    }
+}

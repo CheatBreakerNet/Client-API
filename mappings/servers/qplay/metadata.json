@@ -1,0 +1,30 @@
+{
+    "id": "qplay",
+    "name": "QPlay",
+    "description": "Experience survival gameplay on QPlay.",
+    "addresses": [
+        "qplay.cz"
+    ],
+    "primaryAddress": "mc.qplay.cz",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ef5353",
+    "secondaryColor": "#363535",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "website": "https://qplay.cz/",
+    "store": "https://store.qplay.cz/",
+    "socials": {
+        "discord": "https://discord.com/invite/5c68GMB",
+        "youtube": "qplaycz",
+        "instagram": "qplaycz",
+        "facebook": "QPlay.cz"
+    }
+}

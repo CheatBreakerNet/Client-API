@@ -1,0 +1,31 @@
+{
+    "id": "renatusnetwork",
+    "name": "Renatus Network",
+    "description": "Minecraft server around since 2012.",
+    "addresses": [
+        "renatusnetwork.com"
+    ],
+    "primaryAddress": "mc.renatusnetwork.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ca392a",
+    "secondaryColor": "#08a6d2",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Creative",
+        "Parkour"
+    ],
+    "website": "https://renatusnetwork.com/",
+    "store": "https://store.renatusnetwork.com/",
+    "socials": {
+        "twitter": "renatusmc",
+        "discord": "https://discord.com/invite/uEy5bgD",
+        "youtube": "renatusnetwork4638"
+    }
+}

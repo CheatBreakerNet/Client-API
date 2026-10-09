@@ -1,0 +1,28 @@
+{
+    "id": "pvpsurge",
+    "name": "PvPSurge",
+    "description": "Play Factions and PvP on PvPSurge.",
+    "addresses": [
+        "pvpsurge.net"
+    ],
+    "primaryAddress": "play.pvpsurge.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#1d87f1",
+    "secondaryColor": "#3ab3da",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "website": "https://pvpsurge.net/",
+    "store": "https://store.pvpsurge.net/",
+    "socials": {
+        "discord": "https://discord.com/invite/pvpsurge"
+    }
+}

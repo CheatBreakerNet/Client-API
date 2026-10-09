@@ -1,0 +1,33 @@
+{
+    "id": "ognetwork",
+    "name": "OG Network",
+    "description": "Play Survival, Minigames, and more on OG Network.",
+    "addresses": [
+        "og-network.net",
+        "og-sg.net",
+        "ognetwork.net",
+        "og-factions.net"
+    ],
+    "primaryAddress": "og-network.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#65bf75",
+    "secondaryColor": "#cccccb",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "Factions"
+    ],
+    "website": "https://www.og-network.net/",
+    "store": "https://shop.og-network.net/",
+    "socials": {
+        "twitter": "playognetwork",
+        "discord": "https://discord.com/invite/UFDP3QXq5H"
+    }
+}

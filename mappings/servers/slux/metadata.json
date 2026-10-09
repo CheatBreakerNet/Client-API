@@ -1,0 +1,28 @@
+{
+    "id": "slux",
+    "name": "Slux Network",
+    "addresses": [
+        "slux.cz"
+    ],
+    "primaryAddress": "mc.slux.cz",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#c31432",
+    "secondaryColor": "#c31432",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://slux.cz/",
+    "store": "https://store.slux.cz/",
+    "socials": {
+        "discord": "https://discord.com/invite/DmU49XwUzF",
+        "instagram": "slux.cz"
+    }
+}

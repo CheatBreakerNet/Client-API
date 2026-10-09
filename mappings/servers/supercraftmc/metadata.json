@@ -1,0 +1,32 @@
+{
+    "id": "supercraftmc",
+    "name": "SuperCraft",
+    "description": "Play Minigames, Prison, and more on SuperCraft.",
+    "addresses": [
+        "supercraftmc.it"
+    ],
+    "primaryAddress": "supercraftmc.it",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00AAAA",
+    "secondaryColor": "#55FFFF",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Prison",
+        "SkyBlock"
+    ],
+    "website": "https://www.supercraftmc.it",
+    "socials": {
+        "discord": "https://discord.com/invite/j3B2gHXRVZ"
+    }
+}

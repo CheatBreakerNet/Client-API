@@ -1,0 +1,33 @@
+{
+    "id": "imperium",
+    "name": "Imperium",
+    "description": "Come and check out our server!",
+    "addresses": [
+        "rede-imperium.com"
+    ],
+    "primaryAddress": "rede-imperium.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ed5ae2",
+    "secondaryColor": "#53004d",
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR",
+        "pt-PT"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Minigames"
+    ],
+    "store": "https://loja.rede-imperium.com",
+    "socials": {
+        "discord": "https://discord.com/invite/xjpH98hSMT"
+    }
+}

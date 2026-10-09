@@ -1,0 +1,25 @@
+{
+    "id": "buildersrefuge",
+    "name": "Builder's Refuge",
+    "addresses": [
+        "buildersrefuge.com"
+    ],
+    "primaryAddress": "mc.buildersrefuge.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#222222",
+    "secondaryColor": "#4ab7c3",
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://www.buildersrefuge.com",
+    "store": "https://store.buildersrefuge.com",
+    "socials": {
+        "twitter": "BuildersRefuge",
+        "discord": "https://discord.com/invite/8tPxEVtB",
+        "youtube": "https://www.youtube.com/buildersrefuge"
+    }
+}

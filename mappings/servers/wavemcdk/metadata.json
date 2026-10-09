@@ -1,0 +1,28 @@
+{
+    "id": "wavemcdk",
+    "name": "WaveMC",
+    "description": "Play Prison and Roleplay on WaveMC.",
+    "addresses": [
+        "wavemc.dk"
+    ],
+    "primaryAddress": "wavemc.dk",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#97e657",
+    "secondaryColor": "#4a494d",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Prison",
+        "Roleplay"
+    ],
+    "website": "https://wavemc.dk/",
+    "store": "https://butik.wavemc.dk/",
+    "socials": {
+        "discord": "https://discord.com/invite/unicmc-net-756917719357587558"
+    }
+}

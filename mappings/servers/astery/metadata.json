@@ -1,0 +1,30 @@
+{
+    "id": "astery",
+    "name": "Astery",
+    "description": "Play HCF, PvP, and more on Astery.",
+    "addresses": [
+        "astery.us"
+    ],
+    "primaryAddress": "astery.us",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#61bff7",
+    "secondaryColor": "#bfe5fc",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "HCF",
+        "PvP",
+        "Survival"
+    ],
+    "store": "https://store.astery.us",
+    "socials": {
+        "twitter": "AsteryNw",
+        "discord": "https://discord.gg/J7tqPCs4Uh"
+    }
+}

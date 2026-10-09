@@ -1,0 +1,30 @@
+{
+    "id": "elarismc",
+    "name": "ElarisMC",
+    "addresses": [
+        "blockpvp.fr"
+    ],
+    "primaryAddress": "blockpvp.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#EFABD0",
+    "secondaryColor": "#FF52AF",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://blockpvp.fr",
+    "socials": {
+        "discord": "https://discord.gg/elarismc"
+    }
+}

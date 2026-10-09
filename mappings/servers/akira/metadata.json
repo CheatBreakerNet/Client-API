@@ -1,0 +1,38 @@
+{
+    "id": "akira",
+    "name": "AKIRA",
+    "description": "Play UHC, Minigames, and more on AKIRA.",
+    "addresses": [
+        "akiramc.fr",
+        "akiramc.net"
+    ],
+    "primaryAddress": "akiramc.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFAA00",
+    "secondaryColor": "#FFFF55",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr",
+        "en",
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "UHC",
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://akiramc.net",
+    "store": "https://akiramc.net/store",
+    "socials": {
+        "twitter": "AkiraServ",
+        "discord": "https://discord.com/invite/akiramc"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "id": "imineplex",
+    "name": "iMinePlex",
+    "description": "Play Minigames and PvP on iMinePlex.",
+    "addresses": [
+        "imineplex.ir"
+    ],
+    "primaryAddress": "play.imineplex.ir",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#15e052",
+    "secondaryColor": "#82c295",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/uz7SmGQYWr",
+        "youtube": "@imineplex"
+    }
+}

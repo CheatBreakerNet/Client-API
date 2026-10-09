@@ -1,0 +1,31 @@
+{
+    "id": "senorpollo",
+    "name": "SenorPollo Netzwerk",
+    "addresses": [
+        "senorpollo.net"
+    ],
+    "primaryAddress": "senorpollo.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#9B865A",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Creative",
+        "Survival"
+    ],
+    "website": "https://senorpollo.net",
+    "socials": {
+        "discord": "https://discord.com/invite/vCBdMbPmc9",
+        "youtube": "https://www.youtube.com/@senor_pollo"
+    }
+}

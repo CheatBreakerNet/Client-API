@@ -1,0 +1,31 @@
+{
+    "id": "acmc",
+    "name": "acmc",
+    "description": "Play Minigames, PvP, and more on acmc.",
+    "addresses": [
+        "acmc.pl"
+    ],
+    "primaryAddress": "acmc.pl",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#0ab0b1",
+    "secondaryColor": "#bbbbbb",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "SkyBlock"
+    ],
+    "website": "https://acmc.pl/p10",
+    "store": "https://acmc.pl/offer",
+    "socials": {
+        "discord": "https://discord.com/invite/acmc",
+        "tiktok": "@acmc.pl",
+        "facebook": "ACMCPL"
+    }
+}

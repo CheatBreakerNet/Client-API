@@ -1,0 +1,33 @@
+{
+    "id": "emeraldcraft",
+    "name": "EmeraldCraft Network",
+    "description": "The best South-American Minecraft server",
+    "addresses": [
+        "emeraldcraft.com.ar"
+    ],
+    "primaryAddress": "mc.emeraldcraft.com.ar",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00ff11",
+    "secondaryColor": "#008a09",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "pt-BR"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Prison"
+    ],
+    "website": "https://emeraldcraftarg.buycraft.net/",
+    "store": "https://emeraldcraftarg.buycraft.net/",
+    "socials": {
+        "discord": "https://discord.gg/U2UJdpvNHS"
+    }
+}

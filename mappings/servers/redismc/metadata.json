@@ -1,0 +1,35 @@
+{
+    "id": "redismc",
+    "name": "RedisMC",
+    "addresses": [
+        "redismc.net",
+        "redismc.it"
+    ],
+    "primaryAddress": "play.redismc.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FF0000",
+    "secondaryColor": "#D98A8A",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "SkyBlock",
+        "Prison"
+    ],
+    "website": "http://redismc.it",
+    "store": "https://store.redismc.it",
+    "socials": {
+        "discord": "https://discord.gg/redismc",
+        "youtube": "@redismc2",
+        "tiktok": "@redismc.network"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "id": "cursefight",
+    "name": "CurseFight",
+    "description": "Play Factions and PvP on CurseFight.",
+    "addresses": [
+        "cursefight.fr"
+    ],
+    "primaryAddress": "play.cursefight.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#0fff04",
+    "secondaryColor": "#ffc500",
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "website": "https://cursefight.fr/",
+    "store": "https://cursefight.fr/shop",
+    "socials": {
+        "discord": "https://discord.com/invite/cursefight"
+    }
+}

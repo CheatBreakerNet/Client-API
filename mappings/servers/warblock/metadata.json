@@ -1,0 +1,33 @@
+{
+    "id": "warblock",
+    "name": "Warblock",
+    "description": "Play PvP, Minigames, and more on Warblock.",
+    "addresses": [
+        "warblock.fr"
+    ],
+    "primaryAddress": "warblock.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#5BC3FF",
+    "secondaryColor": "#0C0B21",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "UHC"
+    ],
+    "website": "https://warblock.fr/",
+    "store": "https://warblock.fr/shop/",
+    "socials": {
+        "discord": "https://discord.gg/swBxDWEMqH"
+    }
+}

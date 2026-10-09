@@ -1,0 +1,33 @@
+{
+    "id": "mineriseco",
+    "name": "MINERISECO",
+    "description": "Play Skyblock, Factions, and more on MINERISECO.",
+    "addresses": [
+        "mineriseco.net"
+    ],
+    "primaryAddress": "play.mineriseco.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fe3e29",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "tr",
+    "languages": [
+        "tr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "SkyBlock",
+        "Factions",
+        "Survival"
+    ],
+    "website": "https://mineriseco.net/",
+    "store": "https://mineriseco.net/store",
+    "socials": {
+        "discord": "https://discord.gg/mineriseco"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "vortexnetwork",
+    "name": "Vortex Network",
+    "addresses": [
+        "vortexnetwork.net"
+    ],
+    "primaryAddress": "mc.vortexnetwork.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#d03030",
+    "secondaryColor": "#f48c27",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "SkyBlock",
+        "Prison",
+        "Survival"
+    ],
+    "website": "https://vortexnetwork.net/",
+    "store": "https://buy.vortexnetwork.net/",
+    "socials": {
+        "twitter": "VortexPvP",
+        "discord": "https://discord.gg/mc",
+        "tiktok": "@thevortexnetwork"
+    }
+}

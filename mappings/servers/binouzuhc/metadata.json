@@ -1,0 +1,28 @@
+{
+    "id": "binouzuhc",
+    "name": "BinouzUHC",
+    "description": "Play UHC, Minigames, and more on BinouzUHC.",
+    "addresses": [
+        "binouzuhc.eu"
+    ],
+    "primaryAddress": "play.binouzuhc.eu",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FCDE00",
+    "secondaryColor": "#FC8D00",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "UHC",
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "BINOUZUHC",
+        "discord": "https://discord.gg/MGgZ9ZUAuR"
+    }
+}

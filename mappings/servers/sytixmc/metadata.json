@@ -1,0 +1,24 @@
+{
+    "id": "sytixmc",
+    "name": "Sytix Network",
+    "addresses": [
+        "sytix.cc"
+    ],
+    "primaryAddress": "sytix.cc",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#009999",
+    "secondaryColor": "#00FFFF",
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "store": "https://sytix.tebex.io/",
+    "socials": {
+        "discord": "https://discord.com/invite/swJRpcNae2"
+    }
+}

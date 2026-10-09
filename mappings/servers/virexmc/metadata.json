@@ -1,0 +1,35 @@
+{
+    "id": "virexmc",
+    "name": "VirexMC",
+    "description": "Home of SUPER FUN minigames!",
+    "addresses": [
+        "virexmc.com"
+    ],
+    "primaryAddress": "virexmc.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#3fc4d1",
+    "secondaryColor": "#394047",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "ar"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Creative"
+    ],
+    "store": "https://store.virexmc.com",
+    "socials": {
+        "discord": "https://discord.gg/XK",
+        "youtube": "PlayVirexMC",
+        "twitter": "PlayVirexMC"
+    }
+}

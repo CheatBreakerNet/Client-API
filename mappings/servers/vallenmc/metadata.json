@@ -1,0 +1,30 @@
+{
+    "id": "vallenmc",
+    "name": "VallenMC",
+    "description": "Play PvP and Minigames on VallenMC.",
+    "addresses": [
+        "vallenmc.net",
+        "vallenmc.com"
+    ],
+    "primaryAddress": "vallenmc.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f7cf47",
+    "secondaryColor": "#f9fafb",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://vallenmc.net/",
+    "store": "https://vallenmc.net/store",
+    "socials": {
+        "discord": "https://discord.com/invite/vallenmc"
+    }
+}

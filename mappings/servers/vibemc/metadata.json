@@ -1,0 +1,37 @@
+{
+    "id": "vibemc",
+    "name": "VibeMC",
+    "description": "Home of Competitive Minecraft Survival",
+    "addresses": [
+        "vibemc.ro"
+    ],
+    "primaryAddress": "vibemc.ro",
+    "minecraftVersions": [
+        "1.7.*"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "website": "https://www.vibemc.ro",
+    "store": "https://store.vibemc.ro",
+    "socials": {
+        "twitter": "vibemc",
+        "telegram": "vibemc",
+        "discord": "https://discord.gg/vibemc"
+    }
+}

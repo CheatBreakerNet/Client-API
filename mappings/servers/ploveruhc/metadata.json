@@ -1,0 +1,30 @@
+{
+    "id": "ploveruhc",
+    "name": "PloverUHC",
+    "addresses": [
+        "ploveruhc.live"
+    ],
+    "primaryAddress": "ploveruhc.live",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00adfc",
+    "secondaryColor": "#00fcfc",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/PRpmz9MY",
+        "twitter": "@PloverUHC"
+    }
+}

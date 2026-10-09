@@ -1,0 +1,41 @@
+{
+    "id": "comugamers",
+    "name": "ComuGamers Network",
+    "description": "Your online community.",
+    "addresses": [
+        "comugamers.net",
+        "comugamers.com",
+        "comugamers.eu",
+        "comugamers.org",
+        "cgm.rs",
+        "edaters.network"
+    ],
+    "primaryAddress": "mc.comugamers.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#026694",
+    "secondaryColor": "#f6f6f7",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "en",
+        "es-EN",
+        "fr"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Survival"
+    ],
+    "website": "https://www.comugamers.com/",
+    "store": "https://store.comugamers.com/",
+    "socials": {
+        "twitter": "ComuGamers",
+        "discord": "https://discord.com/invite/D4YRQ9R",
+        "youtube": "UCEThoQ97WEDd4cVUnv3gYjw",
+        "instagram": "comugamers",
+        "facebook": "ComuGamers",
+        "tiktok": "@comugamers"
+    }
+}

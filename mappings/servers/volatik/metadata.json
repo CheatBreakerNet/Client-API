@@ -1,0 +1,28 @@
+{
+    "id": "volatik",
+    "name": "Volatik Network",
+    "description": "Play Survival and PvP on Volatik Network.",
+    "addresses": [
+        "volatik.net"
+    ],
+    "primaryAddress": "volatik.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e5b624",
+    "secondaryColor": "#189a3d",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "store": "https://tienda.volatik.net/",
+    "socials": {
+        "discord": "https://discord.gg/BwMZ839",
+        "youtube": "UCRxQxzLjr4tZApEsSTwLd-w"
+    }
+}

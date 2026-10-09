@@ -1,0 +1,33 @@
+{
+    "id": "archipelago",
+    "name": "Archipelago Network",
+    "addresses": [
+        "archipelago.top"
+    ],
+    "primaryAddress": "archipelago.top",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#0BB0FF",
+    "secondaryColor": "#06D6A0",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://www.archipelago.top",
+    "store": "https://store.archipelago.top",
+    "socials": {
+        "discord": "https://discord.gg/archipelago-network",
+        "tiktok": "@archipelago_network"
+    }
+}

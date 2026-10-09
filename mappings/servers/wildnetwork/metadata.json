@@ -1,0 +1,32 @@
+{
+    "id": "wildnetwork",
+    "name": "WildNetwork",
+    "description": "The Gold Standard for Minecraft OP Prison",
+    "addresses": [
+        "wildnetwork.net",
+        "wildprison.net"
+    ],
+    "primaryAddress": "play.wildnetwork.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f3cb0b",
+    "secondaryColor": "#dce3ec",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Prison",
+        "SkyBlock",
+        "Survival"
+    ],
+    "website": "https://wildnetwork.net/",
+    "store": "https://store.wildprison.net/",
+    "socials": {
+        "twitter": "wild_prison",
+        "discord": "https://discord.gg/WildPrison",
+        "youtube": "https://www.youtube.com/@WildPrison"
+    }
+}

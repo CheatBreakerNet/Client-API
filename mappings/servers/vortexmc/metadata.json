@@ -1,0 +1,34 @@
+{
+    "id": "vortexmc",
+    "name": "VortexMC",
+    "addresses": [
+        "vortexmc.it"
+    ],
+    "primaryAddress": "play.vortexmc.it",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#5c00e6",
+    "secondaryColor": "#00C8FF",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Survival"
+    ],
+    "website": "https://www.vortexmc.it/",
+    "store": "https://store.vortexmc.it/",
+    "socials": {
+        "discord": "https://discord.com/invite/RF4HAbQ3bK",
+        "instagram": "play.vortexmc.it",
+        "tiktok": "@vortexmc.it"
+    }
+}

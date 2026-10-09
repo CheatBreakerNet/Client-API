@@ -1,0 +1,34 @@
+{
+    "id": "gladmc",
+    "name": "GladMC",
+    "description": "Play Minigames and PvP on GladMC.",
+    "addresses": [
+        "gladmc.com",
+        "gladmc.com.br"
+    ],
+    "primaryAddress": "jogar.gladmc.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fe9800",
+    "secondaryColor": "#713c25",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://gladmc.com/",
+    "store": "https://gladmc.com/loja/",
+    "socials": {
+        "twitter": "GladMC_",
+        "discord": "https://discord.com/invite/aAy9VU3m6b",
+        "youtube": "GladMCOficial",
+        "instagram": "gladmc_",
+        "tiktok": "GladMC_",
+        "facebook": "100083393225242"
+    }
+}

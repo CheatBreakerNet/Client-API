@@ -1,0 +1,33 @@
+{
+    "id": "reventox",
+    "name": "Reventox.net",
+    "addresses": [
+        "reventox.net"
+    ],
+    "primaryAddress": "play.reventox.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#181848",
+    "secondaryColor": "#181848",
+    "primaryLanguage": "de",
+    "languages": [
+        "de",
+        "en",
+        "pl"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "tiktok": "reventoxnet",
+        "youtube": "https://www.youtube.com/@Reventox",
+        "discord": "https://discord.gg/fcHQ7wGx82"
+    }
+}

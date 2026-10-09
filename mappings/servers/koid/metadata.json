@@ -1,0 +1,32 @@
+{
+    "id": "koid",
+    "name": "Koid",
+    "description": "Your Practice & Hardcore Games Network!",
+    "addresses": [
+        "koid.live"
+    ],
+    "primaryAddress": "koid.live",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#F54927",
+    "secondaryColor": "#FF7400",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://koid.live/",
+    "socials": {
+        "discord": "https://discord.gg/c9hdtcZmMR"
+    }
+}

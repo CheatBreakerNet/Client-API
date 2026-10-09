@@ -1,0 +1,28 @@
+{
+    "id": "ravenmc",
+    "name": "RavenMC Network",
+    "description": "Play Minigames, PvP, and more on RavenMC Network.",
+    "addresses": [
+        "ravenmc.net"
+    ],
+    "primaryAddress": "ravenmc.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#D6C700",
+    "secondaryColor": "#FFFFFF",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "store": "https://ravenmc.tebex.io",
+    "socials": {
+        "discord": "https://discord.gg/ftJG3KcafC"
+    }
+}

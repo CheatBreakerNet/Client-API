@@ -1,0 +1,36 @@
+{
+    "id": "akumamc",
+    "name": "AkumaMC",
+    "addresses": [
+        "akumamc.net",
+        "akumamc.com"
+    ],
+    "primaryAddress": "akumamc.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffbc28",
+    "secondaryColor": "#80573c",
+    "primaryRegion": "NA",
+    "regions": [
+        "AF",
+        "AS",
+        "EU",
+        "NA",
+        "OC",
+        "SA"
+    ],
+    "gameTypes": [
+        "Prison",
+        "SkyBlock"
+    ],
+    "website": "https://akumamc.net/",
+    "store": "https://store.akumamc.net/",
+    "socials": {
+        "twitter": "AkumaMC_Net",
+        "discord": "https://discord.gg/akumamc",
+        "youtube": "@AkumaMCNet",
+        "tiktok": "playakuma"
+    }
+}

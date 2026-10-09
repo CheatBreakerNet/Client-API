@@ -1,0 +1,33 @@
+{
+    "id": "onyxcraft",
+    "name": "OnyxCraft",
+    "description": "Where the Minecraft experience evolves..",
+    "addresses": [
+        "onyxcraft.net"
+    ],
+    "primaryAddress": "play.onyxcraft.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FF0000",
+    "secondaryColor": "#FF6B6B",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "Prison"
+    ],
+    "website": "https://www.onyxcraft.net/",
+    "store": "https://tienda.onyxcraft.net/",
+    "socials": {
+        "discord": "https://discord.gg/UxZkgZeBQ6"
+    }
+}

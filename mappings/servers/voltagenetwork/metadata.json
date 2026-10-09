@@ -1,0 +1,36 @@
+{
+    "id": "voltagenetwork",
+    "name": "Voltage MC",
+    "description": "VoltageMC - Practice & FFA",
+    "addresses": [
+        "voltagemc.club"
+    ],
+    "primaryAddress": "voltagemc.club",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFFFFF",
+    "secondaryColor": "#FFFF55",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://www.voltagemc.club",
+    "store": "https://store.voltagemc.club",
+    "socials": {
+        "discord": "https://discord.com/invite/Zxawrf4R5W"
+    }
+}

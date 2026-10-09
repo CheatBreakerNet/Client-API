@@ -1,0 +1,37 @@
+{
+    "id": "pvpgym",
+    "name": "PvPGym",
+    "description": "The Competitive Network",
+    "addresses": [
+        "pvpgym.net",
+        "uhchub.club"
+    ],
+    "primaryAddress": "pvpgym.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#02999c",
+    "secondaryColor": "#0d0604",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC"
+    ],
+    "website": "https://pvpgym.net/",
+    "store": "https://store.pvpgym.net/",
+    "socials": {
+        "twitter": "PvPGymOfficial",
+        "discord": "https://discord.gg/pvpgym",
+        "tiktok": "@pvpgym"
+    }
+}

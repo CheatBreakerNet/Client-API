@@ -1,0 +1,22 @@
+{
+    "id": "starpixel",
+    "name": "StarPixel",
+    "addresses": [
+        "starpixel.top"
+    ],
+    "primaryAddress": "play.starpixel.top",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fcfc03",
+    "secondaryColor": "#fca103",
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Adventure"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/mAjED6T3"
+    }
+}

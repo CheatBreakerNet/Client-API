@@ -1,0 +1,30 @@
+{
+    "id": "elysiamc",
+    "name": "ElysiaMC",
+    "description": "French Minecraft PvP server",
+    "addresses": [
+        "elysiamc.fr"
+    ],
+    "primaryAddress": "play.elysiamc.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#b5149a",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/aUNW2bG3K3"
+    }
+}

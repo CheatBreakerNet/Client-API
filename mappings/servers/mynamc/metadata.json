@@ -1,0 +1,26 @@
+{
+    "id": "mynamc",
+    "name": "MynaMC",
+    "description": "Play exciting minigames on MynaMC.",
+    "addresses": [
+        "mynamc.tk"
+    ],
+    "primaryAddress": "mynamc.tk",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#55ff55",
+    "secondaryColor": "#0d3d20",
+    "primaryRegion": "OC",
+    "regions": [
+        "OC"
+    ],
+    "gameTypes": [
+        "Minigames"
+    ],
+    "store": "https://mynamc.tk/",
+    "socials": {
+        "discord": "https://discord.gg/EAvV3kc8p3"
+    }
+}

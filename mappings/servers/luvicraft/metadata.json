@@ -1,0 +1,28 @@
+{
+    "id": "luvicraft",
+    "name": "LuviCraft",
+    "description": "Play PvP and Survival on LuviCraft.",
+    "addresses": [
+        "luvicraft.net"
+    ],
+    "primaryAddress": "luvicraft.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#02dee6",
+    "secondaryColor": "#ffdd14",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "store": "https://store.luvicraft.net/",
+    "socials": {
+        "discord": "https://discord.com/invite/wqFVhqYeqN",
+        "instagram": "luvicraft_network"
+    }
+}

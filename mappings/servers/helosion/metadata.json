@@ -1,0 +1,33 @@
+{
+    "id": "helosion",
+    "name": "Helosion",
+    "description": "Play Minigames and PvP on Helosion.",
+    "addresses": [
+        "helosion.net"
+    ],
+    "primaryAddress": "play.helosion.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#CFFAFE",
+    "secondaryColor": "#0E121C",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://helosion.net/",
+    "store": "https://helosion.net/shop",
+    "socials": {
+        "twitter": "HelosionNet",
+        "discord": "https://discord.com/invite/fF3Ect7"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "pvpiq",
+    "name": "PVPIQ.PL",
+    "description": "Play PvP, PvE, and more on PVPIQ.PL.",
+    "addresses": [
+        "pvpiq.pl"
+    ],
+    "primaryAddress": "pvpiq.pl",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#d7f7ff",
+    "secondaryColor": "#e9cf71",
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "PvE",
+        "Roleplay"
+    ],
+    "website": "https://pvpiq.pl/",
+    "store": "https://pvpiq.pl/sklep/",
+    "socials": {
+        "discord": "https://discord.com/invite/dX9fkGfqKF",
+        "facebook": "PVPIQPL"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "id": "redevaison",
+    "name": "Rede Vaison",
+    "description": "Build your faction and conquer on Rede Vaison.",
+    "addresses": [
+        "redevaison.com"
+    ],
+    "primaryAddress": "redevaison.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00a2e8",
+    "secondaryColor": "#3e48cc",
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Factions"
+    ],
+    "website": "https://redevaison.com/",
+    "store": "https://redevaison.com/itens"
+}

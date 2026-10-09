@@ -1,0 +1,27 @@
+{
+    "id": "penguin",
+    "name": "Penguin",
+    "description": "Play Survival and Skyblock on Penguin.",
+    "addresses": [
+        "penguin.gg"
+    ],
+    "primaryAddress": "play.penguin.gg",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffab02",
+    "secondaryColor": "#1f1f1f",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "SkyBlock"
+    ],
+    "store": "https://store.penguin.gg/",
+    "socials": {
+        "discord": "https://discord.com/invite/PMhBuPbRav"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "lotoos",
+    "name": "LoTooS",
+    "addresses": [
+        "lotoos.de"
+    ],
+    "primaryAddress": "lotoos.de",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FA774D",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "youtube": "https://www.youtube.com/@LoTooS",
+        "discord": "https://discord.gg/aGpMxWkwZG"
+    }
+}

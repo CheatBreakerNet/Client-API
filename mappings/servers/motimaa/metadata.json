@@ -1,0 +1,24 @@
+{
+    "id": "motimaa",
+    "name": "Motimaa",
+    "addresses": [
+        "motimaa.net"
+    ],
+    "primaryAddress": "motimaa.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#7ef42d",
+    "secondaryColor": "#53badd",
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "Creative"
+    ],
+    "website": "https://motimaa.net/",
+    "store": "https://kauppa.motimaa.net/",
+    "socials": {
+        "discord": "https://discord.com/invite/Eggb2w7"
+    }
+}

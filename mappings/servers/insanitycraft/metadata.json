@@ -1,0 +1,33 @@
+{
+    "id": "insanitycraft",
+    "name": "InsanityCraft",
+    "addresses": [
+        "insanitycraft.net"
+    ],
+    "primaryAddress": "lunar.insanitycraft.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f2c92d",
+    "secondaryColor": "#a5de55",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "SkyBlock",
+        "Factions"
+    ],
+    "website": "https://insanitycraft.net/",
+    "store": "https://store.insanitycraft.net/",
+    "socials": {
+        "twitter": "insanitycraftMC",
+        "discord": "https://discord.com/invite/X4GVwDW",
+        "youtube": "UC0oNHWiHQVnOj5ZP1zHXMEA",
+        "instagram": "insanitycraftmc",
+        "reddit": "InsanityCraftMC",
+        "tiktok": "@insanitycraft"
+    }
+}

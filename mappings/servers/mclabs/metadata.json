@@ -1,0 +1,27 @@
+{
+    "id": "mclabs",
+    "name": "MCLabs",
+    "addresses": [
+        "labs-mc.com"
+    ],
+    "primaryAddress": "play.labs-mc.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#53A1D6",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://labs-mc.com",
+    "store": "https://store.labs-mc.com",
+    "socials": {
+        "discord": "https://discord.gg/mclabs"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "arenacraft",
+    "name": "ArenaCraft",
+    "addresses": [
+        "arenacraft.it"
+    ],
+    "primaryAddress": "mc.arenacraft.it",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e85d00",
+    "secondaryColor": "#a3a3a3",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "SkyBlock"
+    ],
+    "website": "https://arenacraft.it/",
+    "store": "https://arenacraft.it/shop/browse",
+    "socials": {
+        "discord": "https://discord.com/invite/uacEZg8ufR",
+        "instagram": "arenacraft",
+        "telegram": "ArenaCraft",
+        "tiktok": "@arenacraftit"
+    }
+}

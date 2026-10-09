@@ -1,0 +1,33 @@
+{
+    "id": "eclipsia",
+    "name": "Eclipsia",
+    "description": "Eclipsia is a minigame server",
+    "addresses": [
+        "eclipsia.fr"
+    ],
+    "primaryAddress": "play.eclipsia.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#0091ff",
+    "secondaryColor": "#0091ff",
+    "primaryLanguage": "fr",
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://www.eclipsia.fr",
+    "store": "https://www.eclipsia.fr/shop",
+    "socials": {
+        "twitter": "Eclipsia_MC",
+        "discord": "https://discord.com/invite/vedzVWA",
+        "youtube": "EclipsiaMC",
+        "instagram": "eclipsia.fr",
+        "tiktok": "@eclipsia.fr"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "id": "vixtermc",
+    "name": "VixterMC",
+    "description": "Play Prison, Survival, and more on VixterMC.",
+    "addresses": [
+        "vixtermc.com"
+    ],
+    "primaryAddress": "play.vixtermc.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#cc2d2d",
+    "secondaryColor": "#fffafa",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Prison",
+        "Survival",
+        "PvP"
+    ],
+    "store": "https://vixtermc-shop.tebex.io/",
+    "socials": {
+        "discord": "https://discord.gg/DEqyN8UJbY"
+    }
+}

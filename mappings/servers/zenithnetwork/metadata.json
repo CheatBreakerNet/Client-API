@@ -1,0 +1,27 @@
+{
+    "id": "zenithnetwork",
+    "name": "Zenith Network",
+    "description": "Play PvP and Minigames on Zenith Network.",
+    "addresses": [
+        "zenithnetwork.xyz",
+        "zenithmc.fun"
+    ],
+    "primaryAddress": "zenithmc.fun",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#800080",
+    "secondaryColor": "#CBC3E3",
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://web.zenithnetwork.xyz/",
+    "store": "https://store.zenithnetwork.xyz/",
+    "socials": {
+        "discord": "https://discord.gg/zenith-mc",
+        "youtube": "zenithnetwork",
+        "tiktok": "@zenith_network"
+    }
+}

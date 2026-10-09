@@ -1,0 +1,30 @@
+{
+    "id": "minerel",
+    "name": "Minerel",
+    "description": "Play PvP, Minigames, and more on Minerel.",
+    "addresses": [
+        "minerel.net",
+        "allayrival.net"
+    ],
+    "primaryAddress": "play.minerel.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFD700",
+    "secondaryColor": "#4989f6",
+    "primaryRegion": "EU",
+    "regions": [
+        "AS",
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "PvE"
+    ],
+    "store": "https://store.minerel.net/",
+    "socials": {
+        "discord": "https://discord.com/invite/minerel"
+    }
+}

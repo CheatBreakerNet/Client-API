@@ -1,0 +1,25 @@
+{
+    "id": "muffinized",
+    "name": "Muffinized",
+    "addresses": [
+        "muffinized.net"
+    ],
+    "primaryAddress": "play.muffinized.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#4542ff",
+    "secondaryColor": "#030303",
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://muffinized.net/",
+    "store": "https://store.muffinized.net",
+    "socials": {
+        "twitter": "MuffinizedMC",
+        "youtube": "UCrQWvNyjZY8FmL9gG3QGamQ",
+        "discord": "https://discord.com/invite/XpsCQjbEst"
+    }
+}

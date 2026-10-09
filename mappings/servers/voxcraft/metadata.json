@@ -1,0 +1,31 @@
+{
+    "id": "voxcraft",
+    "name": "VoxCraft",
+    "description": "Join the best Spanish Minecraft server.",
+    "addresses": [
+        "voxcraft.us"
+    ],
+    "primaryAddress": "mc.voxcraft.us",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f6de11",
+    "secondaryColor": "#5dcce8",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "SkyBlock",
+        "Survival",
+        "PvP"
+    ],
+    "website": "https://www.voxcraft.us/",
+    "store": "https://tienda.voxcraft.us/",
+    "socials": {
+        "twitter": "VoxCraftMC",
+        "discord": "https://discord.com/invite/WcdNtgG5X6",
+        "tiktok": "@voxcraft.network"
+    }
+}

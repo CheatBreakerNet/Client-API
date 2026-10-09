@@ -1,0 +1,29 @@
+{
+    "id": "tumbleweedmc",
+    "name": "TumbleweedMC",
+    "description": "Survival/Prison hybrid, WildWest Gamemode",
+    "addresses": [
+        "tumbleweedmc.com"
+    ],
+    "primaryAddress": "tumbleweedmc.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#000000",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "website": "https://tumbleweedmc.com/",
+    "store": "https://tumbleweedmc.tebex.io/",
+    "socials": {
+        "discord": "https://discord.gg/SHdyrEe"
+    }
+}

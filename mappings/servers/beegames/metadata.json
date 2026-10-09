@@ -1,0 +1,32 @@
+{
+    "id": "beegames",
+    "name": "BeeGames",
+    "description": "Play Survival, Creative, and more on BeeGames.",
+    "addresses": [
+        "beegames.eu"
+    ],
+    "primaryAddress": "mc.beegames.eu",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e27720",
+    "secondaryColor": "#232323",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Creative",
+        "PvP"
+    ],
+    "website": "https://www.beegames.eu/",
+    "store": "https://store.beegames.eu/",
+    "socials": {
+        "discord": "https://discord.com/invite/NEEN8MkUr4",
+        "instagram": "beegames.eu",
+        "tiktok": "@beegames.eu",
+        "facebook": "beegames.eu"
+    }
+}

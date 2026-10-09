@@ -1,0 +1,33 @@
+{
+    "id": "waraccademy",
+    "name": "WarAccademy",
+    "description": "The Minecraft WarAcademy server page",
+    "addresses": [
+        "waraccademy.com",
+        "waraccademy.it"
+    ],
+    "primaryAddress": "mc.waraccademy.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff4e56",
+    "secondaryColor": "#ffffff",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "website": "https://waraccademy.com/",
+    "store": "https://store.waraccademy.com/",
+    "socials": {
+        "discord": "https://discord.com/invite/NpwZCUs7Jg",
+        "telegram": "waraccademyofficial",
+        "instagram": "waraccademyofficial"
+    }
+}

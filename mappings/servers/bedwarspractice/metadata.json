@@ -1,0 +1,30 @@
+{
+    "id": "bedwarspractice",
+    "name": "Bedwars Practice",
+    "description": "Play Minigames and PvP on Bedwars Practice.",
+    "addresses": [
+        "bedwarspractice.club",
+        "bedwarspractice.net",
+        "voxyl.net"
+    ],
+    "primaryAddress": "bedwarspractice.club",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#8C1615",
+    "secondaryColor": "#413420",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "store": "https://store.bedwarspractice.club/",
+    "socials": {
+        "twitter": "BedwarsPractice",
+        "discord": "https://discord.com/invite/TUeUnkqXnY"
+    }
+}

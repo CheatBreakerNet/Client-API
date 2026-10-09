@@ -1,0 +1,23 @@
+{
+    "id": "natifia",
+    "name": "Natifia",
+    "description": "Build your faction and conquer on Natifia.",
+    "addresses": [
+        "natifia.fr"
+    ],
+    "primaryAddress": "play.natifia.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#569a36",
+    "secondaryColor": "#ededf0",
+    "gameTypes": [
+        "Factions"
+    ],
+    "website": "https://natifia.fr/",
+    "store": "https://natifia.fr/shop",
+    "socials": {
+        "discord": "https://discord.com/invite/natifia"
+    }
+}

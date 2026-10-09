@@ -4,7 +4,8 @@
     "description": "The home of cracked Minecraft players",
     "addresses": [
         "jartexnetwork.com",
-        "jartex.fun"
+        "jartex.fun",
+        "jartexnetwork.net"
     ],
     "primaryAddress": "play.jartexnetwork.com",
     "minecraftVersions": [
@@ -30,6 +31,9 @@
     "store": "https://store.jartexnetwork.com/",
     "socials": {
         "twitter": "JartexNetwork",
-        "discord": "https://jartexnetwork.com/discord"
+        "discord": "https://jartexnetwork.com/discord",
+        "youtube": "UCfDU_v9ky0rK2Pndf5v88oA",
+        "instagram": "jartex.network",
+        "facebook": "JartexNetwork"
     }
 }

@@ -1,0 +1,30 @@
+{
+    "id": "pokehub",
+    "name": "PokeHub",
+    "description": "Immerse yourself in roleplay on PokeHub.",
+    "addresses": [
+        "pokehub.org"
+    ],
+    "primaryAddress": "play.pokehub.org",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffb05b",
+    "secondaryColor": "#413b4c",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Roleplay"
+    ],
+    "store": "https://store.pokehub.org/",
+    "socials": {
+        "discord": "https://discord.com/invite/UED6ArKr2v"
+    }
+}

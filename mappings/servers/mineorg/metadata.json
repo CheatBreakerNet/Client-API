@@ -1,0 +1,24 @@
+{
+    "id": "mineorg",
+    "name": "MineOrg",
+    "description": "MineOrg is a Minecraft mini-game server.",
+    "addresses": [
+        "mineorg.fr"
+    ],
+    "primaryAddress": "mineorg.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00BFFF",
+    "secondaryColor": "#0000FF",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://mineorg.fr"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "insertnet",
+    "name": "InsertHub",
+    "description": "Play Casually or Competitively on Insert.",
+    "addresses": [
+        "inserthub.xyz"
+    ],
+    "primaryAddress": "inserthub.xyz",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#0069fb",
+    "secondaryColor": "#0057b4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "store": "https://store.inserthub.xyz",
+    "socials": {
+        "discord": "https://discord.com/invite/rKjYQGdABN"
+    }
+}

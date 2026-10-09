@@ -1,0 +1,39 @@
+{
+    "id": "fenixmcnetwork",
+    "name": "Fenix Network",
+    "description": "Play PvP, Survival, and more on Fenix Network.",
+    "addresses": [
+        "fenixmc.net"
+    ],
+    "primaryAddress": "fenixmc.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fbac26",
+    "secondaryColor": "#fddb4c",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Roleplay"
+    ],
+    "store": "https://tienda.fenixmc.net",
+    "socials": {
+        "twitter": "fenixmcnett",
+        "discord": "https://discord.com/invite/REGvVEazT7",
+        "tiktok": "@fenixmcnet"
+    }
+}

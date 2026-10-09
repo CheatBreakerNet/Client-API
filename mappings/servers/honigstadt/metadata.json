@@ -1,0 +1,32 @@
+{
+    "id": "honigstadt",
+    "name": "Honigstadt",
+    "addresses": [
+        "honigstadt.de"
+    ],
+    "primaryAddress": "honigstadt.de",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#B57A2D",
+    "secondaryColor": "#B57A2D",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "website": "https://www.honigstadt.de",
+    "socials": {
+        "discord": "https://discord.gg/DMEKpDg28A",
+        "instagram": "honigstadt2021",
+        "youtube": "https://www.youtube.com/@honigstadt2021"
+    }
+}

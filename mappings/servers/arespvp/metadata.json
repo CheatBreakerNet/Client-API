@@ -1,0 +1,31 @@
+{
+    "id": "arespvp",
+    "name": "AresPvP",
+    "description": "Play HCF, KitMap, Practice and more on AresPvP.",
+    "addresses": [
+        "arespvp.us"
+    ],
+    "primaryAddress": "arespvp.us",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff8000",
+    "secondaryColor": "#ffff00",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "HCF",
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://arespvp.us/",
+    "store": "https://store.arespvp.us/",
+    "socials": {
+        "twitter": "arespvpnt",
+        "discord": "https://discord.com/invite/arespvp"
+    }
+}

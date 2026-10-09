@@ -1,0 +1,32 @@
+{
+    "id": "minestorm",
+    "name": "MineStorm",
+    "description": "An Iranian MineCraft Server With Best Gamemodes",
+    "addresses": [
+        "minestorm.ir"
+    ],
+    "primaryAddress": "play.minestorm.ir",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFFFFF",
+    "secondaryColor": "#00D8FF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Parkour"
+    ],
+    "website": "https://www.minestorm.ir/",
+    "socials": {
+        "discord": "https://discord.gg/vk9HTc4A",
+        "youtube": "@MineStorm10"
+    }
+}

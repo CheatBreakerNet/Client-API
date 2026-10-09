@@ -1,0 +1,36 @@
+{
+    "id": "hemerald",
+    "name": "Hemerald",
+    "addresses": [
+        "hemerald.net"
+    ],
+    "primaryAddress": "play.hemerald.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e617e2",
+    "secondaryColor": "#318fe0",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "SkyBlock"
+    ],
+    "website": "https://www.hemerald.net/",
+    "store": "https://shop.hemerald.net/",
+    "socials": {
+        "discord": "https://discord.gg/hemerald",
+        "telegram": "hemeraldnetwork",
+        "tiktok": "@hemeraldnetwork"
+    }
+}

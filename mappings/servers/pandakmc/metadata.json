@@ -1,0 +1,23 @@
+{
+    "id": "pandakmc",
+    "name": "PandakMC",
+    "description": "Build your faction and conquer on PandakMC.",
+    "addresses": [
+        "pandakmc.fr"
+    ],
+    "primaryAddress": "play.pandakmc.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#569a36",
+    "secondaryColor": "#ededf0",
+    "gameTypes": [
+        "Factions"
+    ],
+    "website": "https://pandakmc.fr/",
+    "store": "https://pandakmc.fr/shop",
+    "socials": {
+        "discord": "https://discord.com/invite/pandakmc"
+    }
+}

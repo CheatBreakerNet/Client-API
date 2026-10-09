@@ -1,0 +1,31 @@
+{
+    "id": "ttcm",
+    "name": "TLCM",
+    "addresses": [
+        "ttcm.it"
+    ],
+    "primaryAddress": "play.ttcm.it",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#0099FF",
+    "secondaryColor": "#FF0000",
+    "primaryLanguage": "it",
+    "languages": [
+        "it",
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://www.ttcm.it/",
+    "socials": {
+        "tiktok": "@tierlistcoralmc",
+        "youtube": "@TierlistCoralMC"
+    }
+}

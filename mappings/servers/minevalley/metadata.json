@@ -1,0 +1,31 @@
+{
+    "id": "minevalley",
+    "name": "MineValleyEU",
+    "addresses": [
+        "minevalley.eu",
+        "minevalley.de"
+    ],
+    "primaryAddress": "minevalley.eu",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#2C7CA3",
+    "secondaryColor": "#FFFFFF",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://minevalley.eu",
+    "socials": {
+        "discord": "https://discord.com/invite/tMBRrcfQ27",
+        "instagram": "MineValleyEU",
+        "tiktok": "MineValleyEU",
+        "youtube": "https://www.youtube.com/channel/UCinP-74-J74XJg6ijLjw5ZA",
+        "twitter": "MineValleyEU"
+    }
+}

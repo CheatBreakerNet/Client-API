@@ -1,0 +1,27 @@
+{
+    "id": "cosmixmc",
+    "name": "CosmixMC Network",
+    "description": "Explore, survive, and battle in CosmixMC Network",
+    "addresses": [
+        "cosmixmc.net"
+    ],
+    "primaryAddress": "cosmixmc.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#7C3AED",
+    "secondaryColor": "#22D3EE",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "ntcosmixmc",
+        "discord": "https://discord.gg/TBESKkUZhV"
+    }
+}

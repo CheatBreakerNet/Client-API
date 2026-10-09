@@ -1,0 +1,32 @@
+{
+    "id": "pixelmonrealms",
+    "name": "Pixelmon Realms",
+    "description": "Adventure server dedicated to Pixelmon fans!",
+    "addresses": [
+        "pixelmonrealms.com"
+    ],
+    "primaryAddress": "play.pixelmonrealms.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#beb8c3",
+    "secondaryColor": "#f4e24e",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Adventure",
+        "Roleplay"
+    ],
+    "website": "https://pixelmonrealms.com/",
+    "store": "https://store.pixelmonrealms.com/",
+    "socials": {
+        "discord": "https://discord.com/invite/pixelmonrealms"
+    }
+}

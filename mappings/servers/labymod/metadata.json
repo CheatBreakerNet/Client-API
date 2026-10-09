@@ -1,0 +1,30 @@
+{
+    "id": "labymod",
+    "name": "Laby World",
+    "addresses": [
+        "laby.net"
+    ],
+    "primaryAddress": "laby.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#45a1f7",
+    "secondaryColor": "#6ffc97",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "de"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Parkour"
+    ],
+    "website": "https://laby.net",
+    "socials": {
+        "twitter": "labymod",
+        "tiktok": "labymod",
+        "discord": "https://discord.gg/labymod"
+    }
+}

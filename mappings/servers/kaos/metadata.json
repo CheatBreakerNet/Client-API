@@ -1,0 +1,32 @@
+{
+    "id": "kaos",
+    "name": "KaosMC Network",
+    "description": "Premium PvP, Survival, and Practice gamemodes.",
+    "addresses": [
+        "kaosmc.xyz"
+    ],
+    "primaryAddress": "kaosmc.xyz",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#04c1f9",
+    "secondaryColor": "#112233",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "website": "https://kaosmc.xyz",
+    "store": "https://kaosmc.xyz",
+    "socials": {
+        "discord": "https://discord.gg/XzBGr5GVzN"
+    }
+}

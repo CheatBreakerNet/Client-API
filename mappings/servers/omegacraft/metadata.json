@@ -1,0 +1,35 @@
+{
+    "id": "omegacraft",
+    "name": "OmegaCraft",
+    "description": "Play Minigames, Prison, and more on OmegaCraft.",
+    "addresses": [
+        "omegacraft.cl"
+    ],
+    "primaryAddress": "mc.omegacraft.cl",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffff00",
+    "secondaryColor": "#80BFFF",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Prison",
+        "SkyBlock"
+    ],
+    "store": "https://tienda.omegacraft.cl/",
+    "socials": {
+        "twitter": "OmegacraftCl",
+        "discord": "https://discord.com/invite/X8AKyXV5ZB",
+        "youtube": "@OmegaInformate",
+        "tiktok": "@omegacraft_cl"
+    }
+}

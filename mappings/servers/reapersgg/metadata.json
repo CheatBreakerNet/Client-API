@@ -1,0 +1,24 @@
+{
+    "id": "reapersgg",
+    "name": "Reapers",
+    "description": "Test your combat skills on Reapers.",
+    "addresses": [
+        "reapers.gg"
+    ],
+    "primaryAddress": "reapers.gg",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ceb19e",
+    "secondaryColor": "#000000",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "store": "https://store.reapers.gg/"
+}

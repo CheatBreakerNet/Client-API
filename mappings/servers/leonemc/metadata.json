@@ -1,0 +1,28 @@
+{
+    "id": "leonemc",
+    "name": "LeoneMC",
+    "description": "Test your combat skills on LeoneMC.",
+    "addresses": [
+        "leonemc.net"
+    ],
+    "primaryAddress": "leonemc.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#8bc4f5",
+    "secondaryColor": "#fc46a8",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "store": "https://shop.leonemc.net/",
+    "socials": {
+        "discord": "https://discord.com/invite/leonemc"
+    },
+    "website": "https://leonemc.net"
+}

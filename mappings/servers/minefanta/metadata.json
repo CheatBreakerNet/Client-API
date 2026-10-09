@@ -1,0 +1,28 @@
+{
+    "id": "minefanta",
+    "name": "MineFanta",
+    "description": "Play Survival and PvP on MineFanta.",
+    "addresses": [
+        "minefanta.net"
+    ],
+    "primaryAddress": "minefanta.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#F4A261",
+    "secondaryColor": "#ffffff",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "store": "https://minefanta.tebex.io/",
+    "socials": {
+        "discord": "https://discord.gg/gxmGCqwryU"
+    }
+}

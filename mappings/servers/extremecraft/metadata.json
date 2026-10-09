@@ -1,0 +1,32 @@
+{
+    "id": "extremecraft",
+    "name": "Extreme Craft",
+    "addresses": [
+        "extremecraft.net"
+    ],
+    "primaryAddress": "play.extremecraft.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e55771",
+    "secondaryColor": "#d8d8d8",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "SkyBlock",
+        "Factions"
+    ],
+    "website": "https://www.extremecraft.net/",
+    "store": "https://www.extremecraft.net/store/",
+    "socials": {
+        "discord": "https://discord.com/invite/bhZKakC",
+        "youtube": "ExtremeCraftOfficial",
+        "instagram": "extremecraftofficial",
+        "reddit": "extremecraft"
+    }
+}

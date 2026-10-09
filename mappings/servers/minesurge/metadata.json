@@ -1,0 +1,28 @@
+{
+    "id": "minesurge",
+    "name": "MineSurge Network",
+    "addresses": [
+        "minesurge.org"
+    ],
+    "primaryAddress": "play.minesurge.org",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#de9e14",
+    "secondaryColor": "#3b3437",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Factions",
+        "Prison",
+        "SkyBlock"
+    ],
+    "website": "https://minesurge.org/",
+    "store": "https://store.minesurge.org/",
+    "socials": {
+        "discord": "https://discord.com/invite/Pm92xEDPWq"
+    }
+}

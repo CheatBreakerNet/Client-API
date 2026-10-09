@@ -1,0 +1,33 @@
+{
+    "id": "xanthacraftnetwork",
+    "name": "XanthaCraft Network",
+    "description": "Experience A Multiplayer Server Like Never Before.",
+    "addresses": [
+        "xanthacraft.net"
+    ],
+    "primaryAddress": "play.xanthacraft.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ab15da",
+    "secondaryColor": "#fce63f",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Factions"
+    ],
+    "store": "https://store.xanthacraft.com/",
+    "socials": {
+        "discord": "https://discord.com/invite/72qFrcHsBj",
+        "youtube": "@XanthaCraftNetwork"
+    }
+}

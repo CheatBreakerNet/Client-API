@@ -1,0 +1,22 @@
+{
+    "id": "tempusgod",
+    "name": "TempusGod",
+    "description": "Latin American Factions & PvP Minecraft Server",
+    "addresses": [
+        "tempusgod.net"
+    ],
+    "primaryAddress": "play.tempusgod.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFFFFF",
+    "secondaryColor": "#000000",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "Factions"
+    ]
+}

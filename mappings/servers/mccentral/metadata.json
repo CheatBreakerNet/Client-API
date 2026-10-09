@@ -1,0 +1,34 @@
+{
+    "id": "mccentral",
+    "name": "Minecraft Central",
+    "addresses": [
+        "mccentral.org",
+        "mc-central.net"
+    ],
+    "primaryAddress": "mccentral.org",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e3b34a",
+    "secondaryColor": "#1a1c20",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "SkyBlock",
+        "Prison"
+    ],
+    "website": "https://mccentral.org/",
+    "store": "https://buy.mccentral.org/",
+    "socials": {
+        "twitter": "_mccentral",
+        "discord": "https://discord.com/invite/9jzwQDQ",
+        "youtube": "UCMjWosxS3lQY5JhwcvnoHWw",
+        "instagram": "mccentral_official",
+        "tiktok": "@mccentral_official",
+        "facebook": "mccentral.official"
+    }
+}

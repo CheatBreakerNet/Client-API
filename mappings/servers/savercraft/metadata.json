@@ -1,0 +1,28 @@
+{
+    "id": "savercraft",
+    "name": "Savercraft",
+    "description": "Experience survival gameplay on Savercraft.",
+    "addresses": [
+        "savercraft.net"
+    ],
+    "primaryAddress": "play.savercraft.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#3cdedf",
+    "secondaryColor": "#1e2428",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "website": "https://www.savercraft.net/",
+    "store": "https://store.savercraft.net/",
+    "socials": {
+        "discord": "https://discord.com/invite/savercraft",
+        "youtube": "UCXCt6kt5GelxDZoMc8_73tg"
+    }
+}

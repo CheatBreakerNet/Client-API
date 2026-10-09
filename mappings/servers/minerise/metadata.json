@@ -1,0 +1,33 @@
+{
+    "id": "minerise",
+    "name": "MineRise",
+    "description": "Play Skyblock, Factions, and more on MineRise.",
+    "addresses": [
+        "minerise.net"
+    ],
+    "primaryAddress": "play.minerise.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fe3e29",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "tr",
+    "languages": [
+        "tr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "SkyBlock",
+        "Factions",
+        "Survival"
+    ],
+    "website": "https://minerise.net/",
+    "store": "https://minerise.net/store",
+    "socials": {
+        "discord": "https://discord.gg/minerise"
+    }
+}

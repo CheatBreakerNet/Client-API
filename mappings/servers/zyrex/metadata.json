@@ -1,0 +1,30 @@
+{
+    "id": "zyrex",
+    "name": "Zyrex Network",
+    "description": "An SurvivalOP competitive server.",
+    "addresses": [
+        "zyrex.lat"
+    ],
+    "primaryAddress": "zyrex.lat",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#AA00AA",
+    "secondaryColor": "#FF55FF",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "store": "https://tienda.zyrex.lat/",
+    "socials": {
+        "discord": "https://discord.gg/DyTvzpj3mr"
+    }
+}

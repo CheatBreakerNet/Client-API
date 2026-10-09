@@ -1,0 +1,31 @@
+{
+    "id": "pokefind",
+    "name": "PokeFind",
+    "description": "Play Survival and Skyblock on PokeFind.",
+    "addresses": [
+        "pokefind.co"
+    ],
+    "primaryAddress": "play.pokefind.co",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#a3d39c",
+    "secondaryColor": "#ed4d63",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "SkyBlock"
+    ],
+    "website": "https://www.pokefind.co/",
+    "store": "https://store.pokefind.co/",
+    "socials": {
+        "twitter": "PokeFindMC",
+        "discord": "https://discord.com/invite/pokefind",
+        "instagram": "pokegofind",
+        "facebook": "realPokeFind"
+    }
+}

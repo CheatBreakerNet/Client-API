@@ -1,0 +1,31 @@
+{
+    "id": "minigamesdcl",
+    "name": "MINIGAMESDCl NETWORK",
+    "description": "You can play Capture the wool with your friends!",
+    "addresses": [
+        "minigamesdcl.lat"
+    ],
+    "primaryAddress": "minigamesdcl.lat",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f0ec00",
+    "secondaryColor": "#f00000",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://minigamesdcl.lat",
+    "socials": {
+        "discord": "https://discord.gg/3EEsmua79C"
+    }
+}

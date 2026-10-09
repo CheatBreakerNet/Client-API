@@ -1,0 +1,31 @@
+{
+    "id": "runith",
+    "name": "Runith",
+    "description": "Play Prison and PvP on Runith.",
+    "addresses": [
+        "runith.net"
+    ],
+    "primaryAddress": "play.runith.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#3291C0",
+    "secondaryColor": "#ffffff",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Prison",
+        "PvP"
+    ],
+    "website": "https://www.runith.net/",
+    "store": "https://store.runith.net",
+    "socials": {
+        "discord": "https://discord.gg/D5AUrM9Bq8",
+        "twitter": "runithmc",
+        "tiktok": "@runithmc"
+    }
+}

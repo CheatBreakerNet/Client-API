@@ -1,0 +1,28 @@
+{
+    "id": "chromepvp",
+    "name": "ChromePvP",
+    "description": "Play Factions and PvP on ChromePvP.",
+    "addresses": [
+        "chromepvp.fr"
+    ],
+    "primaryAddress": "play.chromepvp.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#cfcfcf",
+    "secondaryColor": "#434343",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "website": "https://chromepvp.fr/",
+    "store": "https://chromepvp.fr/shop",
+    "socials": {
+        "discord": "https://discord.gg/6AJKqX6MJX"
+    }
+}

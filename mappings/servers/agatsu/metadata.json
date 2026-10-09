@@ -1,0 +1,30 @@
+{
+    "id": "agatsu",
+    "name": "AgatsuCraft Network",
+    "description": "An PrisonOP competitive server.",
+    "addresses": [
+        "agatsucraft.com"
+    ],
+    "primaryAddress": "agatsucraft.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#640001",
+    "secondaryColor": "#640139",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Prison"
+    ],
+    "store": "https://shop.agatsucraft.com",
+    "socials": {
+        "discord": "https://discord.gg/agatsucraft"
+    }
+}

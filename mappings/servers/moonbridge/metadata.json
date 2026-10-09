@@ -1,0 +1,26 @@
+{
+    "id": "moonbridge",
+    "name": "MoonBridge",
+    "description": "Play Minigames and PvP on MoonBridge.",
+    "addresses": [
+        "moonbridge.fun"
+    ],
+    "primaryAddress": "moonbridge.fun",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00c5ff",
+    "secondaryColor": "#000000",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/vCBZPu75sh"
+    }
+}

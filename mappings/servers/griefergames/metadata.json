@@ -1,0 +1,33 @@
+{
+    "id": "griefergames",
+    "name": "GrieferGames",
+    "description": "Play Creative, Skyblock, and more on GrieferGames.",
+    "addresses": [
+        "griefergames.net"
+    ],
+    "primaryAddress": "griefergames.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f68900",
+    "secondaryColor": "#694542",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Creative",
+        "SkyBlock",
+        "Survival"
+    ],
+    "website": "https://griefergames.de/",
+    "store": "https://store.griefergames.net/",
+    "socials": {
+        "discord": "https://discord.com/invite/abge",
+        "youtube": "AbgegrieftHD",
+        "instagram": "griefergamesnw",
+        "facebook": "GrieferGamesNW",
+        "twitter": "GrieferGamesNW"
+    }
+}

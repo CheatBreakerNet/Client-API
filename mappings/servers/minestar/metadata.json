@@ -1,0 +1,32 @@
+{
+    "id": "minestar",
+    "name": "MineStar",
+    "description": "Play Minigames, PvP, and more on MineStar.",
+    "addresses": [
+        "minestar.pl",
+        "minestar.gg"
+    ],
+    "primaryAddress": "minestar.pl",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffc10c",
+    "secondaryColor": "#3f241a",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Survival"
+    ],
+    "website": "https://minestar.pl/",
+    "store": "https://minestar.pl/shop",
+    "socials": {
+        "discord": "https://discord.com/invite/V7MEnGJdWM",
+        "tiktok": "@minestar.pl",
+        "facebook": "minestarpl"
+    }
+}

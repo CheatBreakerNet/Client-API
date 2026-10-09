@@ -1,0 +1,32 @@
+{
+    "id": "minemora",
+    "name": "Minemora",
+    "description": "Play Minigames, PvP, and more on Minemora.",
+    "addresses": [
+        "minemora.net"
+    ],
+    "primaryAddress": "mc.minemora.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#54d9f1",
+    "secondaryColor": "#e62be4",
+    "primaryRegion": "SA",
+    "regions": [
+        "NA",
+        "SA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "website": "http://www.minemora.net/",
+    "store": "https://tienda.minemora.net/",
+    "socials": {
+        "twitter": "Minemora_net",
+        "discord": "https://discord.gg/minemora",
+        "facebook": "MinemoraNetwork"
+    }
+}

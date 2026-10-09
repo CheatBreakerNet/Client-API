@@ -1,0 +1,38 @@
+{
+    "id": "pvptemple",
+    "name": "PvPTemple",
+    "description": "Play PvP, HCF, and more on PvPTemple.",
+    "addresses": [
+        "pvptemple.net",
+        "teamunit.de",
+        "teamunit.net"
+    ],
+    "primaryAddress": "pvptemple.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffa500",
+    "secondaryColor": "#ffff00",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "HCF",
+        "UHC"
+    ],
+    "website": "https://pvptemple.net/",
+    "store": "https://store.pvptemple.net/",
+    "socials": {
+        "twitter": "ThePvPTemple",
+        "twitch": "ThePvPTemple",
+        "discord": "https://discord.gg/pvptemple"
+    }
+}

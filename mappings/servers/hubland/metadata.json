@@ -1,0 +1,27 @@
+{
+    "id": "hubland",
+    "name": "Hubland Network",
+    "description": "Play PvP and Survival on Hubland Network.",
+    "addresses": [
+        "hubland.gg"
+    ],
+    "primaryAddress": "mc.hubland.gg",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#51a18d",
+    "secondaryColor": "#FFFFFF",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "store": "https://store.hubland.gg/",
+    "socials": {
+        "discord": "https://discord.gg/hMrMpKvgjB"
+    }
+}

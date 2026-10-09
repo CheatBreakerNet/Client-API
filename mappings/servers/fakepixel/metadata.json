@@ -1,0 +1,30 @@
+{
+    "id": "fakepixel",
+    "name": "Fakepixel Network",
+    "description": "Play Skyblock, PvP, and more on Fakepixel Network.",
+    "addresses": [
+        "fakepixel.fun"
+    ],
+    "primaryAddress": "fakepixel.fun",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f7bf20",
+    "secondaryColor": "#232a28",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "SkyBlock",
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://fakepixel.fun/",
+    "store": "https://world.fakepixel.shop",
+    "socials": {
+        "discord": "https://discord.com/invite/fakepixel",
+        "youtube": "https://www.youtube.com/@FakepixelServer"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "skittlemc",
+    "name": "SkittleMC",
+    "description": "Play Survival and Roleplay on SkittleMC.",
+    "addresses": [
+        "skittlemc.org"
+    ],
+    "primaryAddress": "skittlemc.org",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#efd8d9",
+    "secondaryColor": "#c0162c",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Roleplay"
+    ],
+    "store": "https://buy.skittlemc.com/",
+    "socials": {
+        "twitter": "SkittleSocial",
+        "discord": "https://discord.com/invite/wUHky5pM2J"
+    }
+}

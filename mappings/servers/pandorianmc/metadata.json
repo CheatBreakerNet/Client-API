@@ -1,0 +1,24 @@
+{
+    "id": "pandorianmc",
+    "name": "PandorianMC",
+    "description": "Pandorian was launched on the 22nd September 2021.",
+    "addresses": [
+        "pandorianmc.net"
+    ],
+    "primaryAddress": "play.pandorianmc.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00a1fe",
+    "secondaryColor": "#000101",
+    "gameTypes": [
+        "SkyBlock"
+    ],
+    "website": "https://www.pandorianmc.net/",
+    "store": "https://store.pandorianmc.net/",
+    "socials": {
+        "twitter": "PandorianMC",
+        "discord": "https://discord.com/invite/KYX29wBhdP"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "bedcraftmc",
+    "name": "BedCraftMC",
+    "addresses": [
+        "bedcraftmc.eu"
+    ],
+    "primaryAddress": "bedcraftmc.eu",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#4252ff",
+    "secondaryColor": "#dfe1f7",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "de",
+        "fr",
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Survival"
+    ],
+    "store": "https://store.bedcraftmc.eu/",
+    "socials": {
+        "discord": "https://discord.gg/bedcraftmc"
+    }
+}

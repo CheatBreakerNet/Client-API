@@ -3,7 +3,8 @@
     "name": "Craftok",
     "description": "The French minigames server",
     "addresses": [
-        "craftok.fr"
+        "craftok.fr",
+        "crafttok.fr"
     ],
     "primaryAddress": "play.craftok.fr",
     "minecraftVersions": [
@@ -30,6 +31,8 @@
     "socials": {
         "twitter": "CraftokMC",
         "discord": "https://discord.com/invite/craftok",
-        "youtube": "UCtUCnFBwGU-9SImfG-R2SvA"
+        "youtube": "UCtUCnFBwGU-9SImfG-R2SvA",
+        "instagram": "craftokmc",
+        "tiktok": "@craftokmc"
     }
 }

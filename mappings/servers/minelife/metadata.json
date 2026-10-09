@@ -1,0 +1,29 @@
+{
+    "id": "minelife",
+    "name": "Minelife",
+    "description": "Minelife is an international Minecraft server.",
+    "addresses": [
+        "minelife.eu"
+    ],
+    "primaryAddress": "play.minelife.eu",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e9b600",
+    "secondaryColor": "#372826",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Prison",
+        "Survival",
+        "SkyBlock"
+    ],
+    "website": "https://minelife.eu/",
+    "store": "https://store.minelife.eu/",
+    "socials": {
+        "discord": "https://discord.com/invite/FAQTVHH"
+    }
+}

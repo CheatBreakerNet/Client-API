@@ -1,0 +1,30 @@
+{
+    "id": "vanityempire",
+    "name": "VanityEmpire",
+    "description": "Play Creative and Survival on VanityEmpire.",
+    "addresses": [
+        "vanityempire.hu"
+    ],
+    "primaryAddress": "play.vanityempire.hu",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#8331cc",
+    "secondaryColor": "#c6b2b1",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Creative",
+        "Survival"
+    ],
+    "website": "https://vanityempire.hu/",
+    "socials": {
+        "discord": "https://discord.com/invite/vanityempire",
+        "instagram": "vanityempire.hu",
+        "tiktok": "@vanityempire",
+        "facebook": "vanityempirehu"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": "ecloriamc",
+    "name": "EcloriaMC",
+    "description": "Minigames Server 1.8+",
+    "addresses": [
+        "ecloria.eu"
+    ],
+    "primaryAddress": "play.ecloria.eu",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff8b00",
+    "secondaryColor": "#ffe300",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://ecloriamc.inovaperf.me/",
+    "store": "https://ecloriamc.inovaperf.me/shop",
+    "socials": {
+        "discord": "https://discord.gg/qYHDuhRQZq"
+    }
+}

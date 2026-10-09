@@ -1,0 +1,26 @@
+{
+    "id": "minetop",
+    "name": "MineTop",
+    "description": "Experience survival gameplay on MineTop.",
+    "addresses": [
+        "minetop.fun"
+    ],
+    "primaryAddress": "play.minetop.fun",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#42c8f5",
+    "secondaryColor": "#2289ab",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "store": "https://store.minetop.fun/",
+    "socials": {
+        "discord": "https://discord.com/invite/mine-top"
+    }
+}

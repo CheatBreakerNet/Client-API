@@ -1,0 +1,30 @@
+{
+    "id": "blockmania",
+    "name": "BlockMania",
+    "description": "Play Parkour and PvP on BlockMania.",
+    "addresses": [
+        "blockmania.com",
+        "ezpvp.com",
+        "easypvp.com"
+    ],
+    "primaryAddress": "blockmania.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00a1e7",
+    "secondaryColor": "#98d8e9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Parkour",
+        "PvP"
+    ],
+    "store": "http://shop.blockmania.com",
+    "socials": {
+        "discord": "https://discord.gg/GkqBP5J",
+        "twitter": "Block_Mania"
+    }
+}

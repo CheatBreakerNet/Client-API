@@ -1,0 +1,30 @@
+{
+    "id": "meteorcraft",
+    "name": "Meteorcraft",
+    "addresses": [
+        "meteorcraft.net"
+    ],
+    "primaryAddress": "play.meteorcraft.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#EF423A",
+    "secondaryColor": "#E0352E",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "SkyBlock",
+        "Adventure"
+    ],
+    "website": "https://meteorcraft.net/",
+    "store": "https://store.meteorcraft.net/",
+    "socials": {
+        "discord": "https://discord.gg/T7C4Aksbyc",
+        "tiktok": "@play.meteorcraft.net",
+        "twitter": "@meteorcraftt"
+    }
+}

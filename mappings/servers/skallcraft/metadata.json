@@ -1,0 +1,34 @@
+{
+    "id": "skallcraft",
+    "name": "SkallCraft",
+    "description": "Competitive and friendly server.",
+    "addresses": [
+        "skallcraft.com"
+    ],
+    "primaryAddress": "play.skallcraft.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#03adfc",
+    "secondaryColor": "#166dc9",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "Prison"
+    ],
+    "website": "https://www.skallcraft.com/",
+    "store": "https://store.skallcraft.com/",
+    "socials": {
+        "twitter": "SkallCraftNW",
+        "discord": "https://discord.gg/8wB7jHDJZs"
+    }
+}

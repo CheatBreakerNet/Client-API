@@ -1,0 +1,31 @@
+{
+    "id": "dirtopia",
+    "name": "Dirtopia.PL MiniGames",
+    "description": "Dirtopia.PL - Polish MiniGames server",
+    "addresses": [
+        "dirtopia.pl"
+    ],
+    "primaryAddress": "play.dirtopia.pl",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e09b2b",
+    "secondaryColor": "#34ab16",
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "store": "https://dirtopia.pl/shop/doladowania",
+    "socials": {
+        "discord": "https://discord.com/invite/zUesu7cbGX"
+    }
+}

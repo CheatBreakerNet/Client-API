@@ -1,0 +1,28 @@
+{
+    "id": "hexoria",
+    "name": "Hexoria Network",
+    "description": "Play Minigames and PvP on Hexoria Network.",
+    "addresses": [
+        "hexoria.club"
+    ],
+    "primaryAddress": "play.hexoria.club",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#44a48a",
+    "secondaryColor": "#032427",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://store.hexoria.club/",
+    "store": "https://store.hexoria.club/",
+    "socials": {
+        "discord": "https://discord.gg/PSaBSwEBEw"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "teamholy",
+    "name": "TeamHoly",
+    "description": "Play Minigames and PvP on TeamHoly.",
+    "addresses": [
+        "teamholy.de",
+        "teamholy.net"
+    ],
+    "primaryAddress": "teamholy.de",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFA500",
+    "secondaryColor": "#FBE870",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://www.teamholy.de/",
+    "store": "https://shop.teamholy.de/",
+    "socials": {
+        "twitter": "teamholymc",
+        "discord": "https://discord.com/invite/PhTXEaA6je",
+        "youtube": "teamholyde",
+        "instagram": "teamholymc",
+        "tiktok": "teamholyde"
+    }
+}

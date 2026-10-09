@@ -1,0 +1,38 @@
+{
+    "id": "minespazio",
+    "name": "MineSpazio Network",
+    "addresses": [
+        "minespazio.com",
+        "epicserver.biz",
+        "minespazio.es",
+        "minespazio.net"
+    ],
+    "primaryAddress": "minespazio.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffc12e",
+    "secondaryColor": "#7b431d",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Prison"
+    ],
+    "store": "https://tienda.minespazio.com/",
+    "socials": {
+        "twitter": "MinespazioNT",
+        "discord": "https://discord.com/invite/tWNe7vkwaE",
+        "youtube": "UCe8TFqy23ReYse_wswjdGoA",
+        "tiktok": "@minespazio",
+        "instagram": "minespazio_oficial"
+    }
+}

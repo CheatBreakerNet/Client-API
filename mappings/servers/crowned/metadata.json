@@ -1,0 +1,31 @@
+{
+    "id": "crowned",
+    "name": "Crowned",
+    "description": "Play Survival, Skyblock, and more on Crowned.",
+    "addresses": [
+        "crowned.ro"
+    ],
+    "primaryAddress": "mc.crowned.ro",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#7b4900",
+    "secondaryColor": "#394246",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "SkyBlock",
+        "Minigames"
+    ],
+    "website": "https://www.crowned.ro/",
+    "store": "https://store.crowned.ro/",
+    "socials": {
+        "discord": "https://discord.com/invite/FHbuJ8rWP2",
+        "youtube": "CrownedRomania",
+        "tiktok": "@crowned.ro"
+    }
+}

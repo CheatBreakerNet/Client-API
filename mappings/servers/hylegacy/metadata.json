@@ -1,0 +1,29 @@
+{
+    "id": "hylegacy",
+    "name": "HyLegacy",
+    "description": "Play Survival and Skyblock on HyLegacy.",
+    "addresses": [
+        "hylegacy.com"
+    ],
+    "primaryAddress": "hylegacy.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#24F117",
+    "secondaryColor": "#A4D42D",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "SkyBlock"
+    ],
+    "website": "https://hylegacy.com/",
+    "store": "https://tienda.hylegacy.com/",
+    "socials": {
+        "discord": "https://discord.gg/aR273E7427"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "id": "kingmc",
+    "name": "KingMC",
+    "description": "Play PvP and Survival on KingMC.",
+    "addresses": [
+        "kingmc.pl"
+    ],
+    "primaryAddress": "kingmc.pl",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f7cf36",
+    "secondaryColor": "#9f1c14",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "website": "https://kingmc.pl/",
+    "store": "https://kingmc.pl/shop#tryby",
+    "socials": {
+        "discord": "https://discord.com/invite/9TbPj7kQd3"
+    }
+}

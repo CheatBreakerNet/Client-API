@@ -1,0 +1,27 @@
+{
+    "id": "voyagemc",
+    "name": "VoyageMC",
+    "addresses": [
+        "voyagemc.net"
+    ],
+    "primaryAddress": "play.voyagemc.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#2D9CDB",
+    "secondaryColor": "#F2A93B",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Prison",
+        "SkyBlock",
+        "Survival"
+    ],
+    "store": "https://store.voyagemc.net/",
+    "socials": {
+        "discord": "https://discord.gg/voyagemc"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "atlasuhc",
+    "name": "Atlas",
+    "addresses": [
+        "atlasmc.fr"
+    ],
+    "primaryAddress": "play.atlasmc.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FDE658",
+    "secondaryColor": "#44C9EE",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr",
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "UHC",
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://atlasmc.fr/",
+    "store": "https://atlasmc.fr/shop",
+    "socials": {
+        "discord": "https://discord.gg/atlasmc",
+        "twitter": "UHC_Atlas",
+        "youtube": "@AtlasUHC",
+        "tiktok": "@atlasuhc"
+    }
+}

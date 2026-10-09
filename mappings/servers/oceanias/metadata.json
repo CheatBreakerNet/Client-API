@@ -1,0 +1,39 @@
+{
+    "id": "oceanias",
+    "name": "Oceanias",
+    "addresses": [
+        "oceanias.net",
+        "nightlymc.com",
+        "abcdefghijklmnopqrstuvwxyzyxwvutsrqponmlkjihgfedcbabcdefghijklm.xyz"
+    ],
+    "primaryAddress": "play.oceanias.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#BF00FF",
+    "secondaryColor": "#9400FF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "OC",
+    "regions": [
+        "OC"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC",
+        "Survival"
+    ],
+    "store": "https://store.oceanias.net",
+    "socials": {
+        "twitter": "oceaniasnetwork",
+        "discord": "https://discord.com/invite/YP3qGFP2nf",
+        "youtube": "@webceanias",
+        "reddit": "oceanias",
+        "tiktok": "@oceanias"
+    },
+    "website": "https://www.oceanias.gg"
+}

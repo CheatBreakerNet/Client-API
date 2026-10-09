@@ -1,0 +1,31 @@
+{
+    "id": "gravitymc",
+    "name": "GravityMC",
+    "addresses": [
+        "gravitymc.it"
+    ],
+    "primaryAddress": "play.gravitymc.it",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#8500ff",
+    "secondaryColor": "#c200ff",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://www.gravitymc.it/",
+    "store": "https://store.gravitymc.it/",
+    "socials": {
+        "discord": "https://discord.gg/SyqYtGJVmD"
+    }
+}

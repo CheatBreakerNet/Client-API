@@ -1,0 +1,26 @@
+{
+    "id": "mineclyde",
+    "name": "Mineclyde",
+    "description": "Play Factions, HCF, and more on Mineclyde.",
+    "addresses": [
+        "mineclyde.com"
+    ],
+    "primaryAddress": "play.mineclyde.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#55FFFF",
+    "secondaryColor": "#00AAAA",
+    "gameTypes": [
+        "Factions",
+        "HCF",
+        "SkyBlock"
+    ],
+    "website": "https://mineclyde.com/",
+    "store": "https://store.mineclyde.com/",
+    "socials": {
+        "twitter": "PlayMineclyde",
+        "discord": "https://discord.com/invite/mineclyde"
+    }
+}

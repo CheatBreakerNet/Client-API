@@ -1,0 +1,35 @@
+{
+    "id": "quttornetwork",
+    "name": "Quttor Network",
+    "description": "Australia's Greatest Network For Free!",
+    "addresses": [
+        "quttor.net"
+    ],
+    "primaryAddress": "mc.quttor.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#131b4c",
+    "secondaryColor": "#6ac3e7",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "OC",
+    "regions": [
+        "NA",
+        "OC"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Survival",
+        "SkyBlock"
+    ],
+    "website": "https://www.quttor.net",
+    "store": "https://store.quttor.net/",
+    "socials": {
+        "discord": "https://discord.com/invite/ZGqY9RHawp",
+        "youtube": "MCquttor"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "meteoritepvp",
+    "name": "MeteoritePvP",
+    "description": "One of the best quality factions server!",
+    "addresses": [
+        "meteoritepvp.com"
+    ],
+    "primaryAddress": "play.meteoritepvp.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00ffff",
+    "secondaryColor": "#ffd700",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "store": "https://buy.meteoritepvp.com/",
+    "socials": {
+        "discord": "https://discord.gg/hmmRFRyRY3"
+    }
+}

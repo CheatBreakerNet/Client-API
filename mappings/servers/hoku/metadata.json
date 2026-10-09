@@ -1,0 +1,33 @@
+{
+    "id": "hoku",
+    "name": "Hoku PvP",
+    "addresses": [
+        "hoku.rip"
+    ],
+    "primaryAddress": "hoku.rip",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#50be30",
+    "secondaryColor": "#00b213",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC"
+    ],
+    "website": "https://www.hoku.rip",
+    "store": "https://store.hoku.rip",
+    "socials": {
+        "discord": "https://discord.com/invite/b9742Jq9jM"
+    }
+}

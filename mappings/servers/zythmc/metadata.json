@@ -1,0 +1,39 @@
+{
+    "id": "zythmc",
+    "name": "ZythMC",
+    "description": "ZythMC is a Minecraft server dedicated to quality.",
+    "addresses": [
+        "zyth.me"
+    ],
+    "primaryAddress": "zyth.me",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#6000CF",
+    "secondaryColor": "#191919",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "AF",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Factions"
+    ],
+    "website": "https://zyth.me/",
+    "store": "https://zyth.me/store",
+    "socials": {
+        "twitter": "ZythMC",
+        "discord": "https://discord.com/invite/r6zjHawMsJ"
+    }
+}
