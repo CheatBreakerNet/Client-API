@@ -1,0 +1,30 @@
+{
+    "id": "pvphard",
+    "name": "PvPHard",
+    "description": "The best Practice server",
+    "addresses": [
+        "pvphard.live"
+    ],
+    "primaryAddress": "pvphard.live",
+    "minecraftVersions": [
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#421aff",
+    "secondaryColor": "#0210af",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "pt-BR"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/amD4fk3sjF"
+    }
+}
