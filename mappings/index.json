@@ -1389,6 +1389,38 @@
         "inactive": false
     },
     {
+        "id": "prisme",
+        "name": "Prisme",
+        "description": "Serveur PvP Practice 1.8 : Duels et FFA",
+        "addresses": [
+            "prisme.club"
+        ],
+        "primaryAddress": "prisme.club",
+        "minecraftVersions": [
+            "1.8.9",
+            "1.8"
+        ],
+        "primaryMinecraftVersion": "1.8.9",
+        "primaryColor": "#FF499C",
+        "secondaryColor": "#FFFFFF",
+        "primaryLanguage": "fr",
+        "languages": [
+            "fr"
+        ],
+        "primaryRegion": "EU",
+        "regions": [
+            "EU"
+        ],
+        "gameTypes": [
+            "PvP"
+        ],
+        "store": "https://store.prisme.club",
+        "socials": {
+            "discord": "https://discord.gg/prisme"
+        },
+        "inactive": false
+    },
+    {
         "id": "protocolnetwork",
         "name": "Protocol Network",
         "description": "Where the best players play",
