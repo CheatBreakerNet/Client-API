@@ -1315,6 +1315,44 @@
         "inactive": false
     },
     {
+        "id": "peakpvp",
+        "name": "PeakPvP",
+        "description": "1.8.9 Practice PvP: Ranked, Tier Tests, Bed Wars",
+        "addresses": [
+            "peakpvp.net"
+        ],
+        "primaryAddress": "peakpvp.net",
+        "minecraftVersions": [
+            "1.7.10",
+            "1.7",
+            "1.8.9",
+            "1.8"
+        ],
+        "primaryMinecraftVersion": "1.8.9",
+        "primaryColor": "#3B9BDF",
+        "secondaryColor": "#F8DC0B",
+        "primaryLanguage": "en",
+        "languages": [
+            "en"
+        ],
+        "primaryRegion": "NA",
+        "regions": [
+            "NA",
+            "EU",
+            "AS"
+        ],
+        "gameTypes": [
+            "PvP",
+            "Minigames",
+            "UHC"
+        ],
+        "store": "https://store.peakpvp.net",
+        "socials": {
+            "discord": "https://discord.gg/peakpvp"
+        },
+        "inactive": false
+    },
+    {
         "id": "pikanetwork",
         "name": "PikaNetwork",
         "description": "The home of cracked Minecraft players",
